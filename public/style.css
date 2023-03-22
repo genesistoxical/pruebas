@@ -1,0 +1,110 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 25px;
+  text-align: center;
+  margin-top: 12vh;
+  background: url("https://cdn.glitch.global/a10162e3-ee44-4c5c-b75e-a0b0a2a2da7b/Background.png?v=1678859725087");
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 45px;
+  color: hotpink;
+}
+
+p {
+  text-align: center;
+}
+
+form {
+  margin-bottom: 24px;
+  padding: 15px;
+  background-color: transparent;
+  display: inline-block;
+  width: 100%;
+  max-width: 340px;
+  border-radius: 3px;
+}
+
+input {
+  display: block;
+  margin-bottom: 10px;
+  padding: 10px;
+  width: 100%;
+  border: 1px solid lightgrey;
+  border-radius: 3px;
+  font-size: 16px;
+}
+
+button {
+  font-size: 16px;
+  border-radius: 3px;
+  background-color: hotpink;
+  color: white;
+  margin-top: 11px;
+  padding: 10px 20px 10px 20px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  border: 1px solid grey;
+  box-shadow: 2px 2px darkgrey;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: darkgrey;
+}
+
+button:active {
+  box-shadow: none;
+}
+
+footer {
+  margin-top: 50px;
+  padding-top: 25px;
+  font-size: 15px;
+}
+
+footer > a {
+  color: #bbbbbb;
+}
+
+#details-wait,
+#details-main {
+  font-size: 14px;
+  line-height: 18px;
+  color: #747474;
+}
+
+.loading-1 {
+  text-align: center;
+  color: lightgray;
+  font-weight: 800;
+  font-size: 33px;
+  margin: 0px auto -85px 65px;
+  transform: scale(-1, -1);
+}
+
+.loading-2 {
+  text-align: center;
+  color: hotpink;
+  font-weight: 800;
+  font-size: 23px;
+  margin: 45px auto 0px auto;
+}
+
+.loading-3 {
+  color: lightgray;
+  font-weight: 800;
+  font-size: 33px;
+  text-align: center;
+  margin: -38px 68px 0px auto;
+}
+
+#loading {
+  margin-bottom: 60px;
+  margin-top: 48px;
+}
