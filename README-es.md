@@ -28,7 +28,7 @@
 * Los iconos generados son de 16 píxeles pero incluyen tamaños de 16, 32, 48, 64, 128, 256 píxeles para un ícono de alta calidad.
 * Evita la duplicación de una imagen que se ha añadido previamente.
 * Opción para generar un icono mini.
-* Cambia el tamaño a 1:1 sin estirar la imagen.
+* Interfaz adaptable a w10, w11 (redondeada) o anteriores. ⁿᵘᵉᵛᵒ
 
 ## Previa
 <a href="#"><img src="docs/assets/Drop-Icons.gif"/></a>
@@ -86,33 +86,14 @@ TopMost = true
 
 >Nota: las dos opciones de tipo switch no se guardan porque no son opciones que suelan activarse todo el tiempo.
 
-En el archivo `Colors.dat` se guarda la paleta de colores personalizados.
+# Creditos
+Drop Icons está basado en [Iconizer](https://github.com/willnode/Iconizer) bajo [MIT License](https://github.com/willnode/Iconizer/blob/master/LICENSE).
 
-Drop Icons primero busca ambos archivos en la misma carpeta donde se ubica el ejecutable, así que, si tuvieras la versión portable e instalable, no habría problemas.
-
-Si no encuentra los archivos, eso significa decir que está instalado y buscará en *%AppData%\Drop Icons*
-
-## Controles
-Si necesitas agregar más o diferentes controles, haz clic derecho en cualquier parte del Cuadro de herramientas, cliquea en Agregar pestaña y escribe *AltoControls*.
-
-Da clic derecho en cualquier lugar dentro de la pestaña que creaste, cliquea en `Elegir elementos...` y selecciona **Componentes de .NET Framework**. Ahora desde `Examinar...` agrega **AltoControls.dll** que se ubica en la carpeta Lib y por último Aceptar.
-
-## Creditos
-Drop Icons está basado en [Iconizer](https://github.com/willnode/Iconizer) bajo [MIT License](https://github.com/willnode/Iconizer/blob/master/LICENSE), y como un reconocimiento, mantiene un archivo con ese nombre.
-
-Incluye una version compilada de [AltoControls](https://github.com/aalitor/AltoControls) bajo [MIT License](https://github.com/aalitor/AltoControls/blob/on-development/license.txt), con dos archivos modificados:
-* **SlideButton**: Borde y colores para darle un estilo aún más moderno.
-* **AltoButton**: Reemplazo de DrawString con una Label, para que detecte la fuente utilizada sin estar instalada.
-
-*Puedes encontrar los archivos modificados [aquí](https://github.com/genesistoxical/modified-files/tree/main/AltoControls).*
-~~~
-SwitchButton.cs
-AltoButton.cs
-~~~
+[HandyControls](https://github.com/ghost1372/HandyControls) bajo [MIT License](https://github.com/ghost1372/HandyControls/blob/develop/LICENSE).
 
 [FolderBrowserEx](https://github.com/evaristocuesta/FolderBrowserEx) library bajo [MIT License](https://github.com/evaristocuesta/FolderBrowserEx/blob/master/LICENSE).
 
-Contiene toda la familia de [Noto Sans](https://fonts.google.com/noto/specimen/Noto+Sans) bajo [SIL Open Font License](#), aunque solo utiliza la versión Regular.
+[Noto Music](https://fonts.google.com/noto/specimen/Noto+Music) bajo [SIL Open Font License](#).
 
 Los iconos son parte de [Teenyicons](https://github.com/teenyicons/teenyicons) bajo [MIT License](https://github.com/teenyicons/teenyicons/blob/master/LICENSE).
 

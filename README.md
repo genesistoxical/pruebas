@@ -28,7 +28,7 @@
 * Generated icons are 16px but include 16, 32, 48, 64, 128, 256 pixel sizes for a high quality icon.
 * Prevents duplication of an image that has been previously added.
 * Option to generate tiny icon.
-* Resize to 1:1 without stretching the image.
+* Interface adaptable to w10, w11 (rounded) or earlier. ⁿᵉʷ
 
 ## Preview
 <a href="#"><img src="docs/assets/Drop-Icons.gif"/></a>
@@ -87,33 +87,14 @@ TopMost = true
 
 >Note: The two switch-type options are not saved because they are not options that are typically activated all the time.
 
-The custom color palette is saved in the `Colors.dat` file.
-
-Drop Icons first looks for both files in the same folder where the executable is located, so if you had the portable and installable version, there would be no problem.
-
-If it doesn't find the files, that means it's installed and will look in *%AppData%\Drop Icons*
-
-## Controls
-If you need to add more or different controls, right-click anywhere in the Toolbox, select Add Tab and type *AltoControls*.
-
-Right-click anywhere inside the tab you created, click `Choose Items...` and select **.NET Framework Components**. Now from `Browse...`, add **AltoControls.dll** which is located in the Lib folder and finally OK.
-
 ## Credits
-Drop Icons is based on [Iconizer](https://github.com/willnode/Iconizer) under [MIT License](https://github.com/willnode/Iconizer/blob/master/LICENSE), and as an acknowledgment, it keeps a file with that name.
+Drop Icons is based on [Iconizer](https://github.com/willnode/Iconizer) under [MIT License](https://github.com/willnode/Iconizer/blob/master/LICENSE).
 
-Includes a compiled version of [AltoControls](https://github.com/aalitor/AltoControls) under [MIT License](https://github.com/aalitor/AltoControls/blob/on-development/license.txt), with two modified files:
-* **SlideButton**: Border and colors to give it an even more modern style.
-* **AltoButton**: Replacing DrawString with a Label, so that it would detect the font used without being installed.
-
-*You can find the modified files [here](https://github.com/genesistoxical/modified-files/tree/main/AltoControls).*
-~~~
-SwitchButton.cs
-AltoButton.cs
-~~~
+[HandyControls](https://github.com/ghost1372/HandyControls) under [MIT License](https://github.com/ghost1372/HandyControls/blob/develop/LICENSE).
 
 [FolderBrowserEx](https://github.com/evaristocuesta/FolderBrowserEx) library under [MIT License](https://github.com/evaristocuesta/FolderBrowserEx/blob/master/LICENSE).
 
-Contains the entire family of [Noto Sans](https://fonts.google.com/noto/specimen/Noto+Sans) under [SIL Open Font License](#), although it only uses the Regular version.
+[Noto Music](https://fonts.google.com/noto/specimen/Noto+Music) under [SIL Open Font License](#).
 
 Icons are part of [Teenyicons](https://github.com/teenyicons/teenyicons) under [MIT License](https://github.com/teenyicons/teenyicons/blob/master/LICENSE).
 

@@ -13,7 +13,6 @@ Drop Icons es una aplicación para convertir imágenes a iconos (.ico) para Wind
 * Los iconos generados son de 16 píxeles pero incluyen tamaños de 16, 32, 48, 64, 128, 256 píxeles para un ícono de alta calidad.
 * Evita la duplicación de una imagen que se ha añadido previamente.
 * Opción para generar un icono mini.
-* Cambia el tamaño a 1:1 sin estirar la imagen.
 
 ## Previa
 <a href="#"><img alt="Image to Ico" src="assets/Drop-Icons.gif"/></a>
@@ -43,12 +42,12 @@ Para elegir que Drop Icons esté encima de todas las ventanas (TopMost) o no, da
 <a href="#"><img src="assets/Drop-Icons-Options.gif"/></a>
 
 ## Info
-* Drop Icons está basado en [Iconizer](https://github.com/willnode/Iconizer){:target="_blank"}. Lee más creditos ([aquí](https://github.com/genesistoxical/drop-icons#credits){:target="_blank"}).
-* Este software se encuentra bajo **MIT License** ([leer licencia completa](https://github.com/genesistoxical/drop-icons/blob/master/LICENSE){:target="_blank"}).
+* Drop Icons está basado en [Iconizer](https://github.com/willnode/Iconizer){:target="_blank"}. Lee más creditos ([aquí](https://github.com/genesistoxical/release-prueba#credits){:target="_blank"}).
+* Este software se encuentra bajo **MIT License** ([leer licencia completa](https://github.com/genesistoxical/release-prueba/blob/master/LICENSE){:target="_blank"}).
 * Copyright (c) 2022 Génesis Toxical.
 <br>
 <style>
-    h2.project-tagline:before {content: "Aplicación para convertir imágenes en iconos ";}
+    h2.project-tagline:before {content: "Aplicación para convertir imagenes en iconos ";}
     a.btn:nth-child(3):after {content: "escargar Portable";}
     a.btn:nth-child(4):after {content: "escargar Instalable";}
 </style>
