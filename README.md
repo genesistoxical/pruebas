@@ -102,7 +102,7 @@ Drop Icons is based on [Iconizer](https://github.com/willnode/Iconizer) under [M
 
 ## What's new?
 
-Version 1.0.0 was created in Windows Forms, although Drop Icons will not continue to be developed with that technology, you can find and/or download the latest official version [winform-v1-final](https://github.com/genesistoxical/drop-icons/releases/tag/winform-v1-final). 
+Version 1.0.0 was created in Windows Forms, although Drop Icons will not continue to be developed with that technology, however you can still find and/or download the [winform-v1-final](https://github.com/genesistoxical/drop-icons/releases/tag/winform-v1-final). 
 
 Version 2.0.0 is developed with Windows Presentation Foundation (WPF) to create a much more modern interface with rounded edges if the operating system version requires it.
 
