@@ -5,7 +5,7 @@
 
 <p align="center">
  <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-9280FF?style=flat-square&labelColor=343B45"/></a>
- <a href="https://github.com/genesistoxical/drop-icons/releases/tag/1.0.0"><img src="https://img.shields.io/github/v/release/genesistoxical/drop-icons.svg?color=9280FF&label=Release&style=flat-square&labelColor=343B45"/></a>
+ <a href="https://github.com/genesistoxical/drop-icons/releases/tag/2.0.0"><img src="https://img.shields.io/github/v/release/genesistoxical/drop-icons.svg?color=9280FF&label=Release&style=flat-square&labelColor=343B45"/></a>
  <a href="#"><img alt="NET" src="https://img.shields.io/badge/.NET_Framework-4.8-9280FF?style=flat-square&labelColor=343B45"/></a> 
  <a href="/installer%20src"><img alt="Installer" src="https://img.shields.io/badge/Installer-ISS-9280FF?style=flat-square&labelColor=343B45"/></a>
  <a href="#"><img alt="Languages" src="https://img.shields.io/badge/Idiomas-2-9280FF?style=flat-square&labelColor=343B45"/></a>
@@ -28,7 +28,7 @@
 * Los iconos generados son de 16 píxeles pero incluyen tamaños de 16, 32, 48, 64, 128, 256 píxeles para un ícono de alta calidad.
 * Evita la duplicación de una imagen que se ha añadido previamente.
 * Opción para generar un icono mini.
-* Interfaz adaptable a w10, w11 (redondeada) o anteriores. ⁿᵘᵉᵛᵒ
+* Esquinas adaptables (redondeadas o simples), dependiendo la versión del sistema operativo. 🆕
 
 ## Previa
 <a href="#"><img src="docs/assets/Drop-Icons.gif"/></a>
@@ -48,7 +48,7 @@ Dando click en el botón superior de Info, aparecerá una nueva ventana en la qu
 
 - **Cambiar el tema:** En la parte inferior, clic sobre `Change Theme...` y elige tu color personalizado en la pequeña ventana que aparece, también puedes agregarlo a tus "colores personalizados" para usarlo después, luego selecciona Aceptar. Para regresar al que venía por defecto repite los pasos anteriores, elige uno de los tantos morados (o no elijas ningún color) y cliquea en Aceptar.
 
-- **Encontrar información sobre el contenido de terceros:** En la sección superior están los nombres de cada librería, proyecto, iconos o tipografías que fueron utilizados, al igual que Drop Icons. Cliquea en uno de ellos para leer su licencia, la cual incluye el autor(a) o autores(as). Puedes leer una corta descripción más abajo o hacer clic sobre el icono del enlace para ir al repositorio o sitio oficial.
+- **Encontrar información sobre el contenido de terceros:** En la sección izquierda están los nombres de cada librería, proyecto, iconos o tipografías que fueron utilizados, al igual que Drop Icons. Cliquea en uno de ellos para leer su licencia, la cual incluye el autor(a) o autores(as). Puedes leer una corta descripción más abajo o hacer clic sobre el icono del enlace para ir al repositorio o sitio oficial.
 
 <br>
 
@@ -60,7 +60,7 @@ Para elegir que Drop Icons esté encima de todas las ventanas (TopMost) o no, da
 ## Instalador
 Para compilar el instalador es necesario [Inno Setup](https://jrsoftware.org/isinfo.php), los archivos se encuentran en la carpeta [installer src](/installer%20src). Solo debes abrir el proyecto (Installer.iss) y compilarlo, a menos que desees hacer una modificación. Al finalizar, en la misma ubicación dejará una carpeta llamada Output.
 
-**Portable with 7zip.bat** permite comprimir en .zip rápidamente la versión portable y elimina archivos innecesarios. Únicamente funciona con [7zip](https://www.7-zip.org/).
+**Portable.bat** permite comprimir en .zip rápidamente la versión portable y elimina archivos innecesarios. Solo funciona en Windows 11 y 10.
 
 Ambos .iss y .bat obtienen los archivos que son necesarios dentro de su carpeta y/o la carpeta Release (debido a las rutas relativas).
 
@@ -89,11 +89,11 @@ TopMost = true
 # Creditos
 Drop Icons está basado en [Iconizer](https://github.com/willnode/Iconizer) bajo [MIT License](https://github.com/willnode/Iconizer/blob/master/LICENSE).
 
-[HandyControls](https://github.com/ghost1372/HandyControls) bajo [MIT License](https://github.com/ghost1372/HandyControls/blob/develop/LICENSE).
+* [HandyControls](https://github.com/ghost1372/HandyControls) bajo [MIT License](https://github.com/ghost1372/HandyControls/blob/develop/LICENSE).
 
-[FolderBrowserEx](https://github.com/evaristocuesta/FolderBrowserEx) library bajo [MIT License](https://github.com/evaristocuesta/FolderBrowserEx/blob/master/LICENSE).
+* [FolderBrowserEx](https://github.com/evaristocuesta/FolderBrowserEx) library bajo [MIT License](https://github.com/evaristocuesta/FolderBrowserEx/blob/master/LICENSE).
 
-[Noto Music](https://fonts.google.com/noto/specimen/Noto+Music) bajo [SIL Open Font License](#).
+* [Noto Music](https://fonts.google.com/noto/specimen/Noto+Music) bajo [SIL Open Font License](#).
 
 Los iconos son parte de [Teenyicons](https://github.com/teenyicons/teenyicons) bajo [MIT License](https://github.com/teenyicons/teenyicons/blob/master/LICENSE).
 
