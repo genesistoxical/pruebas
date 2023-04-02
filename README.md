@@ -102,7 +102,7 @@ Drop Icons is based on [Iconizer](https://github.com/willnode/Iconizer) under [M
 
 ## What's new?
 
-Version 1.0.0 was built on Windows Forms, although Drop Icons will no longer be developed using that technology, however you can still find and/or download the latest official version here: [winform-v1-final](https://github.com/ghost1372/HandyControls)
+Version 1.0.0 was built on Windows Forms, although Drop Icons will no longer be developed using that technology, however you can still find and/or download the latest official version here: [winforms-v1-final](winforms-v1-final)
 
 Version 2.0.0 is developed with Windows Presentation Foundation (WPF) to create an interface with responsive rounded corners, depending on the OS version. In this latest version the "About" window has been improved, as well as the theme color picker. It no longer includes the Colors.dat file because it is no longer needed.
 
