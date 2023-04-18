@@ -46,14 +46,14 @@ By clicking on the upper Info button, a new window will appear in which you can:
 
 - **Change language:** In the lower section that says Language, click on the little arrows icon to switch between Español or English, then click on the back button and it will restart with the language you have chosen.
 
-- **Change theme:** At the bottom, click on `Change Theme...` and choose your custom color in the small window that appears, you can also add it to your "custom colors" to use later, then select OK. To return to the default one, repeat the previous steps, choose one of the many purples (or don't choose any color) and click OK.
+- **Change theme:** At the bottom, click on `Change Theme...` and choose your custom color in the small window that appears (you can help with the color palette or type in a HEX color), then select Apply. To return to the default one, repeat the previous steps and click the purple button below the tone selector, finally press Apply.
 
 - **Find information about third-party content:** In the left section are the names of each library, project, icons or fonts that were used, as well as Drop Icons.
 Click on one of them to read its license, which includes the author(s). You can read a short description below or click on the link icon to go to the repository or official site.
 
 <br>
 
-To choose whether Drop Icons is on top of all windows (TopMost) or not, right-click anywhere in the main window and choose Enable TopMost or Disable TopMost.
+To choose whether Drop Icons is on top of all windows (TopMost) or not, right-click anywhere in the main window and choose Enable Topmost or Disable Topmost.
 
 ## Options
 <a href="#"><img src="docs/assets/Drop-Icons-Options.gif"/></a>
@@ -72,17 +72,14 @@ Both .iss and .bat get the files that are needed within their folder and/or the 
 * **Pull request** in English, in the description you can add details in English or Spanish.
 
 ## Config
-`Config.ini` file stores information about the language, theme color, and whether or not the TopMost option is enabled.
+`Config.ini` file stores information about the language, theme color, and whether or not the Topmost option is enabled.
 
 ~~~
-[Options]
 Language = en
-TopMost = true
+Topmost = true
 
 [Theme]
-146
-128
-255
+#FF9280FF
 ~~~
 
 >Note: The two switch-type options are not saved because they are not options that are typically activated all the time.
@@ -102,9 +99,15 @@ Drop Icons is based on [Iconizer](https://github.com/willnode/Iconizer) under [M
 
 ## What's new?
 
-Version 1.0.0 was built on Windows Forms, although Drop Icons will no longer be developed using that technology, however you can still find and/or download the latest official version here: [winforms-v1-final](winforms-v1-final)
+`Version 1.0.0` was built on Windows Forms. Drop Icons will no longer be developed using that technology, however you can still find and/or download the latest official version here:
+<br>
+🏷️ [winforms-v1-final](winforms-v1-final)
 
-Version 2.0.0 is developed with Windows Presentation Foundation (WPF) to create an interface with responsive rounded corners, depending on the OS version. In this latest version the "About" window has been improved, as well as the theme color picker. It no longer includes the Colors.dat file because it is no longer needed.
+<br>
+
+`Version 2.0.0` is developed with Windows Presentation Foundation (WPF) to create a sharper interface with responsive rounded corners, depending on the OS version. In this latest version the "About" window has been improved, as well as the theme color picker. It no longer includes the Colors.dat file because it is no longer needed.
+
+The Config.ini file has been modified to only use the theme color in HEX and not RGB. It no longer includes Colors.dat because now there is no option to save them, instead there is a color palette.
 
 ## License
 **MIT License**
