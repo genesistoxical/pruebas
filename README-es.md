@@ -84,7 +84,7 @@ Topmost = true
 
 >Nota: las dos opciones de tipo switch no se guardan porque no son opciones que suelan activarse todo el tiempo.
 
-## Esquinas Adaptables
+## Esquinas adaptables
 <a href="#"><img src="docs/assets/Drop-Icons-Options.gif"/></a>
 
 # Creditos
