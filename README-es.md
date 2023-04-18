@@ -52,7 +52,7 @@ Dando click en el botón superior de Info, aparecerá una nueva ventana en la qu
 
 <br>
 
-Para elegir que Drop Icons esté encima de todas las ventanas (TopMost) o no, da clic derecho en cualquier lugar de la ventana principal y elige Habilitar Topmost o Deshabilitar Topmost.
+Para elegir que Drop Icons esté encima de todas las ventanas (Topmost) o no, da clic derecho en cualquier lugar de la ventana principal y elige Habilitar Topmost o Deshabilitar Topmost.
 
 ## Opciones
 <a href="#"><img src="docs/assets/Drop-Icons-Options.gif"/></a>
