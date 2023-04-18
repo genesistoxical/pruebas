@@ -84,22 +84,6 @@ Topmost = true
 
 >Note: The two switch-type options are not saved because they are not options that are typically activated all the time.
 
-## Credits
-Drop Icons is based on [Iconizer](https://github.com/willnode/Iconizer) under [MIT License](https://github.com/willnode/Iconizer/blob/master/LICENSE).
-
-* [HandyControls](https://github.com/ghost1372/HandyControls) under [MIT License](https://github.com/ghost1372/HandyControls/blob/develop/LICENSE).
-
-* [FolderBrowserEx](https://github.com/evaristocuesta/FolderBrowserEx) library under [MIT License](https://github.com/evaristocuesta/FolderBrowserEx/blob/master/LICENSE).
-
-* [Noto Music](https://fonts.google.com/noto/specimen/Noto+Music) under [SIL Open Font License](https://github.com/genesistoxical/drop-icons#).
-
-* Icons are part of [Teenyicons](https://github.com/teenyicons/teenyicons) under [MIT License](https://github.com/teenyicons/teenyicons/blob/master/LICENSE).
-
-*You can find all licenses [here](/src/DropIcons/Docs).*
-
-## Corners
-<a href="#"><img src="docs/assets/Drop-Icons-Options.gif"/></a>
-
 ## What's new?
 
 `Version 1.0.0` was built on Windows Forms. Drop Icons will no longer be developed using that technology, however you can still find and/or download the latest official version here:
@@ -113,6 +97,22 @@ Drop Icons is based on [Iconizer](https://github.com/willnode/Iconizer) under [M
 In this latest version the "About" window has been improved, the Config.ini file has been modified to use only the theme color in HEX and not in RGB, also the color picker (for the theme) has been replaced for a much more modern one.
 
 Due to this last change, Colors.dat was removed since there is no button to save the custom ones, instead there is a color palette.
+
+## Corners
+<a href="#"><img src="docs/assets/Drop-Icons-Options.gif"/></a>
+
+## Credits
+Drop Icons is based on [Iconizer](https://github.com/willnode/Iconizer) under [MIT License](https://github.com/willnode/Iconizer/blob/master/LICENSE).
+
+* [HandyControls](https://github.com/ghost1372/HandyControls) under [MIT License](https://github.com/ghost1372/HandyControls/blob/develop/LICENSE).
+
+* [FolderBrowserEx](https://github.com/evaristocuesta/FolderBrowserEx) library under [MIT License](https://github.com/evaristocuesta/FolderBrowserEx/blob/master/LICENSE).
+
+* [Noto Music](https://fonts.google.com/noto/specimen/Noto+Music) under [SIL Open Font License](https://github.com/genesistoxical/drop-icons#).
+
+* Icons are part of [Teenyicons](https://github.com/teenyicons/teenyicons) under [MIT License](https://github.com/teenyicons/teenyicons/blob/master/LICENSE).
+
+*You can find all licenses [here](/src/DropIcons/Docs).*
 
 ## License
 **MIT License**
