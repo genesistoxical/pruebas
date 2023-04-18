@@ -85,7 +85,7 @@ Topmost = true
 >Note: The two switch-type options are not saved because they are not options that are typically activated all the time.
 
 ## Adaptive corners
-<a href="#"><img src="docs/assets/Drop-Icons-Options.gif"/></a>
+<a href="#"><img src="docs/assets/Drop-Icons-Corners.png"/></a>
 
 ## Credits
 Drop Icons is based on [Iconizer](https://github.com/willnode/Iconizer) under [MIT License](https://github.com/willnode/Iconizer/blob/master/LICENSE).
