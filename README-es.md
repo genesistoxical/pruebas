@@ -103,7 +103,7 @@ Los iconos son parte de [Teenyicons](https://github.com/teenyicons/teenyicons) b
 ## ¿Qué hay de nuevo?
 `Versión 1.0.0` se creó en Windows Forms. Drop Icons ya no se desarrollará con esa tecnología, sin embargo, todavía puedes encontrar y/o descargar la última versión oficial aquí:
 <br>
-🏷️ [winforms-v1-final](winforms-v1-final)
+🏷️ [winforms-v1-final](https://github.com/genesistoxical/drop-icons/tree/winforms-v1-final)
 
 <br>
 
