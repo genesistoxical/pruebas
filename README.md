@@ -84,7 +84,7 @@ Topmost = true
 
 >Note: The two switch-type options are not saved because they are not options that are typically activated all the time.
 
-## Adaptive Corners
+## Adaptive corners
 <a href="#"><img src="docs/assets/Drop-Icons-Options.gif"/></a>
 
 ## Credits
