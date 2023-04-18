@@ -65,6 +65,12 @@ To compile the installer you need [Inno Setup](https://jrsoftware.org/isinfo.php
 
 Both .iss and .bat get the files that are needed within their folder and/or the Release folder (because of relative paths).
 
+## Contributing
+* If you make comments in the code, preferably in Spanish, please.
+* Variable names must be in English.
+* If you open an **Issue**, it can be in English o Spanish.
+* **Pull request** in English, in the description you can add details in English or Spanish.
+
 ## Config
 `Config.ini` file stores information about the language, theme color, and whether or not the Topmost option is enabled.
 
@@ -77,15 +83,6 @@ Topmost = true
 ~~~
 
 >Note: The two switch-type options are not saved because they are not options that are typically activated all the time.
-
-## Corners
-<a href="#"><img src="docs/assets/Drop-Icons-Options.gif"/></a>
-
-## Contributing
-* If you make comments in the code, preferably in Spanish, please.
-* Variable names must be in English.
-* If you open an **Issue**, it can be in English o Spanish.
-* **Pull request** in English, in the description you can add details in English or Spanish.
 
 ## Credits
 Drop Icons is based on [Iconizer](https://github.com/willnode/Iconizer) under [MIT License](https://github.com/willnode/Iconizer/blob/master/LICENSE).
@@ -113,6 +110,9 @@ Drop Icons is based on [Iconizer](https://github.com/willnode/Iconizer) under [M
 In this latest version the "About" window has been improved, the Config.ini file has been modified to use only the theme color in HEX and not in RGB, also the color picker (for the theme) has been replaced for a much more modern one.
 
 Due to this last change, Colors.dat was removed since there is no button to save the custom ones, instead there is a color palette.
+
+## Corners
+<a href="#"><img src="docs/assets/Drop-Icons-Options.gif"/></a>
 
 ## License
 **MIT License**
