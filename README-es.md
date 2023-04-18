@@ -31,7 +31,7 @@
 * Esquinas adaptables (redondeadas o simples), dependiendo la versión del sistema operativo. 🆕
 
 ## Previa
-<a href="#"><img src="docs/assets/Drop-Icons.gif"/></a>
+<a href="#"><img src="docs/assets/Drop-Icons-v2.gif"/></a>
 
 ## Uso
 Arrastra y suelta tus imágenes en el espacio vacío, obtendrás una vista previa de tres imágenes, excepto si solo arrastras una o dos. Más abajo puedes ver la cantidad total de imágenes para convertir (restando tres de la previa). Si no puedes arrastrar, cliquea en `Agregar`.
@@ -55,7 +55,7 @@ Dando click en el botón superior de Info, aparecerá una nueva ventana en la qu
 Para elegir que Drop Icons esté encima de todas las ventanas (Topmost) o no, da clic derecho en cualquier lugar de la ventana principal y elige Habilitar Topmost o Deshabilitar Topmost.
 
 ## Opciones
-<a href="#"><img src="docs/assets/Drop-Icons-Options.gif"/></a>
+<a href="#"><img src="docs/assets/Drop-Icons-Options-v2.gif"/></a>
 
 ## Instalador
 Para compilar el instalador es necesario [Inno Setup](https://jrsoftware.org/isinfo.php), los archivos se encuentran en la carpeta [installer src](/installer%20src). Solo debes abrir el proyecto (Installer.iss) y compilarlo, a menos que desees hacer una modificación. Al finalizar, en la misma ubicación dejará una carpeta llamada Output.
