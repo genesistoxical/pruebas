@@ -85,7 +85,7 @@ Topmost = true
 >Nota: las dos opciones de tipo switch no se guardan porque no son opciones que suelan activarse todo el tiempo.
 
 ## Esquinas adaptables
-<a href="#"><img src="docs/assets/Drop-Icons-Options.gif"/></a>
+<a href="#"><img src="docs/assets/Drop-Icons-Corners.png"/></a>
 
 # Creditos
 Drop Icons está basado en [Iconizer](https://github.com/willnode/Iconizer) bajo [MIT License](https://github.com/willnode/Iconizer/blob/master/LICENSE).
