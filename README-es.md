@@ -105,7 +105,7 @@ Los iconos son parte de [Teenyicons](https://github.com/teenyicons/teenyicons) b
 
 <br>
 
-`Versión 2.0.0` está desarrollada con Windows Presentation Foundation (WPF) para crear una interfaz más nítida con esquinas redondeadas adaptables, según la versión del sistema operativo. En esta última versión se ha mejorado la ventana "Acerca de", así como el selector de color del tema. Ya no incluye el archivo Colors.dat porque ya no es necesario.
+`Versión 2.0.0` está desarrollada con Windows Presentation Foundation (WPF) para crear una interfaz más nítida con esquinas redondeadas adaptables, según la versión del sistema operativo. En esta última versión se ha mejorado la ventana "Acerca de", así como también se ha reemplazado el selector de color (para el tema) por uno mucho más moderno.
 
 El archivo Config.ini se ha modificado para usar solo el color del tema en HEX y no en RGB. Ya no incluye Colors.dat porque ahora no hay opción para guardarlos, en su lugar hay una paleta de colores.
 
