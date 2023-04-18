@@ -97,6 +97,9 @@ Drop Icons is based on [Iconizer](https://github.com/willnode/Iconizer) under [M
 
 *You can find all licenses [here](/src/DropIcons/Docs).*
 
+## Corners
+<a href="#"><img src="docs/assets/Drop-Icons-Options.gif"/></a>
+
 ## What's new?
 
 `Version 1.0.0` was built on Windows Forms. Drop Icons will no longer be developed using that technology, however you can still find and/or download the latest official version here:
