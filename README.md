@@ -24,7 +24,7 @@
 * Save icons in the same folder (default).
 * Save icons in a specific folder.
 * Saves the configuration to an .ini file (except for switches).
-* Enable and disable TopMost.
+* Enable and disable Topmost.
 * Generated icons are 16px but include 16, 32, 48, 64, 128, 256 pixel sizes for a high quality icon.
 * Prevents duplication of an image that has been previously added.
 * Option to generate tiny icon.
