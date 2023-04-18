@@ -84,6 +84,9 @@ Topmost = true
 
 >Nota: las dos opciones de tipo switch no se guardan porque no son opciones que suelan activarse todo el tiempo.
 
+## Esquinas Adaptables
+<a href="#"><img src="docs/assets/Drop-Icons-Options.gif"/></a>
+
 # Creditos
 Drop Icons está basado en [Iconizer](https://github.com/willnode/Iconizer) bajo [MIT License](https://github.com/willnode/Iconizer/blob/master/LICENSE).
 
@@ -98,7 +101,6 @@ Los iconos son parte de [Teenyicons](https://github.com/teenyicons/teenyicons) b
 *Puedes encontrar todas las licencias [aquí](/src/DropIcons/Docs).*
 
 ## ¿Qué hay de nuevo?
-
 `Versión 1.0.0` se creó en Windows Forms. Drop Icons ya no se desarrollará con esa tecnología, sin embargo, todavía puedes encontrar y/o descargar la última versión oficial aquí:
 <br>
 🏷️ [winforms-v1-final](winforms-v1-final)
