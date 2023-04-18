@@ -31,7 +31,7 @@
 * Adaptive corners (rounded or simple), depending on the OS version. 🆕
 
 ## Preview
-<a href="#"><img src="docs/assets/Drop-Icons-v2.gif"/></a>
+<a href="#"><img src="docs/assets/Drop-Icons.gif"/></a>
 
 ## Usage
 Drag and drop your images into the empty space, you will preview three images, except if you only drag one or two. Below you can see the total amount of images to convert (subtracting three from preview). If you cannot drag, click on `Add images`.
@@ -56,7 +56,7 @@ Click on one of them to read its license, which includes the author(s). You can 
 To choose whether Drop Icons is on top of all windows (Topmost) or not, right-click anywhere in the main window and choose Enable Topmost or Disable Topmost.
 
 ## Options
-<a href="#"><img src="docs/assets/Drop-Icons-Options-v2.gif"/></a>
+<a href="#"><img src="docs/assets/Drop-Icons-Options.gif"/></a>
 
 ## Installer
 To compile the installer you need [Inno Setup](https://jrsoftware.org/isinfo.php), the files are located in the [installer src](/installer%20src) folder. You just need to open the project (Installer.iss) and compile it, unless you want to make a change. When finished, it will leave a folder called Output in the same location.
@@ -85,7 +85,7 @@ Topmost = true
 >Note: The two switch-type options are not saved because they are not options that are typically activated all the time.
 
 ## Adaptive corners
-<a href="#"><img src="docs/assets/Drop-Icons-Corners.png"/></a>
+<a href="#"><img src="docs/assets/Drop-Icons-Corners-v2.png"/></a>
 
 ## Credits
 Drop Icons is based on [Iconizer](https://github.com/willnode/Iconizer) under [MIT License](https://github.com/willnode/Iconizer/blob/master/LICENSE).
