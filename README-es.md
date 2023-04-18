@@ -109,7 +109,7 @@ Los iconos son parte de [Teenyicons](https://github.com/teenyicons/teenyicons) b
 
 En esta última versión se ha mejorado la ventana "Acerca de", el archivo Config.ini se ha modificado para usar solo el color del tema en HEX y no en RGB, además que se ha reemplazado el selector de color (para el tema) por uno mucho más moderno.
 
-Debido a este último cambio, se eliminó Colors.dat ya que no existe botón para guardar los personalizados y en su lugar hay una paleta de colores.
+Debido a este último cambio, se eliminó Colors.dat ya que no existe botón para guardar los personalizados, en su lugar hay una paleta de colores.
 
 ## Licencia
 **MIT License**
