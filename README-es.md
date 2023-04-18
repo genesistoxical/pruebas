@@ -116,4 +116,4 @@ Debido a este último cambio, se eliminó Colors.dat ya que no existe botón par
 ## Licencia
 **MIT License**
 
-Copyright (c) 2022 Génesis Toxical ([read here](LICENSE)).
+Copyright (c) 2022 - 2023 Génesis Toxical ([read here](LICENSE)).
