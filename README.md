@@ -53,7 +53,7 @@ Click on one of them to read its license, which includes the author(s). You can 
 
 <br>
 
-To choose whether Drop Icons is on top of all windows (TopMost) or not, right-click anywhere in the main window and choose Enable Topmost or Disable Topmost.
+To choose whether Drop Icons is on top of all windows (Topmost) or not, right-click anywhere in the main window and choose Enable Topmost or Disable Topmost.
 
 ## Options
 <a href="#"><img src="docs/assets/Drop-Icons-Options.gif"/></a>
