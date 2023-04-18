@@ -46,13 +46,13 @@ Dando click en el botón superior de Info, aparecerá una nueva ventana en la qu
 
 - **Cambiar el idioma:** En la sección inferior que dice **Idioma de Drop Icons** haz clic en el icono de las flechitas para cambiar entre Español o English, luego clic en el botón de regresar y se reiniciará con el idioma que hayas elegido.
 
-- **Cambiar el tema:** En la parte inferior, clic sobre `Change Theme...` y elige tu color personalizado en la pequeña ventana que aparece, también puedes agregarlo a tus "colores personalizados" para usarlo después, luego selecciona Aceptar. Para regresar al que venía por defecto repite los pasos anteriores, elige uno de los tantos morados (o no elijas ningún color) y cliquea en Aceptar.
+- **Cambiar el tema:** En la parte inferior, haz clic sobre `Change Theme...` y elige tu color personalizado en la pequeña ventana que aparece (puedes ayudarte con la paleta de colores o escribir un color HEX), después selecciona Aplicar. Para regresar al que venía por defecto repite los pasos anteriores y cliquea el botón morado debajo del selector de tono, finalmente oprime Aplicar.
 
 - **Encontrar información sobre el contenido de terceros:** En la sección izquierda están los nombres de cada librería, proyecto, iconos o tipografías que fueron utilizados, al igual que Drop Icons. Cliquea en uno de ellos para leer su licencia, la cual incluye el autor(a) o autores(as). Puedes leer una corta descripción más abajo o hacer clic sobre el icono del enlace para ir al repositorio o sitio oficial.
 
 <br>
 
-Para elegir que Drop Icons esté encima de todas las ventanas (TopMost) o no, da clic derecho en cualquier lugar de la ventana principal y elige Habilitar TopMost o Deshabilitar TopMost.
+Para elegir que Drop Icons esté encima de todas las ventanas (TopMost) o no, da clic derecho en cualquier lugar de la ventana principal y elige Habilitar Topmost o Deshabilitar Topmost.
 
 ## Opciones
 <a href="#"><img src="docs/assets/Drop-Icons-Options.gif"/></a>
@@ -76,12 +76,10 @@ El archivo `Config.ini` almacena información del lenguaje, color del tema y si 
 ~~~
 [Options]
 Language = en
-TopMost = true
+Topmost = true
 
 [Theme]
-146
-128
-255
+#FF9280FF
 ~~~
 
 >Nota: las dos opciones de tipo switch no se guardan porque no son opciones que suelan activarse todo el tiempo.
@@ -98,6 +96,18 @@ Drop Icons está basado en [Iconizer](https://github.com/willnode/Iconizer) bajo
 Los iconos son parte de [Teenyicons](https://github.com/teenyicons/teenyicons) bajo [MIT License](https://github.com/teenyicons/teenyicons/blob/master/LICENSE).
 
 *Puedes encontrar todas las licencias [aquí](/src/DropIcons/Docs).*
+
+## ¿Qué hay de nuevo?
+
+`Versión 1.0.0` se creó en Windows Forms. Drop Icons ya no se desarrollará con esa tecnología, sin embargo, todavía puedes encontrar y/o descargar la última versión oficial aquí:
+<br>
+🏷️ [winforms-v1-final](winforms-v1-final)
+
+<br>
+
+`Versión 2.0.0` está desarrollada con Windows Presentation Foundation (WPF) para crear una interfaz más nítida con esquinas redondeadas adaptables, según la versión del sistema operativo. En esta última versión se ha mejorado la ventana "Acerca de", así como el selector de color del tema. Ya no incluye el archivo Colors.dat porque ya no es necesario.
+
+El archivo Config.ini se ha modificado para usar solo el color del tema en HEX y no en RGB. Ya no incluye Colors.dat porque ahora no hay opción para guardarlos, en su lugar hay una paleta de colores.
 
 ## Licencia
 **MIT License**
