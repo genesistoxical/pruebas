@@ -84,20 +84,6 @@ Topmost = true
 
 >Note: The two switch-type options are not saved because they are not options that are typically activated all the time.
 
-## What's new?
-
-`Version 1.0.0` was built on Windows Forms. Drop Icons will no longer be developed using that technology, however you can still find and/or download the latest official version here:
-<br>
-🏷️ [winforms-v1-final](winforms-v1-final)
-
-<br>
-
-`Version 2.0.0` is developed with Windows Presentation Foundation (WPF) to create a sharper interface with responsive rounded corners, depending on the OS version.
-
-In this latest version the "About" window has been improved, the Config.ini file has been modified to use only the theme color in HEX and not in RGB, also the color picker (for the theme) has been replaced for a much more modern one.
-
-Due to this last change, Colors.dat was removed since there is no button to save the custom ones, instead there is a color palette.
-
 ## Corners
 <a href="#"><img src="docs/assets/Drop-Icons-Options.gif"/></a>
 
@@ -113,6 +99,20 @@ Drop Icons is based on [Iconizer](https://github.com/willnode/Iconizer) under [M
 * Icons are part of [Teenyicons](https://github.com/teenyicons/teenyicons) under [MIT License](https://github.com/teenyicons/teenyicons/blob/master/LICENSE).
 
 *You can find all licenses [here](/src/DropIcons/Docs).*
+
+## What's new?
+
+`Version 1.0.0` was built on Windows Forms. Drop Icons will no longer be developed using that technology, however you can still find and/or download the latest official version here:
+<br>
+🏷️ [winforms-v1-final](winforms-v1-final)
+
+<br>
+
+`Version 2.0.0` is developed with Windows Presentation Foundation (WPF) to create a sharper interface with responsive rounded corners, depending on the OS version.
+
+In this latest version the "About" window has been improved, the Config.ini file has been modified to use only the theme color in HEX and not in RGB, also the color picker (for the theme) has been replaced for a much more modern one.
+
+Due to this last change, Colors.dat was removed since there is no button to save the custom ones, instead there is a color palette.
 
 ## License
 **MIT License**
