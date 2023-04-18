@@ -65,12 +65,6 @@ To compile the installer you need [Inno Setup](https://jrsoftware.org/isinfo.php
 
 Both .iss and .bat get the files that are needed within their folder and/or the Release folder (because of relative paths).
 
-## Contributing
-* If you make comments in the code, preferably in Spanish, please.
-* Variable names must be in English.
-* If you open an **Issue**, it can be in English o Spanish.
-* **Pull request** in English, in the description you can add details in English or Spanish.
-
 ## Config
 `Config.ini` file stores information about the language, theme color, and whether or not the Topmost option is enabled.
 
@@ -84,6 +78,15 @@ Topmost = true
 
 >Note: The two switch-type options are not saved because they are not options that are typically activated all the time.
 
+## Corners
+<a href="#"><img src="docs/assets/Drop-Icons-Options.gif"/></a>
+
+## Contributing
+* If you make comments in the code, preferably in Spanish, please.
+* Variable names must be in English.
+* If you open an **Issue**, it can be in English o Spanish.
+* **Pull request** in English, in the description you can add details in English or Spanish.
+
 ## Credits
 Drop Icons is based on [Iconizer](https://github.com/willnode/Iconizer) under [MIT License](https://github.com/willnode/Iconizer/blob/master/LICENSE).
 
@@ -96,9 +99,6 @@ Drop Icons is based on [Iconizer](https://github.com/willnode/Iconizer) under [M
 * Icons are part of [Teenyicons](https://github.com/teenyicons/teenyicons) under [MIT License](https://github.com/teenyicons/teenyicons/blob/master/LICENSE).
 
 *You can find all licenses [here](/src/DropIcons/Docs).*
-
-## Corners
-<a href="#"><img src="docs/assets/Drop-Icons-Options.gif"/></a>
 
 ## What's new?
 
