@@ -103,7 +103,7 @@ Drop Icons is based on [Iconizer](https://github.com/willnode/Iconizer) under [M
 ## What's new?
 `Version 1.0.0` was built on Windows Forms. Drop Icons will no longer be developed using that technology, however you can still find and/or download the latest official version here:
 <br>
-🏷️ [winforms-v1-final]([winforms-v1-final](https://github.com/genesistoxical/drop-icons/tree/winforms-v1-final)
+🏷️ [winforms-v1-final](https://github.com/genesistoxical/drop-icons/tree/winforms-v1-final)
 
 <br>
 
