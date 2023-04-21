@@ -13,16 +13,16 @@
 <a href="README.md">English</a> :speech_balloon: <a href="README-es.md">Español</a>
 </p>
 
-## Description
-Q'zero includes the Person and Pin cursors that were implemented in newer versions of Windows. Another very nice feature is that the "danger" or "toxic" style circle of the Work and Busy cursors are animated and rotate for better effect.
+<h2 align="center">Details</h2>
+<p align="center">Q'zero includes the Person and Pin cursors that were implemented in newer versions of Windows. Another very nice feature is that the "danger" or "toxic" style circle of the Work and Busy cursors are animated and rotate for better effect.
 
-It can be used on light and dark backgrounds, as it stands out very well due to the white border or the faint shadow. The installer in the same folder where the complete set is located.
+It can be used on light and dark backgrounds, as it stands out very well due to the white border or the faint shadow. The installer in the same folder where the complete set is located.</p>
 
-## Preview
-<a href="#"><img src="docs/assets/Preview.png"/></a>
+<h2 align="center">Preview</h2>
+<p align="center"><a href="#"><img src="docs/assets/Preview.png"/></a></p>
 
-## Usage
-Drag and drop your images into the empty space, you will preview three images, except if you only drag one or two. Below you can see the total amount of images to convert (subtracting three from preview). If you cannot drag, click on `Add images`.
+<h2 align="center">Installation</h2>
+<p align="center">Drag and drop your images into the empty space, you will preview three images, except if you only drag one or two. Below you can see the total amount of images to convert (subtracting three from preview). If you cannot drag, click on `Add images`.</p>
 
 ## License
 **MIT License**
