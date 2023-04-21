@@ -21,7 +21,7 @@ It can be used on light and dark backgrounds, as it stands out very well due to 
 ## Preview
 <a href="#"><img src="docs/assets/Preview.png"/></a>
 
-<h2 align="center">Installation</h2>
+## Installation
 Drag and drop your images into the empty space, you will preview three images, except if you only drag one or two. Below you can see the total amount of images to convert (subtracting three from preview). If you cannot drag, click on `Add images`.
 
 ## License
