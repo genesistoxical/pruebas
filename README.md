@@ -9,10 +9,6 @@
  <a href="/installer%20src"><img alt="Installer" src="https://img.shields.io/badge/Installer-Yes-9280FF?style=flat-square&labelColor=343B45"/></a>
 </p>
 
-<p align="center">
-<a href="README.md">English</a> :speech_balloon: <a href="README-es.md">Español</a>
-</p>
-
 ## Details
 Q'zero includes the Person and Pin cursors that were implemented in newer versions of Windows. Another very nice feature is that the "danger" or "toxic" style circle of the Work and Busy cursors are animated and rotate for better effect.
 
