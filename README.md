@@ -19,7 +19,7 @@ Q'zero includes the Person and Pin cursors that were implemented in newer versio
 It can be used on light and dark backgrounds, as it stands out very well due to the white border or the faint shadow. The installer in the same folder where the complete set is located.
 
 ## Preview
-<a href="#"><img src="docs/assets/Drop-Icons-v2.gif"/></a>
+<a href="#"><img src="docs/assets/Preview.png"/></a>
 
 ## Usage
 Drag and drop your images into the empty space, you will preview three images, except if you only drag one or two. Below you can see the total amount of images to convert (subtracting three from preview). If you cannot drag, click on `Add images`.
