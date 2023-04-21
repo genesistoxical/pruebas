@@ -5,7 +5,6 @@
 
 <p align="center">
  <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-9280FF?style=flat-square&labelColor=343B45"/></a>
- <a href="#"><img alt="Languages" src="https://img.shields.io/badge/Styles-1-9280FF?style=flat-square&labelColor=343B45"/></a>
  <a href="/installer%20src"><img alt="Installer" src="https://img.shields.io/badge/Installer-Yes-9280FF?style=flat-square&labelColor=343B45"/></a>
 </p>
 
