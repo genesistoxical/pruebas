@@ -20,7 +20,7 @@ header ul:before {
 
 header ul li {
     width: 200px;
-    border-right: 1px solid #ffffff24;
+    border-right: 0px solid #ffffff24;
 }
 
 header ul li+li {
@@ -47,6 +47,7 @@ header h1 {
 }
 
 section {
+    padding: 15px 92px 57px 92px;
     background: transparent;
     border-top: 1px solid #ffffff1c;
 }
