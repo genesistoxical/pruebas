@@ -86,6 +86,10 @@ code, pre {
     border-radius: 2px;
 }
 
+.github-fork-ribbon:before {
+    background-color: #343434!important;
+}
+
 ::selection {
     color: white;
     background: #f94e98;
