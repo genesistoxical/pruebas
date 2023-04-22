@@ -14,13 +14,13 @@ header p {
 }
 
 header ul:before {
-    background: #ffffff36;
+    background: #ffffff26;
     box-shadow: none;
 }
 
 header ul li {
     width: 150px;
-    border-right: 1px solid #ffffff36;
+    border-right: 1px solid #ffffff24;
 }
 
 header ul li+li {
@@ -28,12 +28,18 @@ header ul li+li {
 }
 
 header ul {
-    background: #ffffff2e;
+    background: #ffffff00;
+    border: 1px solid #ffffff38;
     box-shadow: none;;
 }
 
+header ul a {
+    text-shadow: none;
+}
+
 header h1 {
-    color: black;
+    color: #000000d9;
+    text-shadow: none;
 }
 
 section {
@@ -44,6 +50,7 @@ section {
 .wrapper {
     background: #ffffff12;
     box-shadow: none;
+    border: 1px solid #ffffff1c;
 }
 
 h1, h2, h3, h4, h5, h6 {
