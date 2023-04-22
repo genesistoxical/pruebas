@@ -38,7 +38,7 @@ header ul a {
 }
 
 header ul a strong {
-    color: #000000de;
+    color: #000000d9;
 }
 
 header h1 {
@@ -66,13 +66,19 @@ p:nth-child(1) {
 }
 
 a {
-    color: #000000b8;
+    color: #000000d9;
+    letter-spacing: 0.5px;
+    font-weight: bold;
 }
 
 body {
     color: #ffffffcf;
     background: linear-gradient(173deg, rgba(110,99,163,1) 0%, rgba(178,141,192,1) 80%);
     background-attachment: fixed;
+}
+
+p, strong {
+    color: #ffffffcf;
 }
 
 li:nth-child(2) {
