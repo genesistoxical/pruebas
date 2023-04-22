@@ -8,13 +8,38 @@
     border-bottom: 0px;
 }
 
+header p {
+    color: white;
+    width: 380px;
+}
+
 header ul:before {
     background: #ffffff36;
-    }
+    box-shadow: none;
+}
 
 header ul li {
     width: 150px;
     border-right: 1px solid #ffffff36;
+}
+
+header ul {
+    background: #ffffff2e;
+    box-shadow: none;;
+}
+
+header h1 {
+    color: black;
+}
+
+section {
+    background: transparent;
+    border-top: 1px solid #ffffff1c;
+}
+
+.wrapper {
+    background: #ffffff12;
+    box-shadow: none;
 }
 
 h1, h2, h3, h4, h5, h6 {
