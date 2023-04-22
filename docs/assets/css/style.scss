@@ -9,12 +9,12 @@ header {
 }
 
 header p {
-    color: white;
+    color: #ffffffcf;
     width: 380px;
 }
 
 header ul:before {
-    background: #ffffff26;
+    background: #ffffff17;
     box-shadow: none;
 }
 
@@ -28,13 +28,17 @@ header ul li+li {
 }
 
 header ul {
-    background: #ffffff00;
+    background: #ffffff1c;
     border: 1px solid #ffffff38;
     box-shadow: none;;
 }
 
 header ul a {
     text-shadow: none;
+}
+
+header ul a strong {
+    color: #000000de;
 }
 
 header h1 {
@@ -62,7 +66,7 @@ a {
 }
 
 body {
-    color: #fff;
+    color: #ffffffcf;
     background: linear-gradient(173deg, rgba(110,99,163,1) 0%, rgba(178,141,192,1) 80%);
     background-attachment: fixed;
 }
