@@ -23,6 +23,10 @@ header ul li {
     border-right: 1px solid #ffffff36;
 }
 
+header ul li+li {
+    border-left: none;
+}
+
 header ul {
     background: #ffffff2e;
     box-shadow: none;;
@@ -54,6 +58,10 @@ body {
     color: #fff;
     background: linear-gradient(173deg, rgba(110,99,163,1) 0%, rgba(178,141,192,1) 80%);
     background-attachment: fixed;
+}
+
+li:nth-child(2) {
+    display: none;
 }
 
 ::selection {
