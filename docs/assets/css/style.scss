@@ -61,6 +61,10 @@ h1, h2, h3, h4, h5, h6 {
     color: #000000d9;
 }
 
+p:nth-child(1) {
+    padding-bottom: 30px;
+}
+
 a {
     color: #000000b8;
 }
