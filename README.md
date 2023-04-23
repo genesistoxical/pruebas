@@ -14,5 +14,5 @@ Q’zero includes the Person and Pin cursors that were implemented in newer vers
 
 It can be used on light and dark backgrounds, as it stands out due to the white border or the soft shadow.
 
-Copyright (c) 2022 - 2023 Génesis Toxical. Make with love under [MIT License(LICENSE).
+Copyright (c) 2022 - 2023 Génesis Toxical. Make with love under [MIT License](LICENSE).
 </br>
