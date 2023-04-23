@@ -47,9 +47,10 @@ header h1 {
 }
 
 section {
-    padding: 15px 92px 57px 92px;
+    padding: 15px 92px 60px 92px;
     background: transparent;
     border-top: 1px solid #ffffff1c;
+    border-bottom: 1px solid #ffffff1c;
 }
 
 .wrapper {
@@ -76,7 +77,7 @@ body {
     color: #ffffffcf;
     background: linear-gradient(173deg, #6E63A3 0%, #B08CC0 80%);
     background-attachment: fixed;
-    padding: 50px 0px 0px 0px;
+    padding: 50px 0px 50px 0px;
 }
 
 p, strong {
@@ -97,4 +98,9 @@ code, pre {
 ::selection {
     color: white;
     background: #ffffff1c;
+}
+
+footer {
+    padding: 25px 0px 0px 0px;
+    margin-bottom: -12px;
 }
