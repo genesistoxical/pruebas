@@ -13,6 +13,6 @@ Q’zero includes the Person and Pin cursors that were implemented in newer vers
 
 It can be used on light and dark backgrounds, as it stands out due to the white border or the soft shadow.
 
-Made with 🖤 under <a href="LICENSE">MIT LICENSE</a>.
+Made with 🤍 under <a href="LICENSE">MIT LICENSE</a>.
 
 </br>
