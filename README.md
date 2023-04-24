@@ -9,10 +9,10 @@
 </p>
 </br>
 </br>
-Q’zero includes the Person and Pin cursors that were implemented in newer versions of Windows. The circle for the Work and Busy cursors is animated and rotates.
+Q'zero includes the Person and Pin cursors that were implemented in newer versions of Windows. The Work and Busy cursors are animated, as the "danger" circle is spinning.
 </br>
 </br>
-It can be used on light and dark backgrounds, as it stands out due to the white border or the soft shadow.
+It's created to be used on both light and dark backgrounds due to the white border or faint shadow.
 </br>
 </br>
 Made with 🤍 under <a href="LICENSE">MIT LICENSE</a>.</p>
