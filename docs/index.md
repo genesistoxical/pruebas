@@ -1,4 +1,4 @@
-<p align="center"><a href="#"><img alt="Image to Ico" src="PreviewPage.png"/></a></p>
+<p align="center"><a href="#"><img alt="Image to Ico" src="assets/Preview-Page.png"/></a></p>
 
 Q'zero includes the Person and Pin cursors that were implemented in newer versions of Windows. The circle for the Work and Busy cursors is animated and rotates.
 
