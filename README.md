@@ -17,3 +17,4 @@
 ## Contributing
 <p>Big changes may not be made anymore since I have modified this cursor for about a year. In any case, sets with new designs are welcome.</p>
 <p>If you have any request, you can let me know.</p>
+</br>
