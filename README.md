@@ -5,7 +5,7 @@
 
 <p align="center">
 <a href="#"><img alt="Version" src="https://img.shields.io/badge/Version-1.0-8c79b7?style=flat-square&labelColor=343B45"/></a>
-<a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-8c79b7?style=flat-square&labelColor=343B45"/></a>
+<a href="LICENSE"><img alt="License" src="https://img.shields.io/github/license/genesistoxical/drop-icons?color=8c79b7&label=License&style=flat-square&labelColor=343B45"/></a>
 </p>
 </br>
 </br>
