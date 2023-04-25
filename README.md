@@ -1,4 +1,3 @@
-</br>
 <p align="center"><a href="#"><img src="docs/assets/Preview.png" align="center" alt="Drop Icons"/></a></p>
 <h1 align="center">Q'zero Cursor</h1>
 <p align="center">Black cursor with white border and danger style for Windows.</p>
@@ -17,4 +16,3 @@
 ## Contributing
 <p>Big changes may not be made anymore since I have modified this cursor for about a year. In any case, sets with new designs are welcome.</p>
 <p>If you have any request, you can let me know.</p>
-</br>
