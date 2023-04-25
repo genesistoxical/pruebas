@@ -1,6 +1,6 @@
 <p align="center"><a href="#"><img src="docs/assets/Preview.png" align="center" alt="Drop Icons"/></a></p>
 <h1 align="center">Q'zero Cursor</h1>
-<p align="center">Black cursor with white border and danger style details for Windows.</p>
+<p align="center">Black cursor with white border and danger style for Windows.</p>
 
 <p align="center">
 <a href="#"><img alt="Version" src="https://img.shields.io/badge/Version-1.0-8c79b7?style=flat-square&labelColor=343B45"/></a>
