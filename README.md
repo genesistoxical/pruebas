@@ -8,10 +8,18 @@
 <a href="LICENSE"><img alt="License" src="https://img.shields.io/github/license/genesistoxical/drop-icons?color=8c79b7&label=License&style=flat-square&labelColor=343B45"/></a>
 </p>
 </br>
+
 </br>
-<p>Q'zero includes the Person and Pin cursors that were implemented in newer versions of Windows. Work and Busy cursors are animated, as the "danger" circle is spinning.</p>
-<p>It's created to be used on both light and dark backgrounds due to the white border or faint shadow.</p>
-<p>Made with 🤍 under <a href="LICENSE">MIT LICENSE</a>.</p>
+
+Q'zero includes two sets: right-handed and left-handed for better accessibility, as well as including the Person and Pin cursors that were implemented in newer versions of Windows.
+
+It is created to be used on light or dark backgrounds. The waiting circle "danger" rotates, so you will have a better experience.
+
+Remember that when using the left-handed version, you will need to change the primary mouse button in Windows settings.
+
+Made with 🤍 under [MIT LICENSE](LICENSE)
+</br>
+
 </br>
 
 ## Contributing
