@@ -1,5 +1,5 @@
 </br>
-<p align="center"><a href="#"><img src="docs/assets/Preview.png" align="center" alt="Drop Icons"/></a></p>
+<p align="center"><a href="#"><img src="set/Preview.png" align="center" alt="Drop Icons"/></a></p>
 <h1 align="center">Q'zero Cursor</h1>
 <p align="center">Black cursor with white border and danger style for Windows.</p>
 
