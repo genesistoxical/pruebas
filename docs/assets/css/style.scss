@@ -6,6 +6,7 @@
 header {
     background: none;
     border-bottom: 0px;
+    padding-bottom: 17px;
 }
 
 header p {
@@ -16,6 +17,10 @@ header p {
 header ul:before {
     background: #ffffff17;
     box-shadow: none;
+    left: -5px;
+    top: -5px;
+    right: -5px;
+    bottom: -5px;
 }
 
 header ul li {
@@ -107,5 +112,4 @@ code, pre {
 
 footer {
     padding: 23px 0px 0px 0px;
-    margin-bottom: -10px;
 }
