@@ -11,7 +11,7 @@
 
 </br>
 
-Q'zero includes two sets: left-handed and right-handed for better accessibility, as well as Person and Pin which were implemented in the most recent versions of Windows.
+Q'zero includes two sets: left and right-handed for better accessibility, as well as Person and Pin which were implemented in the most recent versions of Windows.
 
 Another feature is being created to be used on light and dark backgrounds, in addition to the fact that the cursors with the waiting circle (danger) are animated, they rotate so that you have a better experience.
 
