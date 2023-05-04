@@ -15,7 +15,7 @@ Q'zero includes two sets: left and right handed for better accessibility, as wel
 
 Another feature of this set is that they include the Person and Pin cursors that were implemented in the most recent versions of Windows, as well as the wait (danger) circle rotates, so you have a better experience.
 
-Remember that when using the left-handed version, you will need to change the primary mouse button in Windows settings.
+When using the left-handed version, you'll need to change the primary mouse button in Windows settings.
 
 Made with 🤍 under [MIT LICENSE](LICENSE)
 </br>
