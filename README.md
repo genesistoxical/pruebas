@@ -11,9 +11,9 @@
 
 </br>
 
-Q'zero includes two sets: right-handed and left-handed for better accessibility, plus it's created to be used on light and dark backgrounds and include the Person and Pin cursors that were implemented in the most recent versions of Windows.
+Q'zero includes two sets: left and right handed for better accessibility, as well as being created to be used on light and dark backgrounds.
 
-The waiting (danger) circle rotates, so you will have a better experience.
+Another feature of this set is that they include the Person and Pin cursors that were implemented in the most recent versions of Windows, as well as the wait (danger) circle rotates, so you have a better experience.
 
 Remember that when using the left-handed version, you will need to change the primary mouse button in Windows settings.
 
