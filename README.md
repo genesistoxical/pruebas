@@ -86,7 +86,7 @@ Los dos siguientes son editables, uno de estos es el formato `SVG` que no incluy
 
 5. Edita la versión SVG en un programa como Inkscape, esconde todos los elementos a excepción del fondo morado y el cursor **Work** con el círculo de peligro **w-1**.
 
-6. Renombra la capa principal a *Q'zero Cursor*, expande **Help** y cambia los guiones por espacios en *Flip for Left*. Finalmente bloquea la capa de fondos y guarda para sobreescribir.
+6. Renombra la capa principal a *Q'zero Cursor*, expande **Help** y cambia los guiones por espacios en *Flip for Left*. Finalmente bloquea la capa de fondos y guarda para sobrescribir.
 
 </br>
 
