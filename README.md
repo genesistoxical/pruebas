@@ -1,10 +1,7 @@
 </br>
-<p align="center"><a href="#"><img src="set/Preview.png" align="center" alt="Drop Icons"/></a></p>
+<p align="center"><picture><img alt=Preview" src="set/Preview.png"></picture></p>
 <h1 align="center">Q'zero Cursor</h1>
 <p align="center">Black cursor with danger style (left and right-handed) for Windows.</p>
-<picture>
-  <img alt=SPreview" src="set/Preview.png">
-</picture>
 <p align="center">
 <a href="#"><img alt="Version" src="https://img.shields.io/badge/Version-1.0-8c79b7?style=flat-square&labelColor=343B45"/></a>
 <a href="LICENSE"><img alt="License" src="https://img.shields.io/github/license/genesistoxical/drop-icons?color=8c79b7&label=License&style=flat-square&labelColor=343B45"/></a>
