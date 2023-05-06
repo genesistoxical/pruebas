@@ -72,7 +72,7 @@ Los dos siguientes son editables, uno de estos es el formato `SVG` que no incluy
 
 2. Expande el grupo del cursor **Help** y voltea el signo de interrogación que se indica.
 
-3. Exporta cada cursor en PNG. **Work** y **Busy"** incluyen una animación para 8, no olvides expandir los grupos y activar cada círculo de peligro uno por uno com se indica en la secuencia.
+3. Exporta cada cursor en PNG. **Work** y **Busy"** incluyen una animación para 8, no olvides expandir los grupos y activar cada círculo de peligro uno por uno como se indica en la secuencia.
 
 </br>
 
