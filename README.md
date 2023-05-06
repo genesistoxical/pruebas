@@ -28,7 +28,7 @@ Made with 🤍 under [MIT LICENSE](LICENSE)
 
 </br>
 
-### Convert afdesign and svg to left-handed version:
+### Convert afdesign and svg to left-handed version
 
 1. Select the **Backgrounds** and **Q'zero Cursor** layers at the same time and then click the "Flip Horizontal" button.
 
@@ -38,7 +38,7 @@ Made with 🤍 under [MIT LICENSE](LICENSE)
 
 </br>
 
-### Convert afdesign to SVG:
+### Convert afdesign to SVG
 
 1. Right click on the **Pointer** cursor and choose the option of all the same label color, press the FX icon in the bottom bar (next to the Adjustments icon) and deactivate the Outer shadow.
 
@@ -52,7 +52,7 @@ Made with 🤍 under [MIT LICENSE](LICENSE)
 
 </br>
 
-### Convert to cursor:
+### Convert to cursor
 
 You can do it with your favorite editor, in this case the indications are only with animated cursors.
 
