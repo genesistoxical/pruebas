@@ -30,25 +30,25 @@ Made with 🤍 under [MIT LICENSE](LICENSE)
 
 ### Convert afdesign and svg to left-handed version:
 
-1.- Select the **Backgrounds** and **Q'zero Cursor** layers at the same time and then click the "Flip Horizontal" button.
+1. Select the **Backgrounds** and **Q'zero Cursor** layers at the same time and then click the "Flip Horizontal" button.
 
-2.- Expand the **Help** cursor group and flip the question mark that is indicated.
+2. Expand the **Help** cursor group and flip the question mark that is indicated.
 
-3.- Export each cursor in PNG. **Work** and **Busy** include an animation for 8, don't forget to expand the groups and activate each danger circle one by one as indicated in the sequence.
+3. Export each cursor in PNG. **Work** and **Busy** include an animation for 8, don't forget to expand the groups and activate each danger circle one by one as indicated in the sequence.
 
 </br>
 
 ### Convert afdesign to SVG:
 
-1.- Right click on the **Pointer** cursor and choose the option of all the same label color, press the FX icon in the bottom bar (next to the Adjustments icon) and deactivate the Outer shadow.
+1. Right click on the **Pointer** cursor and choose the option of all the same label color, press the FX icon in the bottom bar (next to the Adjustments icon) and deactivate the Outer shadow.
 
-2.- Activate the visibility of all cursors and backgrounds. Expand the **Work** cursor group, right click on **w-8** and select all of the same label color, turn on their visibility to show the missing objects.
+2. Activate the visibility of all cursors and backgrounds. Expand the **Work** cursor group, right click on **w-8** and select all of the same label color, turn on their visibility to show the missing objects.
 
-4.- Export it as SVG. In the "Rasterize" option choose "Nothing", then look for "Flatten transformations" and make sure to activate the box.
+4. Export it as SVG. In the "Rasterize" option choose "Nothing", then look for "Flatten transformations" and make sure to activate the box.
 
-5.- Edit the SVG version in a program like Inkscape, hide all the elements except for the purple background and the **Work** cursor with the danger circle **w-1**.
+5. Edit the SVG version in a program like Inkscape, hide all the elements except for the purple background and the **Work** cursor with the danger circle **w-1**.
 
-6.- Rename the main layer to *Q'zero Cursor*, expand **Help** and change the hyphens to spaces in +Flip for Left*, lock the backgrounds layer. Finally save to overwrite.
+6. Rename the main layer to *Q'zero Cursor*, expand **Help** and change the hyphens to spaces in +Flip for Left*, lock the backgrounds layer. Finally save to overwrite.
 
 </br>
 
