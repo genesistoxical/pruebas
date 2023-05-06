@@ -78,7 +78,7 @@ Los dos siguientes son editables, uno de estos es el formato `SVG` que no incluy
 
 ### Convertir afdesign a SVG
 
-1. Haz clic derecho en el cursor **Pointer** y elige la opción de todos los del mismo color de etiqueta, presiona el icono de **FX** de la barra inferior (junto al icono de *Ajustes*) y desactiva la *Sombra exterior*.
+1. Haz clic derecho en el cursor **Pointer** y elige la opción de todos los del mismo color de etiqueta, presiona el icono de *FX* de la barra inferior (junto al icono de *Ajustes*) y desactiva la *Sombra exterior*.
 
 2. Activa la visibilidad de todos los cursores y los fondos. Expande el grupo del cursor **Work**, da clic derecho sobre **w-8** y selecciona todos los del mismo color de etiqueta, activa su visibilidad para que se muestren los objetos faltantes.
 
