@@ -19,12 +19,14 @@ Made with 🤍 under [MIT LICENSE](LICENSE)
 
 </br>
 
-## Editables
-There are two editable formats, one of which is `afdesign` <sup>(sorry I didn't use FOSS)</sup>  which has some details like groups of single objects or gray and yellow color layers, but this helps to convert it to SVG. The second one is in `SVG` but it doesn't include shadows since they were added in a non-vector way.
+## Source
+There are three formats as a source; the main one would be `PNG`, despite not being editable you can work on them, for example, modifying the danger circle. You can also use them in websites or applications that require a raster image format.
+
+The next two are editable, one of them is `SVG` but doesn't include shadows since they weren't vector. The last one is the one I used but I'm sharing it because it's the original, `afdesign` for Affinity Designer v2... includes single object groups or layers in gray and yellow, but this helps to convert it to SVG.
 
 </br>
 
-### Convert afdesign and SVG to left-handed
+### Convert editables to left-handed version
 
 1. Select the **Backgrounds** and **Q'zero Cursor** layers at the same time and then click the *Flip Horizontal* button.
 
@@ -48,11 +50,11 @@ There are two editable formats, one of which is `afdesign` <sup>(sorry I didn't 
 
 </br>
 
-### Convert PNG's to Cursor
+### Convert PNG's to cursor
 
 You can do it with your favorite editor, in this case the indications are only with animated cursors.
 
-The animation of the **Busy** cursor must be **7s/60** (the sequence of the frames are indicated in the name) and **Work** must be **8s/60**. If you need to know where the hotspot goes just open an existing cursor to see the coordinates.
+The animation of the **Busy** cursor must be **7s/60** (the sequence of the frames are indicated in the name) and **Work** must be **8s/60**. If you need to know where to place the Hot Spot just open an existing cursor to see the coordinates.
 </br>
 
 </br>
