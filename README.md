@@ -42,7 +42,7 @@ The next two are editable, one of these is the `SVG` format which does not inclu
 
 2. Activate the visibility of all cursors and backgrounds. Expand the **Work** cursor group, right click on **w-8** and select all of the same label color, turn on their visibility to show the missing objects.
 
-4. Export it as SVG. In the *Rasterize* option choose *Nothing*, then look for *Flatten transformations* and make sure to activate the box.
+4. Export it as SVG. In the *Rasterize* option choose *Nothing*, then look for *Flatten transforms* and make sure to activate the box.
 
 5. Edit the SVG version in a program like Inkscape, hide all the elements except for the purple background and the **Work** cursor with the danger circle **w-1**.
 
