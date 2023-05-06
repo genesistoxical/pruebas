@@ -22,7 +22,7 @@ Made with 🤍 under [MIT LICENSE](LICENSE)
 ## Source
 There are three formats as a source; the main one would be `PNG`, despite not being editable you can work on them, for example, modifying the danger circle. You can also use them in websites or applications that require a raster image format.
 
-The next two are editable, one of them is `SVG` but doesn't include shadows since they weren't vector. The last one is the one I used but I'm sharing it because it's the original, `afdesign` for Affinity Designer v2... includes single object groups or layers in gray and yellow, but this helps to convert it to SVG.
+The next two are editable, one of them is `SVG` but doesn't include shadows since they weren't vector. The last one is the one I used but I'm sharing it because it's the original: `afdesign` for Affinity Designer v2, includes single object groups or layers in gray and yellow, but this helps to convert it to SVG.
 
 </br>
 
@@ -38,11 +38,11 @@ The next two are editable, one of them is `SVG` but doesn't include shadows sinc
 
 ### Convert afdesign to SVG
 
-1. Right click on the **Pointer** cursor and choose the option of all the same label color, press the FX icon in the bottom bar (next to the Adjustments icon) and deactivate the *Outer shadow*.
+1. Right click on the **Pointer** cursor and choose the option of all the same label color, press the *FX* icon in the bottom bar (next to the Adjustments icon) and deactivate the *Outer shadow*.
 
 2. Activate the visibility of all cursors and backgrounds. Expand the **Work** cursor group, right click on **w-8** and select all of the same label color, turn on their visibility to show the missing objects.
 
-4. Export it as SVG. In the ***Rasterize*** option choose ***Nothing***, then look for ***Flatten transformations*** and make sure to activate the box.
+4. Export it as SVG. In the *Rasterize* option choose *Nothing*, then look for *Flatten transformations* and make sure to activate the box.
 
 5. Edit the SVG version in a program like Inkscape, hide all the elements except for the purple background and the **Work** cursor with the danger circle **w-1**.
 
