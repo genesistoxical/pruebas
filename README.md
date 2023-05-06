@@ -19,10 +19,10 @@ Made with 🤍 under [MIT LICENSE](LICENSE)
 
 </br>
 
-## Source
-There are three formats as a source; the main one would be `PNG`, despite not being editable you can work on them, for example, modifying the danger circle. You can also use them in websites or applications that require a raster image format.
+## Source (English)
+There are three formats as a source; the main one is `PNG` since this type of file was used to create the cursors and despite not being editable, you can work on them, an example is modifying the danger circle. You can also add them to websites or applications that require a raster image.
 
-The next two are editable, one of them is `SVG` but doesn't include shadows since they weren't vector. The last one is the one I used but I'm sharing it because it's the original: `afdesign` for Affinity Designer v2, includes single object groups or layers in gray and yellow, but this helps to convert it to SVG.
+The next two are editable, one is `SVG` but doesn't include shadows as these were non-vector. The last one is the one I used and I know it's not open source software but I'm sharing it because it's the original file: `afdesign` for Affinity Designer v2 (includes single object groups or layers in gray and yellow color, but this helps to convert it to SVG).
 
 </br>
 
@@ -38,7 +38,7 @@ The next two are editable, one of them is `SVG` but doesn't include shadows sinc
 
 ### Convert afdesign to SVG
 
-1. Right click on the **Pointer** cursor and choose the option of all the same label color, press the *FX* icon in the bottom bar (next to the Adjustments icon) and deactivate the *Outer shadow*.
+1. Right click on the **Pointer** cursor and choose the option of all the same label color, press the *FX* icon in the bottom bar (next to the *Adjustments* icon) and deactivate the *Outer shadow*.
 
 2. Activate the visibility of all cursors and backgrounds. Expand the **Work** cursor group, right click on **w-8** and select all of the same label color, turn on their visibility to show the missing objects.
 
@@ -55,6 +55,46 @@ The next two are editable, one of them is `SVG` but doesn't include shadows sinc
 You can do it with your favorite editor, in this case the indications are only with animated cursors.
 
 The animation of the **Busy** cursor must be **7s/60** (the sequence of the frames are indicated in the name) and **Work** must be **8s/60**. If you need to know where to place the Hot Spot just open an existing cursor to see the coordinates.
+</br>
+
+</br>
+
+## Source (Spanish)
+Existen tres formatos como fuente; el principal es `PNG` puesto que este tipo de archivo se utilizó para crear los cursores y a pesar de no ser editable, puedes trabajar sobre estos, un ejemplo es modificando del círculo de peligro. También puedes agregarlos a sitios web o aplicaciones que requieran de una imagen rasterizada.
+
+Los dos siguientes son editables, uno es `SVG` pero no incluye sombras debido estas eran no-vectorales. El último es el que yo utilicé y sé que no es un software de código abierto pero lo comparto porque es el archivo original: `afdesign` para Affinity Designer v2 (incluye grupos de un solo objeto o capas en color gris y amarillo, pero esto ayuda a convertirlo a SVG).
+
+</br>
+
+### Convertir editables a la versión zurda
+
+1. Selecciona las capas **Backgrounds** y **Q'zero Cursor** al mismo tiempo y después cliquea el botón de *Voltear horizontalmente+.
+
+2. Expande el grupo del cursor **Help** y voltea el signo de interrogación que está indicado.
+
+3. Exporta cada cursor en PNG. **Work** y **Busy"** incluyen una animación para 8, no olvides expandir los grupos y activar cada círculo de peligro uno por uno com se indica en la secuencia.
+
+</br>
+
+### Convertir afdesign a SVG
+
+1. Haz clic derecho en el cursor **Pointer** y elige la opción de todos los del mismo color de etiqueta, presiona el icono de **FX** de la barra inferior (junto al icono de *Ajustes*) y desactiva la *Sombra exterior*.
+
+2. Activa la visibilidad de todos los cursores y los fondos. Expande el grupo del cursor **Work**, da clic derecho sobre **w-8** y selecciona todos los del mismo color de etiqueta, activa su visibilidad para que se muestren los objetos faltantes.
+
+4. Expórtalo como SVG. En la opción *Rasterizar* elige *Nada*, posteriormente busca *Acoplar transformaciones* y asegurate de activar la casilla.
+
+5. Edita la versión SVG en un programa como Inkscape, esconde todos los elementos a excepción del fondo morado y el cursor **Work** con el círculo de peligro **w-1**.
+
+6. Renombra la capa principal a *Q'zero Cursor*, expande **Help** y cambia los guiones por espacios en *Flip for Left*, bloquea la capa de fondos. Finalmente guarda para sobreescribir.
+
+</br>
+
+### Convertir PNG's a cursor
+
+Puedes hacerlo con tu editor favorito, en esta caso las indicaciones son únicamente con los cursores animados.
+
+La animación del cursor **Busy** debe ser de **7s/60** (la secuencia de los frames van indicados en el nombre) y **Work** de **8s/60**. Si necesitas saber dónde colocar el Hot Spot solo abre un cursor existente para ver las coordenadas.
 </br>
 
 </br>
