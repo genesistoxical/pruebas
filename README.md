@@ -53,7 +53,7 @@ There are two editable formats, one of which is `afdesign` (sorry I didn't use F
 
 You can do it with your favorite editor, in this case the indications are only with animated cursors.
 
-The animation of the **Busy** cursor must be ***7s/60*** (the sequence of the frames are indicated in the name) and **Work** ***8s/60***. If you need to know where the hotspot goes just open an existing cursor to see the coordinates.
+The animation of the **Busy** cursor must be *7s/60* (the sequence of the frames are indicated in the name) and **Work** *8s/60*. If you need to know where the hotspot goes just open an existing cursor to see the coordinates.
 </br>
 
 </br>
