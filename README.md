@@ -46,7 +46,7 @@ The next two are editable, one of these is the `SVG` format which does not inclu
 
 5. Edit the SVG version in a program like Inkscape, hide all the elements except for the purple background and the **Work** cursor with the danger circle **w-1**.
 
-6. Rename the main layer to *Q'zero Cursor*, expand **Help** and change the hyphens to spaces in *Flip for Left*, lock the backgrounds layer. Finally save to overwrite.
+6. Rename the main layer to *Q'zero Cursor*, expand **Help** and change the hyphens to spaces in *Flip for Left*. Finally lock the backgrounds layer and save to overwrite.
 
 </br>
 
@@ -72,7 +72,7 @@ Los dos siguientes son editables, uno de estos es el formato `SVG` que no incluy
 
 2. Expande el grupo del cursor **Help** y voltea el signo de interrogación que se indica.
 
-3. Exporta cada cursor en PNG. **Work** y **Busy"** incluyen una animación para 8, no olvides expandir los grupos y activar cada círculo de peligro uno por uno como se indica en la secuencia.
+3. Exporta cada cursor en PNG. **Work** y **Busy** incluyen una animación para 8, no olvides expandir los grupos y activar cada círculo de peligro uno por uno como se indica en la secuencia.
 
 </br>
 
@@ -86,7 +86,7 @@ Los dos siguientes son editables, uno de estos es el formato `SVG` que no incluy
 
 5. Edita la versión SVG en un programa como Inkscape, esconde todos los elementos a excepción del fondo morado y el cursor **Work** con el círculo de peligro **w-1**.
 
-6. Renombra la capa principal a *Q'zero Cursor*, expande **Help** y cambia los guiones por espacios en *Flip for Left*, bloquea la capa de fondos. Finalmente guarda para sobreescribir.
+6. Renombra la capa principal a *Q'zero Cursor*, expande **Help** y cambia los guiones por espacios en *Flip for Left*. Finalmente bloquea la capa de fondos y guarda para sobreescribir.
 
 </br>
 
@@ -94,7 +94,7 @@ Los dos siguientes son editables, uno de estos es el formato `SVG` que no incluy
 
 Puedes hacerlo con tu editor favorito, en esta caso las indicaciones son únicamente con los cursores animados.
 
-La animación del cursor **Busy** debe ser de **7s/60** (la secuencia de los frames van indicados en el nombre) y **Work** de **8s/60**. Si necesitas saber dónde colocar el Hot Spot solo abre un cursor existente para ver las coordenadas.
+La animación del cursor **Busy** debe ser de **7s/60** (la secuencia de los frames están indicados en el nombre) y **Work** de **8s/60**. Si necesitas saber dónde colocar el Hot Spot solo abre un cursor existente para ver las coordenadas.
 </br>
 
 </br>
