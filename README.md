@@ -1,5 +1,5 @@
 </br>
-<p align="center"><a href="#"><img src="set/Preview.png" align="center" alt="Drop Icons"/></a></p>
+<p align="center"><picture><img alt="Drop Icons" src="https://raw.githubusercontent.com/genesistoxical/pruebas/main/set/Preview.png" /></picture></p>
 <h1 align="center">Q'zero Cursor</h1>
 <p align="center">Black cursor with danger style (left and right-handed) for Windows.</p>
 <p align="center">
