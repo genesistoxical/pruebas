@@ -19,7 +19,7 @@ Made with 🤍 under [MIT LICENSE](LICENSE)
 
 </br>
 
-## <a href="#"><img width="25px" src="https://github.com/linuxmint/flags/blob/master/usr/share/iso-flag-png/us.png"/></a> Source (English)
+## 📑 Source (English)
 There are three formats as a source; the main one is `PNG` since this type of file was used to create the cursors and despite not being editable, you can work on them, an example is modifying the danger circle. You can also add them to websites or applications that require a raster image.
 
 The next two are editable, one of these is the `SVG` format which does not include shadows since those were created non-vectorial. The last one is not possible to open with any software but I am sharing it because it is the original file: `afdesign` for Affinity Designer v2 (includes single object groups or layers in gray and yellow color, but this helps to convert to SVG).
@@ -59,7 +59,7 @@ The animation of the **Busy** cursor must be **7s/60** (the sequence of the fram
 
 </br>
 
-## <a href="#"><img width="25px" src="https://github.com/linuxmint/flags/blob/master/usr/share/iso-flag-png/mx.png"/></a> Source (Spanish)
+## 📑 Source (Spanish)
 Existen tres formatos como fuente; el principal es `PNG` puesto que este tipo de archivo se utilizó para crear los cursores y a pesar de no ser editable, puedes trabajar sobre estos, un ejemplo es modificando del círculo de peligro. También puedes agregarlos a sitios web o aplicaciones que requieran de una imagen rasterizada.
 
 Los dos siguientes son editables, uno de estos es el formato `SVG` que no incluye sombras ya que esas fueron creadas de manera no-vectorial. El último no es posible abrirlo con cualquier software pero lo comparto porque es el archivo original: `afdesign` para Affinity Designer v2 (incluye grupos de un solo objeto o capas en color gris y amarillo, pero esto ayuda a convertirlo a SVG).
