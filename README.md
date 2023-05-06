@@ -20,6 +20,48 @@ Made with 🤍 under [MIT LICENSE](LICENSE)
 
 </br>
 
+## Editables
+
+`afdesign:` Sorry I didn't use FOSS, this editable has some details that might seem meaningless like groups of single objects or gray and yellow color layers, but this helps to convert it to SVG.
+
+`svg:` Does not include shadows since they were added in a non-vectorial way.
+
+</br>
+
+### Convert afdesign and svg to left-handed version:
+
+1.- Select the **Backgrounds** and **Q'zero Cursor** layers at the same time and then click the "Flip Horizontal" button.
+
+2.- Expand the **Help** cursor group and flip the question mark that is indicated.
+
+3.- Export each cursor in PNG. **Work** and **Busy** include an animation for 8, don't forget to expand the groups and activate each danger circle one by one as indicated in the sequence.
+
+</br>
+
+### Convert afdesign to SVG:
+
+1.- Right click on the **Pointer** cursor and choose the option of all the same label color, press the FX icon in the bottom bar (next to the Adjustments icon) and deactivate the Outer shadow.
+
+2.- Activate the visibility of all cursors and backgrounds. Expand the **Work** cursor group, right click on **w-8** and select all of the same label color, turn on their visibility to show the missing objects.
+
+4.- Export it as SVG. In the "Rasterize" option choose "Nothing", then look for "Flatten transformations" and make sure to activate the box.
+
+5.- Edit the SVG version in a program like Inkscape, hide all the elements except for the purple background and the **Work** cursor with the danger circle **w-1**.
+
+6.- Rename the main layer to *Q'zero Cursor*, expand **Help** and change the hyphens to spaces in +Flip for Left*, lock the backgrounds layer. Finally save to overwrite.
+
+</br>
+
+### Convert to cursor:
+
+You can do it with your favorite editor, in this case the indications are only with animated cursors.
+
+The animation of the **Busy** cursor must be 7s/60 (the sequence of the frames are indicated in the name) and **Work** 8s/60. If you need to know where the hotspot goes just open an existing cursor to see the coordinates.
+</br>
+
+</br>
+
 ## Contributing
-<p>Big changes may not be made anymore since I have modified this cursor for about a year. In any case, sets with new designs are welcome.</p>
-<p>If you have any request, you can let me know.</p>
+Big changes may not be made anymore since I have modified this cursor for about a year. In any case, sets with new designs are welcome.
+
+If you have any request, you can let me know.
