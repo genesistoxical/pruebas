@@ -22,7 +22,7 @@ Made with 🤍 under [MIT LICENSE](LICENSE)
 ## Source (English)
 There are three formats as a source; the main one is `PNG` since this type of file was used to create the cursors and despite not being editable, you can work on them, an example is modifying the danger circle. You can also add them to websites or applications that require a raster image.
 
-The next two are editable, one is `SVG` but doesn't include shadows as these were non-vector. The last one is the one I used and I know it's not open source software but I'm sharing it because it's the original file: `afdesign` for Affinity Designer v2 (includes single object groups or layers in gray and yellow color, but this helps to convert it to SVG).
+The next two are editable, one of these is the `SVG` format which does not include shadows since those were created non-vectorial. The last one is not possible to open with any software but I am sharing it because it is the original file: `afdesign` for Affinity Designer v2 (includes single object groups or layers in gray and yellow color, but this helps to convert to SVG).
 
 </br>
 
@@ -30,7 +30,7 @@ The next two are editable, one is `SVG` but doesn't include shadows as these wer
 
 1. Select the **Backgrounds** and **Q'zero Cursor** layers at the same time and then click the *Flip Horizontal* button.
 
-2. Expand the **Help** cursor group and flip the question mark that is indicated.
+2. Expand the **Help** cursor group and flip the question mark indicated.
 
 3. Export each cursor in PNG. **Work** and **Busy** include an animation for 8, don't forget to expand the groups and activate each danger circle one by one as indicated in the sequence.
 
@@ -62,15 +62,15 @@ The animation of the **Busy** cursor must be **7s/60** (the sequence of the fram
 ## Source (Spanish)
 Existen tres formatos como fuente; el principal es `PNG` puesto que este tipo de archivo se utilizó para crear los cursores y a pesar de no ser editable, puedes trabajar sobre estos, un ejemplo es modificando del círculo de peligro. También puedes agregarlos a sitios web o aplicaciones que requieran de una imagen rasterizada.
 
-Los dos siguientes son editables, uno es `SVG` pero no incluye sombras debido estas eran no-vectorales. El último es el que yo utilicé y sé que no es un software de código abierto pero lo comparto porque es el archivo original: `afdesign` para Affinity Designer v2 (incluye grupos de un solo objeto o capas en color gris y amarillo, pero esto ayuda a convertirlo a SVG).
+Los dos siguientes son editables, uno de estos es el formato `SVG` que no incluye sombras ya que esas fueron creadas de manera no-vectorial. El último no es posible abrirlo con cualquier software pero lo comparto porque es el archivo original: `afdesign` para Affinity Designer v2 (incluye grupos de un solo objeto o capas en color gris y amarillo, pero esto ayuda a convertirlo a SVG).
 
 </br>
 
 ### Convertir editables a la versión zurda
 
-1. Selecciona las capas **Backgrounds** y **Q'zero Cursor** al mismo tiempo y después cliquea el botón de *Voltear horizontalmente+.
+1. Selecciona las capas **Backgrounds** y **Q'zero Cursor** al mismo tiempo y después cliquea el botón de *Voltear horizontalmente*.
 
-2. Expande el grupo del cursor **Help** y voltea el signo de interrogación que está indicado.
+2. Expande el grupo del cursor **Help** y voltea el signo de interrogación que se indica.
 
 3. Exporta cada cursor en PNG. **Work** y **Busy"** incluyen una animación para 8, no olvides expandir los grupos y activar cada círculo de peligro uno por uno com se indica en la secuencia.
 
