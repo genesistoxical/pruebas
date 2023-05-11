@@ -1,10 +1,10 @@
 </br>
-<p align="center"><a href="#"><img src="set/Preview.png" align="center" alt="Drop Icons"/></a></p>
+<p align="center"><a href="#"><img src="q'zero/Preview.png" align="center" alt="Q'zero Cursor"/></a></p>
 <h1 align="center">Q'zero Cursor</h1>
 <p align="center">Black cursor with danger style (left and right-handed) for Windows.</p>
 <p align="center">
 <a href="#"><img alt="Version" src="https://img.shields.io/badge/Version-1.0-8c79b7?style=flat-square&labelColor=343B45"/></a>
-<a href="LICENSE"><img alt="License" src="https://img.shields.io/github/license/genesistoxical/drop-icons?color=8c79b7&label=License&style=flat-square&labelColor=343B45"/></a>
+<a href="LICENSE"><img alt="License" src="https://img.shields.io/github/license/genesistoxical/qzero-cursor?color=8c79b7&label=License&style=flat-square&labelColor=343B45"/></a>
 </p>
 </br>
 
@@ -55,6 +55,12 @@ The next two are editable, one of these is the `SVG` format which does not inclu
 You can do it with your favorite editor, in this case the indications are only with animated cursors.
 
 The animation of the **Busy** cursor must be **7s/60** (the sequence of the frames are indicated in the name) and **Work** must be **8s/60**. If you need to know where to place the Hot Spot just open an existing cursor to see the coordinates.
+
+</br>
+
+### Release ZIP
+
+To finish, all you have to do is rename the *q'zero* folder to *Q'zero* and add it to a ZIP file. You can also do it automatically by running the **zip.bat** file, it seems to work on Windows 10 and 11 (because of the *tar* command).
 </br>
 
 </br>
@@ -95,6 +101,12 @@ Los dos siguientes son editables, uno de estos es el formato `SVG` que no incluy
 Puedes hacerlo con tu editor favorito, en esta caso las indicaciones son únicamente con los cursores animados.
 
 La animación del cursor **Busy** debe ser de **7s/60** (la secuencia de los frames están indicados en el nombre) y **Work** de **8s/60**. Si necesitas saber dónde colocar el Hot Spot solo abre un cursor existente para ver las coordenadas.
+
+</br>
+
+### Release ZIP
+
+Para finalizar, únicamente deberás renombrar la carpeta *q'zero* por *Q'zero* y añadirla a un archivo ZIP. También puedes hacerlo automáticamente ejecutando el archivo **zip.bat**, al parecer funciona en Windows 10 y 11 (debido al comando *tar*).
 </br>
 
 </br>
