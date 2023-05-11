@@ -1,4 +1,4 @@
-<p align="center"><picture><img alt="Image to Ico" src="assets/Preview-Page.png"/></picture></p>
+<p align="center"><picture><img alt="Q'zero Cursor" src="assets/Preview-Page.png"/></picture></p>
 
 Q'zero includes two sets: left and right-handed for better accessibility. It's created to be used on light or dark backgrounds, plus the waiting (danger) circle rotates.
 
