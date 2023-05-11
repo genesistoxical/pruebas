@@ -1,5 +1,5 @@
 </br>
-<p align="center"><a href="#"><img src="q'zero/Preview.png" align="center" alt="Q'zero Cursor"/></a></p>
+<p align="center"><a href="#"><img src="cursor/Preview.png" align="center" alt="Q'zero Cursor"/></a></p>
 <h1 align="center">Q'zero Cursor</h1>
 <p align="center">Black cursor with danger style (left and right-handed) for Windows.</p>
 <p align="center">
@@ -60,7 +60,7 @@ The animation of the **Busy** cursor must be **7s/60** (the sequence of the fram
 
 ### Release ZIP
 
-To finish, all you have to do is rename the *q'zero* folder to *Q'zero* and add it to a ZIP file. You can also do it automatically by running the **zip.bat** file, it seems to work on Windows 10 and 11 (because of the *tar* command).
+To finish, all you have to do is rename the *cursor* folder to *Q'zero Cursor* and add it to a ZIP file. You can also do it automatically by running the **zip.bat** file, it seems to work on Windows 10 and 11 (because of the *tar* command).
 </br>
 
 </br>
@@ -106,7 +106,7 @@ La animación del cursor **Busy** debe ser de **7s/60** (la secuencia de los fra
 
 ### Release ZIP
 
-Para finalizar, únicamente deberás renombrar la carpeta *q'zero* por *Q'zero* y añadirla a un archivo ZIP. También puedes hacerlo automáticamente ejecutando el archivo **zip.bat**, al parecer funciona en Windows 10 y 11 (debido al comando *tar*).
+Para finalizar, únicamente deberás renombrar la carpeta *cursor* por *Q'zero Cursor* y añadirla a un archivo ZIP. También puedes hacerlo automáticamente ejecutando el archivo **zip.bat**, al parecer funciona en Windows 10 y 11 (debido al comando *tar*).
 </br>
 
 </br>
