@@ -1,6 +1,6 @@
 # Image to Icon
 
-Convert image to icon online. Running on glitch at *[https://imagetoicon.glitch.me](https://imagetoicon.glitch.me)*
+Convert image to icon online. Running on glitch at [https://imagetoicon.glitch.me](https://imagetoicon.glitch.me)
 
 ### Features:
 
