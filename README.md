@@ -1,6 +1,6 @@
 # Image to Icon
 
-Convert image to icon online.
+Convert image to icon online. _Running on glitch at [https://imagetoicon.glitch.me](https://imagetoicon.glitch.me)_
 
 ### Features:
 
@@ -14,5 +14,3 @@ Convert image to icon online.
 You can find the credits on the [About](https://imagetoicon.glitch.me/about.html) page.
 
 Image to Icon is under **MIT LICENSE** - Copyright (c) 2023 Génesis Toxical
-
-_Running on glitch at [https://imagetoicon.glitch.me](https://imagetoicon.glitch.me)_
