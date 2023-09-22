@@ -35,9 +35,9 @@
 <a href="#"><img src="docs/assets/Drop-Icons-v2.gif"/></a>
 
 ## Usage
-Drag and drop your images into the empty space, you will preview three images, except if you only drag one or two. Below you can see the total amount of images to convert (subtracting three from preview). If you cannot drag, click on `Add images`.
+Drag and drop your images into the empty space, you will preview three images except if you only drag one or two. Below you can see the total amount of images to convert (subtracting three from preview). If you cannot drag, click on `Add images`.
 
-Leave the first switch on if you want to save them in the same folder, if you prefer to choose a specific folder, turn it off. You can also generate a tiny icon by turning on the second switch. Finally, click on `Convert` button, a loading circle will appear and as soon as everything is cleaned on the interface, you will have your icons created.
+Leave the first switch on if you want to save them in the same folder, if you prefer to choose a specific folder, turn it off. You can also generate a tiny icon by turning on the second switch. Finally, click on `Convert` button, a loading circle will appear and as soon as everything is cleaned on the interface you will have your icons created.
 
 If you need to delete the images you have added by mistake, click on the arrows icon. Remember that you can drag images as many times as you want even before clicking the `Convert` button.
 
@@ -45,13 +45,13 @@ If you need to delete the images you have added by mistake, click on the arrows 
 
 By clicking on the upper Info button, a new window will appear in which you can:
 
-- **Change language:** In the lower section that says Language, click on the little arrows icon to switch between Español or English, then click on the back button and it will restart with the language you have chosen.
+- **Change language:** In the **Language** section below, click on the little arrows icon to switch between Spanish or English, then click on the back button to apply and see the changes.
 
-- **Change theme:** At the bottom, click on `Change Theme` and choose your custom color in the small window that appears (you can help with the color palette or type in a HEX color), then select Apply. To return to the default one, repeat the previous steps and click the purple button below the tone selector, finally press Apply.
+- **Change theme:** Click on `Change Theme` and choose your custom color in the small window that appears (you can help with the color palette or type in a HEX color), then select Apply. To return to the default one, repeat the previous steps and click the purple button below the tone selector, finally press Apply.
 
-- **Icons (size):** At the bottom you can click on `Icons` to display a menu with two options; **Multiple** generates icons that include all the necessary sizes (16, 32, 48, 64, 128, 256 pixels) to make it look perfect. **256 px** generates icons with a single size for users who require it, however, it may look pixelated when displayed small.
+- **Icons (size):** You can click on `Icons` to display a menu with two options; **Multiple** generates icons that include all the necessary sizes (16, 32, 48, 64, 128, 256 pixels) to make it look perfect. **256 px** generates icons with a single size for users who require it, however, it may look pixelated when displayed small.
 
-- **Find information about third-party content:** In the left section are the names of each library, project, icons or fonts that were used and details of Drop Icons, click on one to read its license, which includes the author(s). Change the page with the small **Next 🢖🢖** link and return with **🢔🢔 Back**.
+- **Find information about third-party content:** In the left section are the names of each library, project, icons or fonts that were used and details of Drop Icons, click on one to read its license, which includes the author(s). You can read a short description below or click on the link icon to go to the repository/official site. Change the page with the small **Next 🢖🢖** link and return with **🢔🢔 Back**.
 
 <br>
 
