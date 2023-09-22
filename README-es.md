@@ -24,7 +24,7 @@
 * Guardar los iconos en la misma carpeta (por defecto).
 * Guardar los iconos en una carpeta específica.
 * Guarda la configuración en un archivo .ini (excepto para los switches).
-* Soporta formato .png .jpg .jpeg .jfif .bmp .gif y .svg
+* Compatible con los formatos .png .jpg .jpeg .jfif .bmp .gif y .svg
 * Habilitar y deshabilitar Topmost.
 * Elegir entre iconos de alta calidad con múltiples tamaños o solo 256 px como tamaño único.
 * Evitar la duplicación de una imagen que se ha añadido previamente.
@@ -49,9 +49,9 @@ Dando click en el botón superior de Info, aparecerá una nueva ventana en la qu
 
 - **Cambiar el tema:** En la parte inferior, haz clic sobre `Change Theme...` y elige tu color personalizado en la pequeña ventana que aparece (puedes ayudarte con la paleta de colores o escribir un color HEX), después selecciona Aplicar. Para regresar al que venía por defecto repite los pasos anteriores y cliquea el botón morado debajo del selector de tono, finalmente oprime Aplicar.
 
-- **Iconos (tamaño):** En la parte inferior puedes cliquear en `Iconos` para que se despliegue un menú con dos opciones; **Múltiple** genera iconos que incluyen todos los tamaños necesarios (16, 32, 48, 64, 128, 256 píxeles) para que se vea perfecto. **256 px** genera iconos de un solo tamaño para los usuarios que lo requieran, sin embargo, puede que luzca pixelado al mostrarse pequeño.
+- **Iconos (tamaño):** En la parte inferior puedes cliquear en `Iconos` para que se despliegue un menú con dos opciones; **Múltiple** genera iconos que incluyen todos los tamaños necesarios (16, 32, 48, 64, 128, 256 pixeles) para que se vea perfecto. **256 px** genera iconos de un solo tamaño para los usuarios que lo requieran, sin embargo, puede que luzca pixelado cuando se muestre pequeño.
 
-- **Encontrar información sobre el contenido de terceros:** En la sección izquierda están los nombres de cada librería, proyecto, iconos o tipografías que fueron utilizados, al igual que Drop Icons. Cliquea en uno de ellos para leer su licencia, la cual incluye el autor(a) o autores(as). Puedes leer una corta descripción más abajo o hacer clic sobre el icono del enlace para ir al repositorio o sitio oficial.
+- **Encontrar información sobre el contenido de terceros:** En la sección izquierda están los nombres de cada librería, proyecto, iconos o tipografías que fueron utilizados, al igual que Drop Icons. Cliquea en uno de ellos para leer su licencia, la cual incluye el autor(a) o autores(as). Puedes leer una corta descripción más abajo o hacer clic sobre el icono del enlace para ir al repositorio o sitio oficial. Podrás encontrar en letras minúsculas el enlace **Siguiente 🢖🢖** para ir a la segunda página y **🢔🢔 Atrás** para regresar.
 
 <br>
 
@@ -63,26 +63,31 @@ Para elegir que Drop Icons esté encima de todas las ventanas (Topmost) o no, da
 ## Instalador
 Para compilar el instalador es necesario [Inno Setup](https://jrsoftware.org/isinfo.php), los archivos se encuentran en la carpeta [installer src](/installer%20src). Solo debes abrir el proyecto (Installer.iss) y compilarlo, a menos que desees hacer una modificación. Al finalizar, en la misma ubicación dejará una carpeta llamada Output.
 
-**Portable with 7zip.bat** permite comprimir en .zip rápidamente la versión portable y elimina archivos innecesarios. Únicamente funciona con [7zip](https://www.7-zip.org/).
+**Portable with 7zip.bat** permite comprimir en .zip rápidamente la versión portable. Únicamente funciona con [7zip](https://www.7-zip.org/).
 
 Ambos .iss y .bat obtienen los archivos que son necesarios dentro de su carpeta y/o la carpeta Release (debido a las rutas relativas).
 
 ## Contribuciones
+* El paquete **HandyControls** dejará de actualizarse (por ahora o permanentemente) ya que la última versión no permite cambiar el tamaño de ToggleButtonSwitch.
 * Si haces comentarios en el código, preferiblemente en Español, por favor.
 * Los nombres de las variables deben estar en Inglés.
 * Si abres un **Issue**, puede ser en Inglés o Español.
 * **Pull request** en Inglés, en la descripción puedes agregar detalles en Inglés o Español.
-
+* Al convertir .svg primero se convierte a .png en una carpeta temporal y posteriormente de .png a icono. La prioridad sería .svg "directamente" a icono.
+  
 ## Configuración
 El archivo `Config.ini` almacena información del lenguaje, color del tema y si está activada o no la opción TopMost.
 
 ~~~
 [Options]
 Language = en
-Topmost = true
+Topmost = false
 
 [Theme]
 #FF9280FF
+
+[Size]
+Icons = multiple
 ~~~
 
 >Nota: las dos opciones de tipo switch no se guardan porque no son opciones que suelan activarse todo el tiempo.
@@ -101,6 +106,8 @@ Drop Icons está basado en [Iconizer](https://github.com/willnode/Iconizer) bajo
 
 * Los iconos son parte de [Teenyicons](https://github.com/teenyicons/teenyicons) bajo [MIT License](https://github.com/teenyicons/teenyicons/blob/master/LICENSE).
 
+* [SharpVectors](https://github.com/ElinamLLC/SharpVectors/) bajo [BSD 3-Clause](https://github.com/ElinamLLC/SharpVectors/blob/master/License.md).
+
 * [WinVersion](https://github.com/shaovoon/win_version_detection) detection bajo [MIT License](https://github.com/shaovoon/win_version_detection/blob/main/LICENSE).
 
 *Puedes encontrar todas las licencias [aquí](/src/DropIcons/Docs).*
@@ -117,6 +124,10 @@ Drop Icons está basado en [Iconizer](https://github.com/willnode/Iconizer) bajo
 En este segundo lanzamiento se ha mejorado la ventana **Acerca de**, el archivo **Config.ini** se ha modificado para usar solo el color del tema HEX y no RGB, además que se ha reemplazado el selector de color (para el tema) por uno mucho más moderno.
 
 Debido a este último cambio, se eliminó **Colors.dat** ya que no existe botón para guardar los personalizados, en su lugar hay una paleta de colores.
+
+<br>
+
+La `Versión 2.1.1` acepta dos formatos más que son **.jfif .gif** e incluso se agregó compatibilidad con **.svg**, gracias a una solicitud #problema. Hay opciones de tamaño para los iconos; Múltiple y 256 px, también gracias a otra solicitud #etiqueta.
 
 ## Licencia
 **MIT License**
