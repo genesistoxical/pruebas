@@ -19,17 +19,17 @@
 * Interfaz limpia e intuitiva.
 * Convertir rápidamente muchas imágenes en iconos a la vez, con la función de arrastrar y soltar.
 * Cambiar entre el idioma English y Español.
+* Compatibilidad con los formatos .png .jpg .jpeg .jfif .bmp .gif y .svg
 * Personalizar el color del tema.
 * Número de las imágenes a convertir, restando tres que se muestran como vista previa.
 * Guardar los iconos en la misma carpeta (por defecto).
 * Guardar los iconos en una carpeta específica.
 * Guarda la configuración en un archivo .ini (excepto para los switches).
-* Compatible con los formatos .png .jpg .jpeg .jfif .bmp .gif y .svg
 * Habilitar y deshabilitar Topmost.
 * Elegir entre iconos de alta calidad con múltiples tamaños o solo 256 px como tamaño único.
 * Evitar la duplicación de una imagen que se ha añadido previamente.
 * Opción para generar un icono mini.
-* Esquinas adaptables (redondeadas o simples), dependiendo la versión del sistema operativo. 🆕
+* Esquinas adaptables (redondeadas o simples), dependiendo la versión del sistema operativo.
 
 ## Previa
 <a href="#"><img src="docs/assets/Drop-Icons-v2.gif"/></a>
@@ -51,7 +51,7 @@ Dando click en el botón superior de Info, aparecerá una nueva ventana en la qu
 
 - **Iconos (tamaño):** En la parte inferior puedes cliquear en `Iconos` para que se despliegue un menú con dos opciones; **Múltiple** genera iconos que incluyen todos los tamaños necesarios (16, 32, 48, 64, 128, 256 pixeles) para que se vea perfecto. **256 px** genera iconos de un solo tamaño para los usuarios que lo requieran, sin embargo, puede que luzca pixelado cuando se muestre pequeño.
 
-- **Encontrar información sobre el contenido de terceros:** En la sección izquierda están los nombres de cada librería, proyecto, iconos o tipografías que fueron utilizados, al igual que Drop Icons. Cliquea en uno de ellos para leer su licencia, la cual incluye el autor(a) o autores(as). Puedes leer una corta descripción más abajo o hacer clic sobre el icono del enlace para ir al repositorio o sitio oficial. Podrás encontrar en letras minúsculas el enlace **Siguiente 🢖🢖** para ir a la segunda página y **🢔🢔 Atrás** para regresar.
+- **Encontrar información sobre el contenido de terceros:** En la sección izquierda están los nombres de cada librería, proyecto, iconos o tipografías que fueron utilizados y detalles de Drop Icons, cliquea en uno para leer su licencia, la cual incluye el autor(a) o autores(as). Puedes leer una corta descripción más abajo o hacer clic sobre el icono del enlace para ir al repositorio/sitio oficial. Cambia de página con el pequeño enlace **Siguiente 🢖🢖** y regresa con **🢔🢔 Atrás**.
 
 <br>
 
