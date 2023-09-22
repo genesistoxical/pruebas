@@ -36,7 +36,7 @@ By clicking on the upper Info button, a new window will appear in which you can:
 
 - **Icons (size):** You can click on `Icons` to display a menu with two options; **Multiple** generates icons that include all the necessary sizes (16, 32, 48, 64, 128, 256 pixels) to make it look perfect. **256 px** generates icons with a single size for users who require it, however, it may look pixelated when displayed small.
 
-- **Find information about third-party content:** In the left section are the names of each library, project, icons or fonts that were used and details of Drop Icons, click on one to read its license, which includes the author(s). You can read a short description below or click on the link icon to go to the repository/official site. Change the page with the small **Next 🢖🢖** link and return with **🢔🢔 Back**.
+- **Find information about third-party content:** In the left section are the names of each library, project, icons or fonts that were used and details of Drop Icons, click on one to read its license which includes the author(s). You can read a short description below or click on the link icon to go to the repository/official site. Change the page with the small **Next 🢖🢖** link and return with **🢔🢔 Back**.
 
 <br>
 
