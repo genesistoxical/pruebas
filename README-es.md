@@ -127,7 +127,7 @@ Debido a este último cambio, se eliminó **Colors.dat** ya que no existe botón
 
 <br>
 
-La `Versión 2.1.1` acepta dos formatos más que son **.jfif .gif** e incluso se agregó compatibilidad con **.svg**, gracias a una solicitud #problema. Hay opciones de tamaño para los iconos; Múltiple y 256 px, también gracias a otra solicitud #etiqueta.
+La `Versión 2.1.1` acepta dos formatos más que son **.jfif .gif** e incluso se agregó compatibilidad con **.svg** (gracias a una solicitud). Hay opciones de tamaño para los iconos; Múltiple y 256 px, también gracias a otra solicitud.
 
 ## Licencia
 **MIT License**
