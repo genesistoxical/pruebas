@@ -73,7 +73,7 @@ Both .iss and .bat get the files that are needed within their folder and/or the 
 * Variable names must be in English.
 * If you open an **Issue**, it can be in English o Spanish.
 * **Pull request** in English, in the description you can add details in English or Spanish.
-* When converting .svg it is first converted to .png in a temporary folder and then from .png to icon. The priority would be .svg "directly" to icon.
+* When converting **.svg** it is first converted to **.png** in a temporary folder and then from **.png** to icon. The priority would be **.svg** "directly" to icon.
   
 ## Config
 `Config.ini` file stores information about the language, theme color, icon size and whether or not the Topmost option is enabled.
@@ -127,7 +127,7 @@ Due to this last change, **Colors.dat** was removed since there is no button to 
 
 <br>
 
-`Version 2.1.1` accepts two more formats which are **.jfif .gif** and even added **.svg** support (thanks to a request). There are size options for the icons; Multiple and 256 px, also thanks to another request. #1
+`Version 2.1.1` accepts three more formats: **.jfif .gif** and **.svg**, for the latter compatibility had to be added [📍Can you add support to SVG file?](https://github.com/genesistoxical/drop-icons/issues/2). There are now size options for icons; **Multiple** and **256 px** [📍Icon Default 256x256](https://github.com/genesistoxical/drop-icons/discussions/1).
 
 ## License
 **MIT License**
