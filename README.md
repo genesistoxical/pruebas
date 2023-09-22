@@ -76,7 +76,7 @@ Both .iss and .bat get the files that are needed within their folder and/or the 
 * When converting .svg it is first converted to .png in a temporary folder and then from .png to icon. The priority would be .svg "directly" to icon.
   
 ## Config
-`Config.ini` file stores information about the language, theme color, and whether or not the Topmost option is enabled.
+`Config.ini` file stores information about the language, theme color, icon size and whether or not the Topmost option is enabled.
 
 ~~~
 [Options]
