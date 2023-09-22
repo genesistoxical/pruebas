@@ -19,12 +19,12 @@
 * Clean and intuitive interface.
 * Quickly convert multiple images to icons at once, with Drag and Drop feature.
 * Switch between English and Spanish language.
+* Support for .png .jpg .jpeg .jfif .bmp .gif and .svg formats.
 * Customize theme color.
 * Number of images to convert, subtracting three that are shown as preview.
 * Save icons in the same folder (default).
 * Save icons in a specific folder.
 * Saves the configuration to an .ini file (except for switches).
-* Supports .png .jpg .jpeg .jfif .bmp .gif and .svg formats.
 * Enable and disable Topmost.
 * Choose between high quality icons with multiple sizes or just 256 px as a single size.
 * Prevent duplication of an image that has been previously added.
@@ -51,8 +51,7 @@ By clicking on the upper Info button, a new window will appear in which you can:
 
 - **Icons (size):** At the bottom you can click on `Icons` to display a menu with two options; **Multiple** generates icons that include all the necessary sizes (16, 32, 48, 64, 128, 256 pixels) to make it look perfect. **256 px** generates icons with a single size for users who require it, however, it may look pixelated when displayed small.
 
-- **Find information about third-party content:** In the left section are the names of each library, project, icons or fonts that were used, as well as Drop Icons.
-Click on one of them to read its license, which includes the author(s). You can find in small letters the **Next 🢖🢖** link to go to the second page and **🢔🢔 Back** to return.
+- **Find information about third-party content:** In the left section are the names of each library, project, icons or fonts that were used and details of Drop Icons, click on one to read its license, which includes the author(s). Change the page with the small **Next 🢖🢖** link and return with **🢔🢔 Back**.
 
 <br>
 
