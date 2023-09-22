@@ -129,7 +129,7 @@ Debido a este último cambio, se eliminó **Colors.dat** ya que no existe botón
 
 `Versión 2.1.1` permite convertir tres formatos más; **.jfif .gif** y **.svg**, para este último fue necesario agregar compatibilidad [📍Can you add support to SVG file?](https://github.com/genesistoxical/drop-icons/issues/2). Ahora hay opciones de tamaño para los iconos: **Múltiple** y **256 px** [📍Icon Default 256x256](https://github.com/genesistoxical/drop-icons/discussions/1).
 
-Además de otras pequeñas mejoras, se implementó una nueva página en la ventana **Acerca de** y se agregó una carpeta llamada **Libs** en los binarios para tener más organización con las dll(s).
+Además de otras pequeñas mejoras, se implementó una nueva página en la ventana **Acerca de** y se agregó una carpeta con el nombre **Libs** en los binarios para una mejor organización de dll(s).
 
 ## Licencia
 **MIT License**
