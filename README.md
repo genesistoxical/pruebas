@@ -128,7 +128,7 @@ Due to this last change, **Colors.dat** was removed since there is no button to 
 
 <br>
 
-`Version 2.1.1` accepts two more formats which are **.jfif .gif** and even **.svg** support was added thanks to a request #issue. There are size options for icons; Multiple and 256 px, also thanks to another request #tag.
+`Version 2.1.1` accepts two more formats which are **.jfif .gif** and even **.svg** support was added, thanks to a request #issue. There are size options for icons; Multiple and 256 px, also thanks to another request #tag.
 
 ## License
 **MIT License**
