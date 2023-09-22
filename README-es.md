@@ -51,7 +51,7 @@ Dando click en el botón superior de Info, aparecerá una nueva ventana en la qu
 
 - **Iconos (tamaño):** Puedes cliquear en `Icono` para que se despliegue un menú con dos opciones; **Múltiple** genera iconos que incluyen todos los tamaños necesarios (16, 32, 48, 64, 128, 256 pixeles) para que se vea perfecto. **256 px** genera iconos de un solo tamaño para los usuarios que lo requieran, sin embargo, puede que luzca pixelado cuando se muestre pequeño.
 
-- **Encontrar información sobre el contenido de terceros:** En la sección izquierda están los nombres de cada librería, proyecto, iconos o tipografías que fueron utilizados y detalles de Drop Icons, cliquea en uno para leer su licencia, la cual incluye el autor(a) o autores(as). Puedes leer una corta descripción más abajo o hacer clic sobre el icono del enlace para ir al repositorio/sitio oficial. Cambia de página con el pequeño enlace **Siguiente 🢖🢖** y regresa con **🢔🢔 Atrás**.
+- **Encontrar información sobre el contenido de terceros:** En la sección izquierda están los nombres de cada librería, proyecto, iconos o tipografías que fueron utilizados y detalles de Drop Icons, cliquea en uno para leer su licencia la cual incluye el autor(a) o autores(as). Puedes leer una corta descripción más abajo o hacer clic sobre el icono del enlace para ir al repositorio/sitio oficial. Cambia de página con el pequeño enlace **Siguiente 🢖🢖** y regresa con **🢔🢔 Atrás**.
 
 <br>
 
