@@ -5,7 +5,7 @@
 
 <p align="center">
  <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-9280FF?style=flat-square&labelColor=343B45"/></a>
- <a href="https://github.com/genesistoxical/drop-icons/releases/tag/2.1.0"><img src="https://img.shields.io/github/v/release/genesistoxical/drop-icons.svg?color=9280FF&label=Release&style=flat-square&labelColor=343B45"/></a>
+ <a href="https://github.com/genesistoxical/drop-icons/releases/tag/2.1.1"><img src="https://img.shields.io/github/v/release/genesistoxical/drop-icons.svg?color=9280FF&label=Release&style=flat-square&labelColor=343B45"/></a>
  <a href="#"><img alt="NET" src="https://img.shields.io/badge/.NET_Framework-4.8-9280FF?style=flat-square&labelColor=343B45"/></a> 
  <a href="/installer%20src"><img alt="Installer" src="https://img.shields.io/badge/Installer-ISS-9280FF?style=flat-square&labelColor=343B45"/></a>
  <a href="#"><img alt="Languages" src="https://img.shields.io/badge/Languages-2-9280FF?style=flat-square&labelColor=343B45"/></a>
@@ -23,11 +23,11 @@
 * Number of images to convert, subtracting three that are shown as preview.
 * Save icons in the same folder (default).
 * Save icons in a specific folder.
-* Supports formats: .png .jpg .jpeg .jfif .bmp .gif .svg
 * Saves the configuration to an .ini file (except for switches).
+* Supports .png .jpg .jpeg .jfif .bmp .gif and .svg formats.
 * Enable and disable Topmost.
-* Choose between high quality icons with multiple sizes or just 256px as a single size.
-* Prevents duplication of an image that has been previously added.
+* Choose between high quality icons with multiple sizes or just 256 px as a single size.
+* Prevent duplication of an image that has been previously added.
 * Option to generate tiny icon.
 * Adaptive corners (rounded or simple), depending on the OS version.
 
