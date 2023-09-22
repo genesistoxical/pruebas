@@ -4,16 +4,17 @@ Drop Icons is a open source utility to convert images to icons (.ico) for Window
 * Clean and intuitive interface.
 * Quickly convert multiple images to icons at once, with Drag and Drop feature.
 * Switch between English and Spanish language.
+* Support for .png .jpg .jpeg .jfif .bmp .gif and .svg formats.
 * Customize theme color.
 * Number of images to convert, subtracting three that are shown as preview.
 * Save icons in the same folder (default).
 * Save icons in a specific folder.
 * Saves the configuration to an .ini file (except for switches).
 * Enable and disable Topmost.
-* Generated icons are 16px but include 16, 32, 48, 64, 128, 256 pixel sizes for a high quality icon.
-* Prevents duplication of an image that has been previously added.
+* Choose between high quality icons with multiple sizes or just 256 px as a single size.
+* Prevent duplication of an image that has been previously added.
 * Option to generate tiny icon.
-* Adaptive corners (rounded or simple), depending on the OS version. 🆕
+* Adaptive corners (rounded or simple), depending on the OS version.
 
 ## Preview
 <picture><img alt="Drop Icons" src="assets/Drop-Icons-v2.gif"/></picture>
@@ -31,10 +32,11 @@ By clicking on the upper Info button, a new window will appear in which you can:
 
 - **Change language:** In the lower section that says Language, click on the little arrows icon to switch between Español or English, then click on the back button and it will restart with the language you have chosen.
 
-- **Change theme:** At the bottom, click on `Change Theme...` and choose your custom color in the small window that appears (you can help with the color palette or type in a HEX color), then select Apply. To return to the default one, repeat the previous steps and click the purple button below the tone selector, finally press Apply.
+- **Change theme:** At the bottom, click on `Change Theme` and choose your custom color in the small window that appears (you can help with the color palette or type in a HEX color), then select Apply. To return to the default one, repeat the previous steps and click the purple button below the tone selector, finally press Apply.
 
-- **Find information about third-party content:** In the left section are the names of each library, project, icons or fonts that were used, as well as Drop Icons.
-Click on one of them to read its license, which includes the author(s). You can read a short description below or click on the link icon to go to the repository or official site.
+- **Icons (size):** At the bottom you can click on `Icons` to display a menu with two options; **Multiple** generates icons that include all the necessary sizes (16, 32, 48, 64, 128, 256 pixels) to make it look perfect. **256 px** generates icons with a single size for users who require it, however, it may look pixelated when displayed small.
+
+- **Find information about third-party content:** In the left section are the names of each library, project, icons or fonts that were used and details of Drop Icons, click on one to read its license, which includes the author(s). Change the page with the small **Next 🢖🢖** link and return with **🢔🢔 Back**.
 
 <br>
 
