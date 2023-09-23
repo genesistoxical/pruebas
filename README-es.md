@@ -47,11 +47,11 @@ Dando click en el botón superior de Info, aparecerá una nueva ventana en la qu
 
 - **Cambiar el idioma:** En la sección inferior **Idioma**, haz clic en el icono de las flechitas para cambiar entre Español o English, luego clic en el botón de regresar para aplicar y ver los cambios.
 
-- **Cambiar el tema:** Haz clic sobre `Cambiar Tema` y elige tu color personalizado en la pequeña ventana que aparece (puedes ayudarte con la paleta de colores o escribir un color HEX), después selecciona Aplicar. Para regresar al que venía por defecto repite los pasos anteriores y cliquea el botón morado debajo del selector de tono, finalmente oprime Aplicar.
+- **Cambiar el tema:** Haz clic sobre `Cambiar Tema` para abrir el selector de color y elegir uno personalizado (puedes utilizar la paleta de colores también), una vez que lo tengas solo oprime Aplicar. Para regresar al que venía por defecto repite los pasos anteriores y cliquea el botón morado debajo del selector de tono, finalmente cliquea Aplicar.
+- 
+- **Iconos (tamaño):** Puedes cliquear en `Icono` para que se despliegue un menú con dos opciones; **Múltiple** genera iconos que incluyen todos los tamaños necesarios (16, 32, 48, 64, 128, 256 pixeles) para que se vea perfecto. **256 px** genera iconos de un solo tamaño para los usuarios que lo requieran, sin embargo, puede que luzca pixelado cuando se muestre pequeño. Sólo activa la casilla que prefieras.
 
-- **Iconos (tamaño):** Puedes cliquear en `Icono` para que se despliegue un menú con dos opciones; **Múltiple** genera iconos que incluyen todos los tamaños necesarios (16, 32, 48, 64, 128, 256 pixeles) para que se vea perfecto. **256 px** genera iconos de un solo tamaño para los usuarios que lo requieran, sin embargo, puede que luzca pixelado cuando se muestre pequeño.
-
-- **Encontrar información sobre el contenido de terceros:** En la sección izquierda están los nombres de cada librería, proyecto, iconos o tipografías que fueron utilizados y detalles de Drop Icons, cliquea en uno para leer su licencia la cual incluye el autor(a) o autores(as). Puedes leer una corta descripción más abajo o hacer clic sobre el icono del enlace para ir al repositorio/sitio oficial. Cambia de página con el pequeño enlace **Siguiente 🢖🢖** y regresa con **🢔🢔 Atrás**.
+- **Encontrar información sobre el contenido de terceros:** En la parte izquierda están los nombres de cada librería, proyecto, iconos o tipografías que fueron utilizados, cliquea uno para leer su licencia y autor(a) o autores(as), además de una corta descripción. Puedes hacer clic sobre el icono de clip para ir al repositorio/sitio oficial de cada uno y cambiar de página con **Siguiente 🢖🢖** o **🢔🢔 Atrás**.
 
 <br>
 
