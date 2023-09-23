@@ -22,7 +22,7 @@ Drop Icons is a open source utility to convert images to icons (.ico) for Window
 ## Usage
 Drag and drop your images into the empty space, you will preview three images except if you only drag one or two. Below you can see the total amount of images to convert (subtracting three from preview). If you cannot drag, click on `Add images`.
 
-Leave the first switch on if you want to save them in the same folder, if you prefer to choose a specific folder, turn it off. You can also generate a tiny icon by turning on the second switch. Finally, click on `Convert` button, a loading circle will appear and as soon as everything is cleaned on the interface you will have your icons created.
+Leave the first switch on if you want to save them in the same folder, if you prefer to choose a specific folder, turn it off. You can also generate a tiny icon by turning on the second switch. Finally, click on `Convert` button, you will notice a loading circle appear and once the interface restarts you will have your icons created.
 
 If you need to delete the images you have added by mistake, click on the arrows icon. Remember that you can drag images as many times as you want even before clicking the `Convert` button.
 
@@ -30,13 +30,13 @@ If you need to delete the images you have added by mistake, click on the arrows 
 
 By clicking on the upper Info button, a new window will appear in which you can:
 
-- **Change language:** In the **Language** section below, click on the little arrows icon to switch between Spanish or English, then click on the back button to apply and see the changes.
+- **Change language:** In the **Language** section below, click on the little arrows icon to change between English or Español, finally click on the return button to apply and see changes.
 
-- **Change theme:** Click on `Change Theme` and choose your custom color in the small window that appears (you can help with the color palette or type in a HEX color), then select Apply. To return to the default one, repeat the previous steps and click the purple button below the tone selector, finally press Apply.
+- **Change theme:** Click on `Change Theme` to open the color picker and choose a custom one, then click Apply. To return to the default, repeat the previous steps and press the purple button below the tone selector, finally click Apply.
 
-- **Icons (size):** You can click on `Icons` to display a menu with two options; **Multiple** generates icons that include all the necessary sizes (16, 32, 48, 64, 128, 256 pixels) to make it look perfect. **256 px** generates icons with a single size for users who require it, however, it may look pixelated when displayed small.
+- **Icons (size):** By clicking on `Icons` a menu will be displayed with two options (check the box); **Multiple** generates icons that include all necessary sizes such as 16, 32, 48, 64, 128 and 256 px. On the other hand, **256 px** generates icons of a single size but these look pixelated when displayed small.
 
-- **Find information about third-party content:** In the left section are the names of each library, project, icons or fonts that were used and details of Drop Icons, click on one to read its license which includes the author(s). You can read a short description below or click on the link icon to go to the repository/official site. Change the page with the small **Next 🢖🢖** link and return with **🢔🢔 Back**.
+- **Third-party content:** On the left side are the names of each library, project, icons or fonts that were used, click one to read its license and author(s), as well as a short description. You can click on the clip icon to go to each repository/official site and change pages with **Next 🢖🢖** or **🢔🢔 Back**.
 
 <br>
 
