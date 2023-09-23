@@ -49,7 +49,7 @@ By clicking on the upper Info button, a new window will appear in which you can:
 
 - **Change theme:** Click on `Change Theme` to open the color picker and choose a custom one (you can use the color palette too), once you have it just press Apply. To return to the default, repeat the previous steps and click the purple button below the tone selector, finally click Apply.
 
-- **Icons (size):** By clicking on `Icon` a menu will be displayed with two options and you must activate the box you prefer; **Multiple** generates icons that include all the necessary sizes (16, 32, 48, 64, 128, 256 pixels) to make it look perfect. **256 px** generates icons with a single size for users who require it, however, it may look pixelated when displayed small.
+- **Icons (size):** By clicking on `Icon` a menu will be displayed with two options and you must activate the box you prefer; **Multiple** generates icons that include all the necessary sizes (16, 32, 48, 64, 128, 256 px) to make it look perfect. **256 px** generates icons with a single size for users who require it, however, it may look pixelated when displayed small.
 
 - **Find information about third-party content:** On the left side are the names of each library, project, icons or fonts that were used, click one to read its license and author(s), as well as a short description. You can click on the clip icon to go to each repository/official site and change pages with **Next 🢖🢖** or **🢔🢔 Back**.
 
