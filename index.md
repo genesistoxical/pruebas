@@ -15,7 +15,7 @@ Drop Icons is a open source utility to convert images to icons (.ico) for Window
 * Prevent duplication of an image that has been previously added.
 * Option to generate tiny icon.
 * Adaptive corners (rounded or simple), depending on the OS version.
-
+  
 ## Preview
 <picture><img alt="Drop Icons" src="assets/Drop-Icons-v2.gif"/></picture>
 
