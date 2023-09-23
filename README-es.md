@@ -45,11 +45,11 @@ Si necesitas eliminar las imágenes que agregaste por error, haz clic en el icon
 
 Dando click en el botón superior de Info, aparecerá una nueva ventana en la que puedes:
 
-- **Cambiar el idioma:** En la sección inferior **Idioma**, haz clic en el icono de las flechitas para cambiar entre Español o English, luego clic en el botón de regresar para aplicar y ver los cambios.
+- **Cambiar el idioma:** En la sección inferior **Idioma**, haz clic en el icono de las flechitas para cambiar entre Español o English, por último da clic en el botón de regresar para aplicar y ver los cambios.
 
-- **Cambiar el tema:** Haz clic sobre `Cambiar Tema` para abrir el selector de color y elegir uno personalizado (puedes utilizar la paleta de colores también), una vez que lo tengas solo oprime Aplicar. Para regresar al que venía por defecto repite los pasos anteriores y cliquea el botón morado debajo del selector de tono, oprime cliquea Aplicar.
+- **Cambiar el tema:** Haz clic sobre `Cambiar Tema` para abrir el selector de color y elegir uno personalizado, cuando lo tengas da clic en Aplicar. Para regresar al color por defecto repite los pasos anteriores y presiona el botón morado debajo del selector de tono, finalmente haz clic en Aplicar.
  
-- **Iconos (tamaño):** Al cliquear en `Icono` se despliegará un menú con dos opciones y deberás activar la casilla que prefieras; **Múltiple** genera iconos que incluyen todos los tamaños necesarios (16, 32, 48, 64, 128, 256 px). **256 px** genera iconos de un solo tamaño, sin embargo, puede que luzca pixelado cuando se muestre pequeño.
+- **Iconos (tamaño):** Al cliquear en `Icono` se despliegará un menú con dos opciones y deberás activar la casilla que prefieras; **Múltiple** genera iconos que incluyen todos los tamaños necesarios (16, 32, 48, 64, 128, 256 px). Por otra parte, **256 px** genera iconos de un solo tamaño pero lucen pixelados cuando se muestran pequeños.
 
 - **Encontrar información sobre el contenido de terceros:** En la parte izquierda están los nombres de cada librería, proyecto, iconos o tipografías que fueron utilizados, cliquea uno para leer su licencia y autor(a) o autores(as), además de una corta descripción. Puedes hacer clic sobre el icono de clip para ir al repositorio/sitio oficial de cada uno y cambiar de página con **Siguiente 🢖🢖** o **🢔🢔 Atrás**.
 
