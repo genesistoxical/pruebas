@@ -6,6 +6,3 @@ show_downloads: true
 github:
   zip_url: https://github.com/genesistoxical/drop-icons/releases/download/1.0.0/Drop-Icons.zip
   is_project_page: true
-
-- name: Delete Deployment Environment
-uses: strumwolf/delete-deployment-environment@v2.3.0
