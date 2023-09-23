@@ -45,7 +45,7 @@ Si necesitas eliminar las imágenes que agregaste por error, haz clic en el icon
 
 Dando click en el botón superior de Info, aparecerá una nueva ventana en la que puedes:
 
-- **Cambiar el idioma:** En la sección inferior **Idioma**, haz clic en el icono de las flechitas para cambiar entre Español o English, por último da clic en el botón de regresar para aplicar y ver los cambios.
+- **Cambiar el idioma:** En la sección inferior **Idioma**, haz clic en el icono de las flechitas para cambiar entre English o Español, por último da clic en el botón de regresar para aplicar y ver los cambios.
 
 - **Cambiar el tema:** Haz clic sobre `Cambiar Tema` para abrir el selector de color y elegir uno personalizado, cuando lo tengas da clic en Aplicar. Para regresar al color por defecto repite los pasos anteriores y presiona el botón morado debajo del selector de tono, finalmente haz clic en Aplicar.
  
