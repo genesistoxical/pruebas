@@ -51,7 +51,7 @@ By clicking on the upper Info button, a new window will appear in which you can:
 
 - **Icons (size):** By clicking on `Icons` a menu will be displayed with two options for you to activate the box you prefer; **Multiple** generates icons that include all necessary sizes such as 16, 32, 48, 64, 128 and 256 px. On the other hand, **256 px** generates icons of a single size but these look pixelated when displayed small.
 
-- **Find information about third-party content:** On the left side are the names of each library, project, icons or fonts that were used, click one to read its license and author(s), as well as a short description. You can click on the clip icon to go to each repository/official site and change pages with **Next 🢖🢖** or **🢔🢔 Back**.
+- **Third-party content:** On the left side are the names of each library, project, icons or fonts that were used, click one to read its license and author(s), as well as a short description. You can click on the clip icon to go to each repository/official site and change pages with **Next 🢖🢖** or **🢔🢔 Back**.
 
 <br>
 
