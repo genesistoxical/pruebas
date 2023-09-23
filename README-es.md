@@ -49,7 +49,7 @@ Dando click en el botón superior de Info, aparecerá una nueva ventana en la qu
 
 - **Cambiar el tema:** Haz clic sobre `Cambiar Tema` para abrir el selector de color y elegir uno personalizado, cuando lo tengas da clic en Aplicar. Para regresar al color por defecto repite los pasos anteriores y presiona el botón morado debajo del selector de tono, finalmente haz clic en Aplicar.
  
-- **Iconos (tamaño):** Al cliquear en `Icono` se despliegará un menú con dos opciones para que actives la casilla que prefieras; **Múltiple** genera iconos que incluyen todos los tamaños necesarios como 16, 32, 48, 64, 128 y 256 px. Por otra parte, **256 px** genera iconos de un solo tamaño pero lucen pixelados cuando se muestran pequeños.
+- **Iconos (tamaño):** Al cliquear en `Icono` se despliegará un menú con dos opciones (activa la casilla); **Múltiple** genera iconos que incluyen todos los tamaños necesarios como 16, 32, 48, 64, 128 y 256 px. Por otra parte, **256 px** genera iconos de un solo tamaño pero lucen pixelados cuando se muestran pequeños.
 
 - **Contenido de terceros:** En la parte izquierda están los nombres de cada librería, proyecto, iconos o tipografías que fueron utilizados, cliquea uno para leer su licencia y autor(a) o autores(as), además de una corta descripción. Puedes hacer clic sobre el icono de clip para ir al repositorio/sitio oficial de cada uno y cambiar de página con **Siguiente 🢖🢖** o **🢔🢔 Atrás**.
 
