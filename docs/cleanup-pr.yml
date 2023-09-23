@@ -1,2 +1,18 @@
-- name: Delete Deployment Environment
-uses: strumwolf/delete-deployment-environment@v2.3.0
+#
+# Cleans up a GitHub PR
+#
+name: 🧼 Clean up environment
+on:
+pull_request:
+  types:
+    - closed
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    permissions: write-all
+
+    steps:
+      - uses: actions/checkout@v3
+      - name: 🗑 Delete deployment environment
+        uses: strumwolf/delete-deployment-environment@v2.2.3
