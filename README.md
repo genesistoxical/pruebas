@@ -49,7 +49,7 @@ By clicking on the upper Info button, a new window will appear in which you can:
 
 - **Change theme:** Click on `Change Theme` to open the color picker and choose a custom one, then click Apply. To return to default values, repeat the previous steps and press the purple button below the tone selector. Finally click Apply.
 
-- **Format:** Clicking on `Format` will display a menu with two options to choose the sizes that will be included **within the icon** (check the box): **Multiple** generates a high quality icon that include all necessary sizes such as 16, 32, 48, 64, 128 and 256 pixels, although the output dimensions will be 16px. The last option is **256 px** which generates an icon with a single size but look pixelated in the details view.
+- **Format:** Clicking on `Format` will display a menu with two options to choose the sizes that will be included ***within the icon*** (check the box): **Multiple** generates a high quality icon that include all necessary sizes such as 16, 32, 48, 64, 128 and 256 pixels, although the output dimensions will be 16px. The last option is **256 px** which generates an icon with a single size but look pixelated in the details view.
      >Note: If the **Generate tiny icon** switch is on, a small icon will be created regardless of its Format option.
 
 - **Third-party content:** On the left side are the names of each library, project, icons or fonts that were used, click one to read its license and author(s), as well as a short description. You can click on the clip icon to go to each repository/official site and change pages with **Next 🢖🢖** or **🢔🢔 Back**.
@@ -131,6 +131,10 @@ Due to this last change, **Colors.dat** was removed since there is no button to 
 `Version 2.1.1` allows you to convert three more formats; **.jfif .gif** and **.svg**, for the latter it was necessary to add compatibility [📍Can you add support to SVG file?](https://github.com/genesistoxical/drop-icons/issues/2). There are now size options for icons: **Multiple** and **256 px** [📍Icon Default 256x256](https://github.com/genesistoxical/drop-icons/discussions/1).
 
 In addition to other small improvements, a new page was implemented in the **About** window and a folder named **Libs** was added in the binaries for better organization of dll(s).
+
+<br>
+
+`Version 2.1.2` includes minor updates to the **About** window: The setting for sizes included within the icon is now called **Format** instead of **Icons**, to avoid confusion. Also updated was an issue in an attribution link, as well as other small changes to code variables.
 
 ## License
 **MIT License**
