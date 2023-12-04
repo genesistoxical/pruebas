@@ -1,34 +1,9 @@
-theme: jekyll-theme-modernist
-title: Q'zero Cursor
-description: Black cursor with danger style (left and right-handed) for Windows.
+theme: jekyll-theme-cayman
+title: [Drop Icons]
+description: [(.ico)]
 show_downloads: true
 
 github:
-  zip_url: https://github.com/genesistoxical/drop-icons/releases/download/1.0.0/Drop-Icons.zip
-  is_project_page: true
-
-- name: Delete Previous deployments
-        uses: actions/github-script@v6
-        with:
-          script: |
-            const deployments = await github.rest.repos.listDeployments({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              sha: context.sha
-            });
-            await Promise.all(
-              deployments.data.map(async (deployment) => {
-                # we can only delete inactive deployments, so let's deactivate them first
-                await github.rest.repos.createDeploymentStatus({ 
-                  owner: context.repo.owner, 
-                  repo: context.repo.repo, 
-                  deployment_id: deployment.id, 
-                  state: 'inactive' 
-                });
-                return github.rest.repos.deleteDeployment({
-                  owner: context.repo.owner,
-                  repo: context.repo.repo,
-                  deployment_id: deployment.id
-                });
-              })
-            );
+  zip_url: https://github.com/genesistoxical/drop-icons/releases/download/2.1.1/Drop-Icons.zip
+  tar_url: https://github.com/genesistoxical/drop-icons/releases/download/2.1.1/Drop-Icons-Installer.exe
+  is_project_page: false
