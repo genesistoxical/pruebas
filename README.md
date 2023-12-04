@@ -87,8 +87,8 @@ Topmost = false
 [Theme]
 #FF9280FF
 
-[Size]
-Icons = multiple
+[Format]
+Size = multiple
 ~~~
 
 >Note: The two switch-type options are not saved because they are not options that are usually activated all the time.
