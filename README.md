@@ -24,7 +24,7 @@
 * Number of images to convert, subtracting three that are shown as preview.
 * Save icons in the same folder (default) or in a specific one.
 * Enable and disable Topmost.
-* Icon format: Multiple (high quality, includes all sizes within one icon) or 256 px.
+* Advanced option to choose format (sizes included within the icon), [read details](#format).
 * Prevent duplication of an image that has been previously added.
 * Option to generate tiny icon.
 * Adaptive corners (rounded or simple), depending on the OS version.
@@ -47,6 +47,7 @@ By clicking on the upper Info button, a new window will appear in which you can:
 - **Change theme:** Click on `Change Theme` to open the color picker and choose a custom one, then click Apply. To return to default values, repeat the previous steps and press the purple button below the tone selector. Finally click Apply.
 
 - **Change language:** In the **Language** section below, click on the little arrows icon to change between English or Español, finally click on the return button to apply and see changes.
+<p id="format"></p>
 
 - **Format:** Clicking on `Format` will display a menu with two options (check the box) to choose the sizes that will be included within the icon: **Multiple** generates a high quality icon that include all necessary sizes such as 16, 32, 48, 64, 128 and 256 pixels, although the output dimensions will be 16px. The last option is **256 px** which generates an icon with a single size but look pixelated in the details view.
      >Note: If the **Generate tiny icon** switch is on, a small icon will be created regardless of its Format option.
