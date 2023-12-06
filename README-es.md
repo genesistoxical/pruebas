@@ -40,8 +40,7 @@ Deja el primer switch activado si deseas guardarlos en la misma carpeta, si pref
 
 Si necesitas eliminar las imágenes que agregaste por error, haz clic en el icono de las flechas. Recuerda que puedes arrastrar imágenes tantas veces como quieras antes de hacer clic en el botón `Convertir`.
 
-<br>
-
+<br id="details"/>
 Dando click en el botón superior de Info, aparecerá una nueva ventana en la que puedes:
 
 - **Cambiar el tema:** Haz clic sobre `Cambiar Tema` para abrir el selector de color y elegir uno personalizado, cuando lo tengas da clic en Aplicar. Para regresar al color por defecto repite los pasos anteriores y presiona el botón morado debajo del selector de tono, finalmente haz clic en Aplicar.
