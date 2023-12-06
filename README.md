@@ -41,7 +41,6 @@ Leave the first switch on if you want to save them in the same folder, if you pr
 If you need to delete the images you have added by mistake, click on the arrows icon. Remember that you can drag images as many times as you want before clicking the `Convert` button.
 
 <br id="details"/>
-
 By clicking on the upper Info button, a new window will appear in which you can:
 
 - **Change theme:** Click on `Change Theme` to open the color picker and choose a custom one, then click Apply. To return to default values, repeat the previous steps and press the purple button below the tone selector. Finally click Apply.
