@@ -27,8 +27,8 @@
 * Configuration with two format options (sizes included within the icon). [ⓘ](#details)
 * Prevent duplication of an image that has been previously added.
 * Option to generate tiny icon.
-* Adaptive corners (rounded or simple), depending on the OS version.
-* Saves the configuration to an .ini file (except for switches).
+* Adaptive corners (rounded or metro), depending on the OS version.
+* Saves the configuration to an .ini file, except for switches.
 
 ## Preview
 <a href="#"><img src="docs/assets/Drop-Icons-v2.gif"/></a>
