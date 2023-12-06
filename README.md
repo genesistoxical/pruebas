@@ -19,7 +19,7 @@
 * Clean and intuitive interface.
 * Quickly convert multiple images to icons at once, with Drag and Drop feature.
 * Switch between English and Spanish language.
-* Support for .png .jpg .jpeg .jfif .bmp .gif and .svg formats.
+* Support for .png .jpg .jpeg .jfif .bmp .gif and .svg images.
 * Customize theme color.
 * Number of images to convert, subtracting three that are shown as preview.
 * Save icons in the same folder (default) or in a specific one.
