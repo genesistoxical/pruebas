@@ -5,7 +5,7 @@
 
 <p align="center">
  <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-9280FF?style=flat-square&labelColor=343B45"/></a>
- <a href="https://github.com/genesistoxical/drop-icons/releases/tag/2.1.1"><img src="https://img.shields.io/github/v/release/genesistoxical/drop-icons.svg?color=9280FF&label=Release&style=flat-square&labelColor=343B45"/></a>
+ <a href="https://github.com/genesistoxical/drop-icons/releases/tag/2.1.2"><img src="https://img.shields.io/github/v/release/genesistoxical/drop-icons.svg?color=9280FF&label=Release&style=flat-square&labelColor=343B45"/></a>
  <a href="#"><img alt="NET" src="https://img.shields.io/badge/.NET_Framework-4.8-9280FF?style=flat-square&labelColor=343B45"/></a> 
  <a href="/installer%20src"><img alt="Installer" src="https://img.shields.io/badge/Installer-ISS-9280FF?style=flat-square&labelColor=343B45"/></a>
  <a href="#"><img alt="Languages" src="https://img.shields.io/badge/Idiomas-2-9280FF?style=flat-square&labelColor=343B45"/></a>
@@ -132,7 +132,9 @@ Además de otras pequeñas mejoras, se implementó una nueva página en la venta
 
 <br>
 
-`Version 2.1.2` incluye actualizaciones menores en la ventana **Acerca de**: La configuración para los tamaños incluidos dentro del icono ahora se llama **Formato** en vez de **Iconos**, para evitar confusiones. También se actualizó un problema en un enlace de atribución, así como otros pequeños cambios en las variables del código.
+`Version 2.1.2` incluye actualizaciones menores en la ventana **Acerca de**: La configuración para los tamaños incluidos dentro del icono ahora se llama **Formato** en vez de **Iconos**, para evitar confusiones.
+
+También se actualizó un problema en un enlace de atribución, así como otros pequeños cambios en las variables del código.
 
 ## Licencia
 **MIT License**
