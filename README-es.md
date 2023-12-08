@@ -132,9 +132,9 @@ Además de otras pequeñas mejoras, se implementó una nueva página en la venta
 
 <br>
 
-`Version 2.1.2` incluye actualizaciones menores en la ventana **Acerca de**: La configuración para los tamaños incluidos dentro del icono ahora se llama **Formato** en vez de **Iconos**, para evitar confusiones.
+`Version 2.1.2` incluye actualizaciones menores en la ventana **Acerca de**: la configuración para elegir los tamaños que se incluirán dentro del icono se reenombró a **Formato** en vez de **Icono**. Esto para evitar confusiones.
 
-También se actualizó un problema en un enlace de atribución, así como otros pequeños cambios en las variables del código.
+Se actualizó un problema con un enlace de atribución y se eliminó un control que no era utilizado. Así como otros pequeños cambios en las variables del código.
 
 ## Licencia
 **MIT License**
