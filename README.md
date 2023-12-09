@@ -24,7 +24,7 @@
 * Number of images to convert, subtracting three that are shown as preview.
 * Save icons in the same folder (default) or in a specific one.
 * Enable and disable Topmost.
-* Configuration with two format options (sizes included within the icon). [ⓘ](#details)
+* Configuration with two format options (sizes included within the icon). [𝐢](#details)
 * Prevent duplication of an image that has been previously added.
 * Option to generate tiny icon.
 * Adaptive corners (rounded or metro), depending on the OS version.
