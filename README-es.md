@@ -19,16 +19,16 @@
 * Interfaz limpia e intuitiva.
 * Convertir rápidamente muchas imágenes en iconos a la vez, con la función de arrastrar y soltar.
 * Cambiar entre el idioma English y Español.
-* Compatibilidad con imágenes .png .jpg .jpeg .jfif .bmp .gif y .svg
+* Compatibilidad con imágenes *.png .jpg .jpeg .jfif .bmp .gif* y *.svg*
 * Personalizar el color del tema.
 * Número de las imágenes a convertir, restando tres que se muestran como vista previa.
 * Guardar los iconos en la misma carpeta (por defecto) o en una específica.
+* Guarda la configuración en un archivo .ini, excepto para los switches.
 * Habilitar y deshabilitar Topmost.
-* Configuración con dos opciones de formato (tamaños incluidos dentro del icono). [ⓘ](#details)
+* Opciones de formato para elegir los tamaños incluidos dentro del icono, múltiple y 256 px. [𝐢](#details)
 * Evitar la duplicación de una imagen que se ha añadido previamente.
 * Opción para generar un icono mini.
 * Esquinas adaptables (redondeadas o metro), dependiendo la versión del sistema operativo.
-* Guarda la configuración en un archivo .ini, excepto para los switches.
 
 ## Previa
 <a href="#"><img src="docs/assets/Drop-Icons-v2.gif"/></a>
