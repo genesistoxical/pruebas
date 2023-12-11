@@ -132,7 +132,7 @@ In addition to other small improvements, a new page was implemented in the **Abo
 
 <br>
 
-`Version 2.1.2` includes minor updates to **About** window: the setting for choosing sizes to include within the icon has been renamed to **Format** instead of **Icons**. This to avoid confusion.
+`Version 2.1.2` includes minor updates to **About** window: the option to choose the sizes that will be included within the icon has been renamed to **Format** instead of **Icons**. This to avoid confusion.
 
 Updated an issue with an attribution link and removed an unused control. As well as other small changes in code variables.
 
