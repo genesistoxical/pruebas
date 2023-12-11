@@ -21,7 +21,7 @@
 * Switch between English and Spanish language.
 * Support for *.png .jpg .jpeg .jfif .bmp .gif* and *.svg* images.
 * Customize theme color.
-* Number of images to convert, subtracting three that are shown as preview.
+* Number of images to convert, subtracting three that are displayed as preview.
 * Save icons in the same folder (default) or in a specific one.
 * Settings are saved in an .ini file, except for switches.
 * Enable and disable Topmost.
