@@ -7,8 +7,8 @@ Drop Icons is a open source utility to convert images to icons (.ico) for Window
 * Support for .png .jpg .jpeg .jfif .bmp .gif and .svg images.
 * Customize theme color.
 * Number of images to convert, subtracting three that are displayed as preview.
-* Save icons in the same folder (default) or in a specific one.
 * Settings are saved in an .ini file, except for switches.
+* Save icons in the same folder (default) or in a specific one.
 * Enable and disable Topmost.
 * Format options to choose sizes included within the icon, multiple and 256 px. [𝐢](#details)
 * Prevent duplication of an image that has been previously added.
