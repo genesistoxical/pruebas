@@ -22,8 +22,8 @@
 * Compatibilidad con imágenes .png .jpg .jpeg .jfif .bmp .gif y .svg
 * Personalizar el color del tema.
 * Número de las imágenes a convertir, restando tres que se muestran como vista previa.
-* Guardar los iconos en la misma carpeta (por defecto) o en una específica.
 * Guarda la configuración en un archivo .ini, excepto para los switches.
+* Guardar los iconos en la misma carpeta (por defecto) o en una específica.
 * Habilitar y deshabilitar Topmost.
 * Opciones de formato para elegir los tamaños incluidos dentro del icono, múltiple y 256 px. [𝐢](#details)
 * Evitar la duplicación de una imagen que se ha añadido previamente.
