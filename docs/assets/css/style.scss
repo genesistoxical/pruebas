@@ -3,104 +3,113 @@
 
 @import "{{ site.theme }}";
 
-$accent-primary: #9280ff;
-$accent-secondary: #595959;
-
-a {
-    color: $accent-primary;
+header {
+    background: none;
+    border-bottom: 0px;
+    padding-bottom: 17px;
 }
 
-@media screen and (min-width: 64em) {
-    .page-header {
-        padding: 9rem 6rem;
-    }
+header p {
+    color: #ffffffcf;
+    width: 380px;
 }
 
-.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
-    color: $accent-primary;
-    padding-left: 14px;
-    border-left: 4px solid $accent-primary;
+header ul:before {
+    background: #ffffff17;
+    box-shadow: none;
+    left: -5px;
+    top: -5px;
+    right: -5px;
+    bottom: -5px;
 }
 
-.page-header {
-    color: #343434;
-    background-color: white;
-    background-image: none;
-    border-bottom: solid 1px #e1e1e1;
-    margin-bottom: 3rem;
-    border-top: 10px solid $accent-primary;
-    background-image: url(/drop-icons/assets/Background.png);
-    background-size: cover;
+header ul li {
+    width: 200px;
+    border-right: 0px solid #ffffff24;
 }
 
-.btn {
-    color: white;
-    background-color: $accent-secondary;
-    border-color: transparent;
-    border-radius: 0px;
+header ul li+li {
+    border-left: none;
 }
 
-.btn:hover {
-    color: white;
-    background-color: #595959e6;
-    border-color: transparent;
+header ul {
+    background: #ffffff1c;
+    border: 0px;
+    box-shadow: none;;
 }
 
-a.btn:nth-child(4) {
-    background-color: $accent-primary;
+header ul a {
+    text-shadow: none;
 }
 
-a.btn:nth-child(4):hover {
-    background-color: #9280ffe6;
+header ul a strong {
+    color: #000000d9;
 }
 
-@media screen and (min-width: 64em){
-    .btn {
-        padding: 0.75rem 3.8rem;
-        /*3.2rem para 3 botones*/
-        /*3.8rem para 2 botones*/
-    }
+header h1 {
+    color: #000000d9;
+    text-shadow: none;
 }
 
-.site-footer {
-    padding-top: 3rem;
-    margin-top: 3.3rem;
+section {
+    padding: 15px 92px 60px 92px;
+    background: transparent;
+    border-top: 1px solid #ffffff1c;
+    border-bottom: 1px solid #ffffff1c;
 }
 
-h1.project-name::before {
-    background-image: url(/drop-icons/assets/Logo-120px.png);
-    background-size: 120px;
-    content: "";
-    background-position: 50%;
-    display: block;
-    position: relative;
-    background-repeat: no-repeat;
-    height: 120px;
-    margin-bottom: 7px;
+.wrapper {
+    background: #ffffff12;
+    box-shadow: none;
+    border: 1px solid #ffffff1c;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #000000d9;
+}
+
+p:nth-child(1) {
+    padding-bottom: 5px;
+}
+
+img:nth-child(1) {
+    max-width: none;
+    margin-left: -72px;
+}
+
+footer a, a {
+    color: #000000ba;
+    letter-spacing: 0.5px;
+    font-weight: bold;
 }
 
 body {
-    color: #6a6a6a;
+    color: #ffffffcf;
+    background: linear-gradient(173deg, #6E63A3 0%, #B08CC0 80%);
+    background-attachment: fixed;
+    padding: 50px 0px 50px 0px;
 }
 
-.main-content code {
-    background-color: $accent-primary;
-    color: #ffffff;
+p, strong {
+    color: #ffffffcf;
 }
 
-.main-content pre>code {
-    color: #727272;
+code, pre {
+    color: #fff;
+    background: #ffffff17;
+    padding: 3px 6px 3px 6px;
+    border-radius: 2px;
 }
 
 .github-fork-ribbon:before {
-    background-color: #343434!important;
+    background-color: #1a1a1a!important;
 }
 
 ::selection {
     color: white;
-    background: #f94e98;
+    background: #ffffff1c;
 }
 
-img:nth-child(1) {
-    border-radius: 18px;
+footer {
+    padding: 23px 0px 0px 0px;
 }
