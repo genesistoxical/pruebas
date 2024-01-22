@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 html {
-    background: linear-gradient(180deg, #f6639bf0 40%, #fff 40%);
+    background: #ffffff;
     height: auto;
 }
 
@@ -93,7 +93,7 @@ footer a, a {
 
 body {
     color: #1a1a1a;
-    background-image: radial-gradient(#ffffff30 1px, transparent 2px);
+    background-image: radial-gradient(#efe9e9 1px, transparent 2px);
     background-size: 19px 19px;
     padding: 50px 0px 50px 0px;
     text-shadow: 0 0 #0000009e;
