@@ -40,6 +40,7 @@ header ul {
 
 header ul a {
     text-shadow: none;
+    color: rgb(0 0 0);
 }
 
 header ul a strong {
@@ -75,6 +76,7 @@ p:nth-child(1) {
 }
 
 img:nth-child(1) {
+    margin-left: -68px;
     max-width: none;
 }
 
@@ -86,7 +88,7 @@ footer a, a {
 
 body {
     color: #1a1a1a;
-    background: #2a2a2a;
+    background: #ffffff;
     padding: 50px 0px 50px 0px;
 }
 
