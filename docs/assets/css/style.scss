@@ -53,7 +53,7 @@ header h1 {
 }
 
 section {
-    padding: 30px 92px 60px 92px;
+    padding: 39px 70px 60px 70px
     background: transparent;
     border-top: 3px solid #ececec;
     border-bottom: 3px solid #ececec;
@@ -62,7 +62,8 @@ section {
 
 .wrapper {
     background: #ffffff;
-    box-shadow: none;
+    width: 780px;
+    box-shadow: rgb(0 0 0 / 0%) 0 0 0 1px, rgb(0 0 0 / 23%) 0 0px 10px;
     border: 3px solid #ececec;
     border-radius: 18px;
 }
@@ -76,12 +77,12 @@ p:nth-child(1) {
 }
 
 img:nth-child(1) {
-    margin-left: -68px;
+    margin-left: -27px;
     max-width: none;
 }
 
 footer a, a {
-    color: #000000ba;
+    color: #f6639b;
     letter-spacing: 0.5px;
     font-weight: bold;
 }
