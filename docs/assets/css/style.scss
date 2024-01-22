@@ -108,7 +108,10 @@ code, pre {
 }
 
 .github-fork-ribbon:before {
-    background-color: #1a1a1a!important;
+    background-color: #262626 !important;
+    background-image: none !important;
+    -webkit-box-shadow: 0 0.15em 0em 0 #00000030 !important;
+    box-shadow: 0 0.15em 0em 0 #00000030 !important;
 }
 
 ::selection {
