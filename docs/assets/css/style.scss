@@ -89,7 +89,9 @@ footer a, a {
 
 body {
     color: #1a1a1a;
-    background: #ffffff;
+    background-image: radial-gradient(#ffffff30 2px, transparent 2px);
+    background-size: 19px 19px;
+    background-color: #f6639b;
     padding: 50px 0px 50px 0px;
     text-shadow: 0 0 #0000009e;
 }
