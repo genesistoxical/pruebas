@@ -1,7 +1,7 @@
 </br>
 <p align="center"><a href="#"><img src="cursor/Preview.png" align="center" alt="Q'zero Cursor"/></a></p>
-<h1 align="center">Q'zero Cursor</h1>
-<p align="center">Black cursor with danger style (left and right-handed) for Windows.</p>
+<h1 align="center">Pixie Folders</h1>
+<p align="center">Set of six minimalist icon designs that include editable files.</p>
 <p align="center">
 <a href="https://github.com/genesistoxical/qzero-cursor/releases/tag/1.0"><img alt="Version" src="https://img.shields.io/badge/Version-1.0-8c79b7?style=flat-square&labelColor=343B45"/></a>
 <a href="LICENSE"><img alt="License" src="https://img.shields.io/github/license/genesistoxical/qzero-cursor?color=8c79b7&label=License&style=flat-square&labelColor=343B45"/></a>
@@ -10,9 +10,9 @@
 
 </br>
 
-Q'zero includes two sets: left and right-handed for better accessibility. It's created to be used on light or dark backgrounds, plus the waiting (danger) circle rotates.
+Pixie Folders is a set of six minimalist icon designs that include editable files. Each one is created as pixel-perfect for the `Large icons` view, by customizing a Windows folder.
 
-When using the left-handed version you will need to change the primary mouse button in Windows settings.
+They are available in SVG, PSD, AFDESIFG, PNG and ICO formats. For these last two, a palette of seven colors was chosen considering light and dark mode; aqua, black, blue, pink, purple, salmon and yellow.
 
 Made with 🤍 under [MIT LICENSE](LICENSE)
 </br>
