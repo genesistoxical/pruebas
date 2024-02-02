@@ -14,7 +14,7 @@ Pixie Folders is a set of six minimalist icon designs that include editable file
 
 They are available in SVG, PSD, AFDESIFG, PNG and ICO formats. For these last two, a palette of seven colors was chosen considering light and dark mode; aqua, black, blue, pink, purple, salmon and yellow.
 
-Made with 🤍 under [MIT LICENSE](LICENSE)
+Made with 🩷 under [MIT LICENSE](LICENSE)
 </br>
 
 </br>
