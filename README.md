@@ -22,7 +22,7 @@ Made with 🩷 under [MIT LICENSE](LICENSE)
 ## Swatches
 <p align="center"><a href="#"><img src="cursor/Swatches.png" align="center" alt="Q'zero Cursor"/></a></p>
 </br>
-</br>
+
 
 ## Contributing
 Big changes may not be made anymore. In any case, sets with new designs are welcome.
