@@ -17,11 +17,14 @@ They are available in SVG, PSD, AFDESIFG, PNG and ICO formats. For these last tw
 Made with 🩷 under [MIT LICENSE](LICENSE)
 </br>
 
+</br>
 
 ## Swatches
 <p align="center"><a href="#"><img src="cursor/Swatches.png" align="center" alt="Q'zero Cursor"/></a></p>
+</br>
 
 </br>
+
 ## Contributing
 Big changes may not be made anymore.
 
