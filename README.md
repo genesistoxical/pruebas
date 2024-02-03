@@ -26,6 +26,6 @@ Made with 🩷 under [MIT LICENSE](LICENSE)
 </br>
 
 ## Contributing
-Big changes may not be made anymore.
+Big changes may not be made anymore. In any case, sets with new designs are welcome.
 
 If you have any request, you can let me know.
