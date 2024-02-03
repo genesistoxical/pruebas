@@ -24,7 +24,6 @@ Made with 🩷 under [MIT LICENSE](LICENSE)
 </br>
 
 </br>
-
 ## Contributing
 Big changes may not be made anymore. In any case, sets with new designs are welcome.
 
