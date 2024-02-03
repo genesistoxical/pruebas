@@ -18,8 +18,10 @@ Made with 🩷 under [MIT LICENSE](LICENSE)
 </br>
 
 
-</br>
+## Swatches
+<p align="center"><a href="#"><img src="cursor/Swatches.png" align="center" alt="Q'zero Cursor"/></a></p>
 
+</br>
 ## Contributing
 Big changes may not be made anymore.
 
