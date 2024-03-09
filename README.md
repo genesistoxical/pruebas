@@ -3,8 +3,8 @@
 <h1 align="center">Pixie Folders</h1>
 <p align="center">Set of six minimalist and editable folder icon designs.</p>
 <p align="center">
-<a href="https://github.com/genesistoxical/qzero-cursor/releases/tag/1.0"><img alt="Version" src="https://img.shields.io/badge/Version-1.0-f6639b?style=flat-square&labelColor=343B45"/></a>
-<a href="LICENSE"><img alt="License" src="https://img.shields.io/github/license/genesistoxical/qzero-cursor?color=f6639b&label=License&style=flat-square&labelColor=343B45"/></a>
+<a href="https://github.com/genesistoxical/pixie-folders/releases/tag/1.0"><img alt="Version" src="https://img.shields.io/badge/Version-1.0-f6639b?style=flat-square&labelColor=343B45"/></a>
+<a href="LICENSE"><img alt="License" src="https://img.shields.io/github/license/genesistoxical/pixie-folders?color=f6639b&label=License&style=flat-square&labelColor=343B45"/></a>
 </p>
 </br>
 
@@ -20,7 +20,7 @@ Made with 🩷 under [MIT LICENSE](LICENSE)
 </br>
 
 ## Swatches
-<p align="center"><a href="#"><img src="cursor/Swatches.png" align="center" alt="Q'zero Cursor"/></a></p>
+<p align="center"><a href="#"><img src="folders/Swatches.png" align="center" alt="Pixie Folders"/></a></p>
 </br>
 
 
