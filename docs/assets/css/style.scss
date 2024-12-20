@@ -3,127 +3,104 @@
 
 @import "{{ site.theme }}";
 
-html {
-    background: #ffffff;
-    height: auto;
+$accent-primary: #9280ff;
+$accent-secondary: #595959;
+
+a {
+    color: $accent-primary;
 }
 
-header {
-    background: none;
-    border-bottom: 0px;
-    padding-bottom: 17px;
+@media screen and (min-width: 64em) {
+    .page-header {
+        padding: 9rem 6rem;
+    }
 }
 
-header p {
-    color: #000000;
-    width: 380px;
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+    color: $accent-primary;
+    padding-left: 14px;
+    border-left: 4px solid $accent-primary;
 }
 
-header ul:before {
-    background: #f6639b47;
-    box-shadow: none;
-    left: -5px;
-    top: -5px;
-    right: -5px;
-    bottom: -5px;
+.page-header {
+    color: #343434;
+    background-color: white;
+    background-image: none;
+    border-bottom: solid 1px #e1e1e1;
+    margin-bottom: 3rem;
+    border-top: 10px solid $accent-primary;
+    background-image: url(/drop-icons/assets/Background.png);
+    background-size: cover;
 }
 
-header ul li {
-    width: 200px;
-    border-right: 0px solid #ffffff24;
+.btn {
+    color: white;
+    background-color: $accent-secondary;
+    border-color: transparent;
+    border-radius: 0px;
 }
 
-header ul li+li {
-    border-left: none;
+.btn:hover {
+    color: white;
+    background-color: #595959e6;
+    border-color: transparent;
 }
 
-header ul {
-    background: #f6639b;
-    border: 0px;
-    box-shadow: none;;
+a.btn:nth-child(4) {
+    background-color: $accent-primary;
 }
 
-header ul a {
-    text-shadow: none;
-    color: #ffffff;
+a.btn:nth-child(4):hover {
+    background-color: #9280ffe6;
 }
 
-header ul a strong {
-    color: #ffffff;
+@media screen and (min-width: 64em){
+    .btn {
+        padding: 0.75rem 3.8rem;
+        /*3.2rem para 3 botones*/
+        /*3.8rem para 2 botones*/
+    }
 }
 
-header h1 {
-    color: #000000d9;
-    text-shadow: none;
-    border-left: 4px solid #f6639b;
-    padding-left: 10px;
+.site-footer {
+    padding-top: 3rem;
+    margin-top: 3.3rem;
 }
 
-section {
-    padding: 60px 70px 60px 70px;
-    background: transparent;
-    border-top: 0px solid #ececec;
-    border-bottom: 0px solid #ececec;
-    border-radius: 0;
-}
-
-.wrapper {
-    background: #ffffff;
-    width: 824px;
-    box-shadow: none;
-    border: 3px solid #ececec;
-}
-
-h1, h2, h3, h4, h5, h6 {
-    color: #000000d9;
-}
-
-p:nth-child(1) {
-    padding-bottom: 28px;
-}
-
-img:nth-child(1) {
-    margin-left: -4px;
-    max-width: none;
-}
-
-footer a, a {
-    color: #f6639b;
-    letter-spacing: 0.5px;
-    font-weight: bold;
+h1.project-name::before {
+    background-image: url(/drop-icons/assets/Logo-120px.png);
+    background-size: 120px;
+    content: "";
+    background-position: 50%;
+    display: block;
+    position: relative;
+    background-repeat: no-repeat;
+    height: 120px;
+    margin-bottom: 7px;
 }
 
 body {
-    color: #1a1a1a;
-    background-image: radial-gradient(#efe9e9 1px, transparent 2px);
-    background-size: 19px 19px;
-    padding: 50px 0px 50px 0px;
-    text-shadow: 0 0 #0000009e;
+    color: #6a6a6a;
 }
 
-p, strong {
-    color: #262626;
+.main-content code {
+    background-color: $accent-primary;
+    color: #ffffff;
 }
 
-code, pre {
-    color: #fff;
-    background: #f6639b;
-    padding: 3px 6px 3px 6px;
-    border-radius: 2px;
+.main-content pre>code {
+    color: #727272;
 }
 
 .github-fork-ribbon:before {
-    background-color: #262626 !important;
-    background-image: none !important;
-    -webkit-box-shadow: 0 0.15em 0em 0 #00000030 !important;
-    box-shadow: 0 0.15em 0em 0 #00000030 !important;
+    background-color: #343434!important;
 }
 
 ::selection {
     color: white;
-    background: #f6639b;
+    background: #f94e98;
 }
 
-footer {
-    padding: 23px 0px 0px 0px;
+img:nth-child(1) {
+    border-radius: 18px;
 }
