@@ -112,8 +112,8 @@ By clicking on the upper Info button, a new window will appear in which you can:
 ## Installer
 To compile the installer you need [Inno Setup](https://jrsoftware.org/isinfo.php), the files are located in the [installer src](/installer%20src) folder. You just need to open the project (Installer.iss) and compile it, unless you want to make a change. When finished, it will leave a folder called Output in the same location.
 
->* Please note that you must first compile the source code in Visual Studio to get the binaries, otherwise, you will get an [📍Compiler Error](https://github.com/genesistoxical/drop-icons/issues/3).
->* ⬇️ Alternatively, you can download the compiled app from the [Drop Icons page](https://genesistoxical.github.io/drop-icons/).
+>* You must first compile the source code in Visual Studio to get the binaries, otherwise, you will get a [📍Compiler Error](https://github.com/genesistoxical/drop-icons/issues/3).
+>* ⬇️ Alternatively, you can download the compiled app from the Drop Icons [page](https://genesistoxical.github.io/drop-icons/).
 
 **Portable with 7zip.bat** allows you to quickly zip the portable version. It only works with [7zip](https://www.7-zip.org/).
 
@@ -193,3 +193,11 @@ Updated an issue with an attribution link and removed an unused control. As well
 **MIT License**
 
 Copyright (c) 2022 - 2023 Génesis Toxical ([read here](LICENSE)).
+
+<br>
+
+## Related:
+
+`🩷 Image to Icon` Convert image to icon online: [`imagetoicon.glitch.me`](https://imagetoicon.glitch.me/) or [`Repository`](https://github.com/genesistoxical/imagetoicon).
+
+`🩷 Pixie Folders` Set of six minimalist and editable folder icon designs: [`Download`](https://genesistoxical.github.io/pixie-folders/) or [`Repository`](https://github.com/genesistoxical/pixie-folders).
