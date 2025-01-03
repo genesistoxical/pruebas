@@ -1,6 +1,6 @@
 <p align="center"></p>
 <p align="center"><a href="#"><img width="115px" src="docs/assets/Logo-115px.png" align="center" alt="Drop Icons"/></a></p>
-<h1 align="center">Drop Icons</h1>
+<h1 align="center">Crystal Folders</h1>
 <p align="center">Drop Icons is a utility to convert images to icons (.ico) for Windows, with a simple Drag and Drop feature.</p>
 
 <p align="center">
@@ -16,29 +16,83 @@
 </p>
 
 ## Features
-* Clean and intuitive interface.
-* Quickly convert multiple images to icons at once, with Drag and Drop feature.
+* Customize many folders in seconds.
+* Add folders within Documents, Images, etc. with one click.
+* Drag and drop option.
+* Choose between different default icons or your own.
+* Option to include subfolders.
+* Possibility to remove directories from the list once added.
+* Number of folders and subfolders to customize.
+* Option to create portable folders with a custom icon. [𝐢](#details)
+* Avoid duplication of folders that have been previously added.
+* Notifications directly on the desktop.
+* Avoid customizing folders with system icons.
 * Switch between English and Spanish language.
-* Support for .png .jpg .jpeg .jfif .bmp .gif and .svg images.
+* Save settings in a .ini file, except for switches.
 * Customize theme color.
-* Number of images to convert, subtracting three that are displayed as preview.
-* Settings are saved in an .ini file, except for switches.
-* Save icons in the same folder (default) or in a specific one.
-* Enable and disable Topmost.
-* Format options to choose sizes included within the icon, multiple and 256 px. [𝐢](#details)
-* Prevent duplication of an image that has been previously added.
-* Option to generate tiny icon.
+* Modifying the Desktop.ini file without losing previous information.
 * Adaptive corners (rounded or metro), depending on the OS version.
 
 ## Preview
 <a href="#"><img src="docs/assets/Drop-Icons-v2.gif"/></a>
 
 ## Usage
-Drag and drop your images into the empty space, you will preview three images except if you only drag one or two. Below you can see the total amount of images to convert, subtracting three from preview. If you cannot drag, click on `Add images`.
+On the left panel there is an area where the directories or folders list to customize will be displayed. Below we can find icons with their respective checkboxes, which are: Documents, Images, Music, Videos and Desktop.
 
-Leave the first switch on if you want to save them in the same folder, if you prefer to choose a specific folder, turn it off. You can also generate a tiny icon by turning on the second switch. Finally, click on `Convert` button, wait for the interface to restart because this indicates that it has finished and your icons are ready.
+<br/>
 
-If you need to delete the images you have added by mistake, click on the arrows icon. Remember that you can drag images as many times as you want before clicking the `Convert` button.
+① Add folders, there are two ways:
+   * Check the box(es) you want to customize, for example: if you selected Documents, all the folders inside will be added to the list. You can deactivate them at any time to remove those directories.
+   * By dragging and dropping folders into the area mentioned above, even if you have already checked boxes.
+
+To remove folders one by one, you must select it in the list and click the ⦵ icon.
+
+② Choose an icon:
+   On the right panel press the “Choose…” button, a window will open with different color icons although you could use your own as long as it is in ICO format. Once you select it and press “Open” it will appear in the preview.
+
+③ Add subfolders:
+   Further down you can turn on the “Add subfolders” switch, which will also indicate the total number of. If you find there are too many or you are not interested, you could simply turn it off, this only helps to have a better customization experience.
+
+<br/>
+
+>We will skip the second switch for now.
+
+<br/>
+
+④ Customize all:
+   Finally, press the “Customize” button, which, likewise, indicates the total number of folders whose icons will be changed. Once this is done, a small waiting window will be displayed and then a notification on your desktop confirming that it has completed successfully.
+
+That’s it, it’s that easy! Now all that’s left to do is look at your customized folders; if you don’t see any changes, just refresh or close and reopen the Windows Explorer’s window.
+
+Remember, is not necessary to close the application to clear the list or options you have chosen, just click on the ⟳ button.
+
+<br/>
+
+Restore folders:
+
+① You will have to follow the first steps again; checking the boxes or dragging and dropping them to the list. The difference is: instead of choosing a new icon, you will have to click on the “Restore” button and as you can see, a little arrow will appear in what would be the preview, to indicate this action.
+
+② You will notice the switch below has changed to “Restore subfolders,” turn that on if you’ve customized them before.
+
+③ Finally, click on the “Restore” button. The small waiting window will appear again, then the notification on the desktop that it has been completed and that’s it, your folders are back to normal.
+
+<br/>
+
+Folders with customized icons on another PC:
+
+The second switch “Configure to portable” allows you to customize the icon for up to 30 folders (including subfolders) to be displayed with that icon on any other computer, since it copies it inside. This option only works by dragging them to the list area; If any box is checked on the left panel, the switch cannot be turned on.
+
+In the same way, when restoring a folder with a portable icon you will need to follow the same steps, just remember to turn on the “Restore from portable” switch.
+
+<br/>
+
+Crystal Folders also has some security measures:
+
+* You cannot customize special folders that already have a system icon, such as “Documents”, only directories within it.
+* There are folders whose icon cannot be changed due to their protection level or privileges, so a notification will be displayed on the desktop warning about how many have been skipped.
+* It directly modifies the Desktop.ini file, thus avoiding deleting it and creating a new one, without losing its information.
+
+<br/>
 
 <br id="details"/>
 By clicking on the upper Info button, a new window will appear in which you can:
@@ -51,10 +105,6 @@ By clicking on the upper Info button, a new window will appear in which you can:
      >Note: If the **Generate tiny icon** switch is on, a small icon will be created regardless of its format.
      
 - **Third-party content:** On the left side are the names of each library, project, icons or fonts that were used, click one to read its license and author(s), as well as a short description. You can click on the clip icon to go to each repository/official site and change pages with **Next 🢖🢖** or **🢔🢔 Back**.
-
-<br>
-
-To choose whether Drop Icons is on top of all windows (Topmost) or not, right-click anywhere in the main window and choose Enable Topmost or Disable Topmost.
 
 ## Options
 <a href="#"><img src="docs/assets/Drop-Icons-Options-v2.gif"/></a>
