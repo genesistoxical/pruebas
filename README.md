@@ -164,31 +164,6 @@ Drop Icons is based on [Iconizer](https://github.com/willnode/Iconizer) under [M
 
 *You can find all licenses [here](/src/DropIcons/Docs).*
 
-## What's new?
-`Version 1.0.0` was built on Windows Forms. Drop Icons will no longer be developed using that technology, however you can still find and/or download the latest official version here:
-<br>
-🏷️ [winforms-v1-final](https://github.com/genesistoxical/drop-icons/tree/winforms-v1-final)
-
-<br>
-
-`Version 2.0.0` is developed with Windows Presentation Foundation (WPF) to improve the interface and include adaptive rounded corners, depending on the OS version.
-
-In this second release the **About** window has been improved, the **Config.ini** file has been modified to use only theme color HEX and not RGB, also the color picker (for theme) has been replaced for a much more modern one.
-
-Due to this last change, **Colors.dat** was removed since there is no button to save the custom ones, instead there is a color palette.
-
-<br>
-
-`Version 2.1.1` allows you to convert three more formats; **.jfif .gif** and **.svg**, for the latter it was necessary to add compatibility [📍Can you add support to SVG file?](https://github.com/genesistoxical/drop-icons/issues/2). There are now size options for icons: **Multiple** and **256 px** [📍Icon Default 256x256](https://github.com/genesistoxical/drop-icons/discussions/1).
-
-In addition to other small improvements, a new page was implemented in the **About** window and a folder named **Libs** was added in the binaries for better organization of dll(s).
-
-<br>
-
-`Version 2.1.2` includes minor updates to the **About** window: the option to choose the sizes that will be included within the icon has been renamed to **Format** instead of **Icons**. This to avoid confusion.
-
-Updated an issue with an attribution link and removed an unused control. As well as other small changes in code variables.
-
 ## License
 **MIT License**
 
