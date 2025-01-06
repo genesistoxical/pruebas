@@ -88,7 +88,7 @@ In the same way, when restoring a folder with a portable icon you will need to f
 
 ### Security measures:
 
-* You cannot customize special folders that already have a system icon, such as _Documents_ or "_Pictures_, only directories within it.
+* You cannot customize special folders that already have a system icon, such as _Documents_ or _Pictures_, only directories within it.
 * There are folders whose icon cannot be changed due to their protection level or privileges, so a notification will be displayed on the desktop warning about how many have been skipped.
 * It directly modifies the Desktop.ini file, thus avoiding deleting it and creating a new one, without losing its information.
 
