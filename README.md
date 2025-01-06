@@ -37,7 +37,7 @@
 <a href="#"><img src="docs/assets/Drop-Icons-v2.gif"/></a>
 
 ## Usage
-On the left panel there is an area where the directories or folders list to customize will be displayed. Below we can find icons with their respective checkboxes, which are: Documents, Images, Music, Videos and Desktop.
+On the left panel there is an area where the directories or folders list to customize will be displayed. Below we can find icons with their respective checkboxes, which are: Documents, Pictures, Music, Videos and Desktop.
 
 <br/>
 
@@ -88,7 +88,7 @@ In the same way, when restoring a folder with a portable icon you will need to f
 
 ### Security measures:
 
-* You cannot customize special folders that already have a system icon, such as _Documents_, only directories within it.
+* You cannot customize special folders that already have a system icon, such as _Documents_ or "_Pictures_, only directories within it.
 * There are folders whose icon cannot be changed due to their protection level or privileges, so a notification will be displayed on the desktop warning about how many have been skipped.
 * It directly modifies the Desktop.ini file, thus avoiding deleting it and creating a new one, without losing its information.
 
