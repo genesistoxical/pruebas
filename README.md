@@ -41,16 +41,16 @@ On the left panel there is an area where the directories or folders list to cust
 
 <br/>
 
-1️⃣ Add folders, there are two ways:
-   * Check the box(es) you want to customize, for example: if you selected Documents, all the folders inside will be added to the list. You can deactivate them at any time to remove those directories.
-   * By dragging and dropping folders into the area mentioned above, even if you have already checked boxes.
+𝟭. Add folders, there are two ways:
+* Check the box(es) you want to customize, for example: if you selected Documents, all the folders inside will be added to the list. You can deactivate them at any time to remove those directories.
+* By dragging and dropping folders into the area mentioned above, even if you have already checked boxes.
 
 To remove folders one by one, you must select it in the list and click the **⦵** icon.
 
-2️⃣ **Choose an icon:**
+𝟮. **Choose an icon:**
    On the right panel press the `Choose…` button, a window will open with different color icons although you could use your own as long as it is in ICO format. Once you select it and press `Open` it will appear in the preview.
 
-3️⃣ **Add subfolders:**
+𝟯. **Add subfolders:**
    Further down you can turn on the `Add subfolders` switch, which will also indicate the total number of. If you find there are too many or you are not interested, you could simply turn it off, this only helps to have a better customization experience.
 
 <br/>
@@ -59,7 +59,7 @@ To remove folders one by one, you must select it in the list and click the **⦵
 
 <br/>
 
-4️⃣ **Customize all:**
+𝟰. **Customize all:**
    Finally, press the `Customize` button, which, likewise, indicates the total number of folders whose icons will be changed. Once this is done, a small waiting window will be displayed and then a notification on your desktop confirming that it has completed successfully.
 
 ☑️ That’s it, it’s that easy! Now all that’s left to do is look at your customized folders; if you don’t see any changes, just refresh or close and reopen the Windows Explorer’s window.
@@ -70,13 +70,13 @@ Remember, is not necessary to close the application to clear the list or options
 
 ### Restore folders:
 
-1️⃣ You will have to follow the first steps again; checking the boxes or dragging and dropping them to the list. The difference is: instead of choosing a new icon, you will have to click on the `Restore` button and as you can see, a little arrow will appear in what would be the preview, to indicate this action.
+𝟭. You will have to follow the first steps again; checking the boxes or dragging and dropping them to the list. The difference is: instead of choosing a new icon, you will have to click on the `Restore` button and as you can see, a little arrow will appear in what would be the preview, to indicate this action.
 
-2️⃣ You will notice the switch below has changed to `Restore subfolders`, turn that on if you’ve customized them before.
+𝟮. You will notice the switch below has changed to `Restore subfolders`, turn that on if you’ve customized them before.
 
-3️⃣ Finally, click on the second `Restore` button. The small waiting window will appear again, then the notification on the desktop that it has been completed and that’s it, your folders are back to normal.
+𝟯. Finally, click on the second `Restore` button. The small waiting window will appear again, then the notification on the desktop that it has been completed and that’s it, your folders are back to normal.
 
-<br/>
+<br id="details"/>
 
 ### Folders with customized icons on another PC:
 
@@ -93,8 +93,6 @@ In the same way, when restoring a folder with a portable icon you will need to f
 * It directly modifies the Desktop.ini file, thus avoiding deleting it and creating a new one, without losing its information.
 
 <br/>
-
-<br id="details"/>
 
 ### Info button:
 
