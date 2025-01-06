@@ -17,7 +17,7 @@
 
 ## Features
 * Customize many folders in seconds.
-* Add folders within Documents, Images, etc. with one click.
+* Add folders within Documents, Pictures, etc. with one click.
 * Drag and drop option.
 * Choose between different default icons or your own.
 * Option to include subfolders.
