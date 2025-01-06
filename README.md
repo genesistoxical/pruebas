@@ -1,14 +1,14 @@
 <p align="center"></p>
 <p align="center"><a href="#"><img width="115px" src="docs/assets/Logo-115px.png" align="center" alt="Drop Icons"/></a></p>
 <h1 align="center">Crystal Folders</h1>
-<p align="center">Drop Icons is a utility to convert images to icons (.ico) for Windows, with a simple Drag and Drop feature.</p>
+<p align="center">Drop Icons is application to customize your folder icons in seconds, for Windows.</p>
 
 <p align="center">
- <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-9280FF?style=flat-square&labelColor=343B45"/></a>
- <a href="https://github.com/genesistoxical/drop-icons/releases/latest"><img src="https://img.shields.io/github/v/release/genesistoxical/drop-icons.svg?color=9280FF&label=Release&style=flat-square&labelColor=343B45"/></a>
- <a href="#"><img alt="NET" src="https://img.shields.io/badge/.NET_Framework-4.8-9280FF?style=flat-square&labelColor=343B45"/></a> 
- <a href="/installer%20src"><img alt="Installer" src="https://img.shields.io/badge/Installer-ISS-9280FF?style=flat-square&labelColor=343B45"/></a>
- <a href="#"><img alt="Languages" src="https://img.shields.io/badge/Languages-2-9280FF?style=flat-square&labelColor=343B45"/></a>
+ <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-FF69B4?style=flat-square&labelColor=343B45"/></a>
+ <a href="https://github.com/genesistoxical/drop-icons/releases/latest"><img src="https://img.shields.io/github/v/release/genesistoxical/drop-icons.svg?color=FF69B4&label=Release&style=flat-square&labelColor=343B45"/></a>
+ <a href="#"><img alt="NET" src="https://img.shields.io/badge/.NET_Framework-4.8-FF69B4?style=flat-square&labelColor=343B45"/></a> 
+ <a href="/installer%20src"><img alt="Installer" src="https://img.shields.io/badge/Installer-ISS-FF69B4?style=flat-square&labelColor=343B45"/></a>
+ <a href="#"><img alt="Languages" src="https://img.shields.io/badge/Languages-2-FF69B4?style=flat-square&labelColor=343B45"/></a>
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@ On the left panel there is an area where the directories or folders list to cust
 <br/>
 
 𝟭. Add folders, there are two ways:
-* Check the box(es) you want to customize, for example: if you selected Documents, all the folders inside will be added to the list. You can deactivate them at any time to remove those directories.
+* Check the box(es) you want to customize, for example: if you selected _Documents_, all the folders inside will be added to the list. You can deactivate them at any time to remove those directories.
 * By dragging and dropping folders into the area mentioned above, even if you have already checked boxes.
 
 To remove folders one by one, you must select it in the list and click the **⦵** icon.
@@ -168,7 +168,7 @@ Drop Icons is based on [Iconizer](https://github.com/willnode/Iconizer) under [M
 ## License
 **MIT License**
 
-Copyright (c) 2022 - 2023 Génesis Toxical ([read here](LICENSE)).
+Copyright (c) 2025 Génesis Toxical ([read here](LICENSE)).
 
 <br>
 
