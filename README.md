@@ -1,7 +1,7 @@
 <p align="center"></p>
 <p align="center"><a href="#"><img width="115px" src="docs/assets/Logo-115px.png" align="center" alt="Drop Icons"/></a></p>
 <h1 align="center">Crystal Folders</h1>
-<p align="center">Drop Icons is application to customize your folder icons in seconds, for Windows.</p>
+<p align="center">Crystal Folders is an application to customize your folder icons in seconds, for Windows.</p>
 
 <p align="center">
  <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-FF69B4?style=flat-square&labelColor=343B45"/></a>
