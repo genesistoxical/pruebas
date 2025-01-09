@@ -61,6 +61,8 @@ To remove folders one by one, you must select it in the list and click the **⦵
 
 𝟰. **Customize all:**
    Finally, press the `Customize` button, which, likewise, indicates the total number of folders whose icons will be changed. Once this is done, a small waiting window will be displayed and then a notification on your desktop confirming that it has completed successfully.
+   
+If the number of folders exceeds 600, a message will appear asking if you want to continue, however, the default recommended button is `No` in case you prefer to decrease it.
 
 ☑️ That’s it, it’s that easy! Now all that’s left to do is look at your customized folders; if you don’t see any changes, just refresh or close and reopen the Windows Explorer’s window.
 
@@ -91,6 +93,7 @@ In the same way, when restoring a folder with a portable icon you will need to f
 * You cannot customize special folders that already have a system icon, such as _Documents_ or _Pictures_, only directories within it.
 * There are folders whose icon cannot be changed due to their protection level or privileges, so a notification will be displayed on the desktop warning about how many have been skipped.
 * It directly modifies the Desktop.ini file, thus avoiding deleting it and creating a new one, without losing its information.
+* Message folder limit, once the amount of 600 has been exceeded; to disable this message, open the `Config.ini` file and change: `Message = true` to `Message = false`.
 
 <br/>
 
