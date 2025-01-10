@@ -1,5 +1,5 @@
 <p align="center"></p>
-<p align="center"><a href="#"><img width="115px" src="docs/assets/Logo-115px.png" align="center" alt="Drop Icons"/></a></p>
+<p align="center"><a href="#"><img width="115px" src="docs/assets/Logo-115px.png" align="center" alt="Crystal Folders"/></a></p>
 <h1 align="center">Crystal Folders</h1>
 <p align="center">Crystal Folders is an application to customize your folder icons in seconds, for Windows.</p>
 
@@ -114,7 +114,7 @@ Click on the upper Info button, a new window will appear where you can:
 To compile the installer you need [Inno Setup](https://jrsoftware.org/isinfo.php), the files are located in the [installer src](/installer%20src) folder. You just need to open the project (Installer.iss) and compile it, unless you want to make a change. When finished, it will leave a folder called Output in the same location.
 
 >* Please note that you must first compile the source code in Visual Studio to get the binaries, otherwise, you will get a [📍Compiler Error](https://github.com/genesistoxical/drop-icons/issues/3).
->* ⬇️ Alternatively, you can download the compiled app from the Drop Icons [page](https://genesistoxical.github.io/drop-icons/).
+>* ⬇️ Alternatively, you can download the compiled app from the Crystal Folders [page](https://genesistoxical.github.io/crystal-folders/).
 
 **Portable with 7zip.bat** allows you to quickly zip the portable version. It only works with [7zip](https://www.7-zip.org/).
 
@@ -146,17 +146,15 @@ Message = true
 <a href="#"><img src="docs/assets/Drop-Icons-Corners-v2.png"/></a>
 
 ## Credits
-Drop Icons is based on [Iconizer](https://github.com/willnode/Iconizer) under [MIT License](https://github.com/willnode/Iconizer/blob/master/LICENSE).
-
 * [HandyControls](https://github.com/ghost1372/HandyControls) under [MIT License](https://github.com/ghost1372/HandyControls/blob/develop/LICENSE).
 
 * [FolderBrowserEx](https://github.com/evaristocuesta/FolderBrowserEx) library under [MIT License](https://github.com/evaristocuesta/FolderBrowserEx/blob/master/LICENSE).
 
 * [Noto Music](https://fonts.google.com/noto/specimen/Noto+Music) under [SIL Open Font License](/src/DropIcons/Docs/Noto%20Music/OFL.txt).
 
-* Icons are part of [Teenyicons](https://github.com/teenyicons/teenyicons) under [MIT License](https://github.com/teenyicons/teenyicons/blob/master/LICENSE).
+* Some icons are part of [Teenyicons](https://github.com/teenyicons/teenyicons) under [MIT License](https://github.com/teenyicons/teenyicons/blob/master/LICENSE).
 
-* [SharpVectors](https://github.com/ElinamLLC/SharpVectors/) under [BSD 3-Clause](https://github.com/ElinamLLC/SharpVectors/blob/master/License.md).
+* Checkboxes icons are part of [Jam icons](https://github.com/michaelampr/jam) under [MIT License](https://github.com/michaelampr/jam/blob/master/LICENSE).
 
 * [WinVersion](https://github.com/shaovoon/win_version_detection) detection under [MIT License](https://github.com/shaovoon/win_version_detection/blob/main/LICENSE).
 
