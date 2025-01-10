@@ -157,6 +157,8 @@ Message = true
 * Checkboxes icons are part of [Jam icons](https://github.com/michaelampr/jam) under [MIT License](https://github.com/michaelampr/jam/blob/master/LICENSE).
 
 * [WinVersion](https://github.com/shaovoon/win_version_detection) detection under [MIT License](https://github.com/shaovoon/win_version_detection/blob/main/LICENSE).
+ 
+* [Pixie Folders](https://genesistoxical.github.io/pixie-folders/) under [MIT License](https://github.com/genesistoxical/pixie-folders/blob/main/LICENSE).
 
 *You can find all licenses [here](/src/DropIcons/Docs).*
 
@@ -168,6 +170,7 @@ Copyright (c) 2025 Génesis Toxical ([read here](LICENSE)).
 <br>
 
 ## Related:
+`🩷 Drop Icons` Utility to convert images to icons (.ico) for Windows: [`Download`](https://genesistoxical.github.io/drop-icons/) or [`Repository`](https://github.com/genesistoxical/drop-icons/).
 
 `🩷 Image to Icon` Convert image to icon online: [`imagetoicon.glitch.me`](https://imagetoicon.glitch.me/) or [`Repository`](https://github.com/genesistoxical/imagetoicon).
 
