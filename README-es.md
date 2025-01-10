@@ -158,6 +158,8 @@ Message = true
 
 * [WinVersion](https://github.com/shaovoon/win_version_detection) detection bajo [MIT License](https://github.com/shaovoon/win_version_detection/blob/main/LICENSE).
 
+* [Pixie Folders](https://genesistoxical.github.io/pixie-folders/) bajo [MIT License](https://github.com/genesistoxical/pixie-folders/blob/main/LICENSE).
+
 *Puedes encontrar todas las licencias [aquí](/src/DropIcons/Docs).*
 
 ## Licencia
@@ -168,6 +170,8 @@ Copyright (c) 2025 Génesis Toxical ([read here](LICENSE)).
 <br>
 
 ## Relacionado:
+`🩷 Drop Icons` Aplicación para convertir imágenes a iconos (.ico) para Windows: [`Descargar`](https://genesistoxical.github.io/drop-icons/) or [`Repositorio`](https://github.com/genesistoxical/drop-icons/).
+
 `🩷 Image to Icon` Convertir imagen a icono online: [`imagetoicon.glitch.me`](https://imagetoicon.glitch.me/) o [`Repositorio`](https://github.com/genesistoxical/imagetoicon).
 
 `🩷 Pixie Folders` Set con seis diseños de iconos de carpetas minimalistas y editables: [`Descargar`](https://genesistoxical.github.io/pixie-folders/) o [`Repositorio`](https://github.com/genesistoxical/pixie-folders).
