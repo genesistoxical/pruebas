@@ -34,7 +34,7 @@
 * Esquinas adaptables (redondeadas o metro), dependiendo la versión del sistema operativo.
 
 ## Preview
-<a href="#"><img src="docs/assets/Drop-Icons-v2.gif"/></a>
+<a href="#"><img src="docs/assets/Crystal-Folders.mp4"/></a>
 
 ## Uso
 
