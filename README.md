@@ -34,7 +34,7 @@
 * Adaptive corners (rounded or metro), depending on the OS version.
 
 ## Preview
-<iframe src="https://streamable.com/e/yslhdu" allowfullscreen></iframe>
+https://github.com/user-attachments/assets/ffd3b05e-108e-4fa2-9b71-8ec3596b81c9
 
 ## Usage
 On the left panel there is an area where the directories or folders list to customize will be displayed. Below we can find icons with their respective checkboxes, which are: Documents, Pictures, Music, Videos and Desktop.
