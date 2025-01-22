@@ -34,7 +34,6 @@
 * Adaptive corners (rounded or metro), depending on the OS version.
 
 ## Preview
-https://github.com/genesistoxical/pruebas/raw/refs/heads/main/docs/assets/Crystal-Folders.mp4
 https://user-images.githubusercontent.com/6877923/115990868-e8ee3e00-a5c5-11eb-9467-ef8470e74066.mp4
 
 ## Usage
