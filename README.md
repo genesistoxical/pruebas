@@ -34,7 +34,7 @@
 * Adaptive corners (rounded or metro), depending on the OS version.
 
 ## Preview
-https://github.com/user-attachments/assets/ffd3b05e-108e-4fa2-9b71-8ec3596b81c9
+<video src="https://github.com/user-attachments/assets/ffd3b05e-108e-4fa2-9b71-8ec3596b81c9" controls="controls"></video>
 
 ## Usage
 On the left panel there is an area where the directories or folders list to customize will be displayed. Below we can find icons with their respective checkboxes, which are: Documents, Pictures, Music, Videos and Desktop.
@@ -114,11 +114,11 @@ Click on the upper Info button, a new window will appear where you can:
 To compile the installer you need [Inno Setup](https://jrsoftware.org/isinfo.php), the files are located in the [installer src](/installer%20src) folder. You just need to open the project (Installer.iss) and compile it, unless you want to make a change. When finished, it will leave a folder called Output in the same location.
 
 >* Please note that you must first compile the source code in Visual Studio to get the binaries, otherwise, you will get a [📍Compiler Error](https://github.com/genesistoxical/drop-icons/issues/3).
->* ⬇️ Alternatively, you can download the compiled app from the Crystal Folders [page](https://genesistoxical.github.io/crystal-folders/).
+>* Alternatively, you can download the compiled app from the Crystal Folders [page](https://genesistoxical.github.io/crystal-folders/).
 
 **Portable with 7zip.bat** allows you to quickly zip the portable version. It only works with [7zip](https://www.7-zip.org/).
 
-Both .iss and .bat get the files that are needed within their folder and/or the Release folder (because of relative paths).
+Both .iss and .bat get the files that are needed within their folder and/or the Release folder (due to relative paths).
 
 ## Contributing
 * **HandyControls** package will no longer be updated (for now or permanently) as the latest version does not allow resizing of ToggleButtonSwitch.
