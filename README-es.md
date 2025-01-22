@@ -34,10 +34,9 @@
 * Esquinas adaptables (redondeadas o metro), dependiendo la versión del sistema operativo.
 
 ## Preview
-<a href="#"><img src="docs/assets/Crystal-Folders.mp4"/></a>
+<video src="https://github.com/user-attachments/assets/ffd3b05e-108e-4fa2-9b71-8ec3596b81c9" controls="controls"></video>
 
 ## Uso
-
 En el panel izquierdo hay un área donde se mostrará la lista de directorios o carpetas a personalizar. Más abajo podemos encontrar iconos con sus respectivas casillas, los cuales son: Documentos, Imágenes, Música, Videos y Escritorio.
 
 <br/>
