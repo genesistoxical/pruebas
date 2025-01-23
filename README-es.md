@@ -79,7 +79,7 @@ Recuerda que no es necesario cerrar la aplicación para limpiar la lista o las o
 
 <br/>
 
-<a href="#"><img src="https://github.com/user-attachments/assets/820efaaf-742d-4b52-87e9-9be97d3a46f8"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/genesistoxical/pruebas/refs/heads/main/docs/assets/Cystal-Folders-Usage.gif"/></a>
 
 <br id="details"/>
 
@@ -103,7 +103,7 @@ Dando click en el botón superior de Info, aparecerá una nueva ventana en la qu
 
 <br/>
 
-<a href="#"><img src="https://github.com/user-attachments/assets/c68303a2-5d91-4250-9104-e77703e8adeb"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/genesistoxical/pruebas/refs/heads/main/docs/assets/Cystal-Folders-Options.gif"/></a>
 
 <br/>
 
