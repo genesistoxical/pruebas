@@ -149,9 +149,6 @@ Message = true
 
 >Note: The two switch-type options are not saved because they are not options that are usually activated all the time.
 
-## Adaptive corners
-<a href="#"><img src="docs/assets/Drop-Icons-Corners-v2.png"/></a>
-
 ## Credits
 * [HandyControls](https://github.com/ghost1372/HandyControls) under [MIT License](https://github.com/ghost1372/HandyControls/blob/develop/LICENSE).
 
