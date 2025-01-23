@@ -19,7 +19,7 @@ Crystal Folders is an application to customize your folder icons in seconds, for
 * Adaptive corners (rounded or metro), depending on the OS version.
 
 ## Preview
-![Crystal-Folders-Preview](https://github.com/user-attachments/assets/b891843a-b9e9-42df-a2f2-5e2c1a9534ee)
+<picture><img alt="Crystal Folders app to customize folders" src="https://raw.githubusercontent.com/genesistoxical/pruebas/refs/heads/main/docs/assets/Crystal-Folders.gif"/></picture>
 
 ## Usage
 On the left panel there is an area where the directories or folders list to customize will be displayed. Below we can find icons with their respective checkboxes, which are: Documents, Pictures, Music, Videos and Desktop.
@@ -49,7 +49,7 @@ To remove folders one by one, you must select it in the list and click the **⦵
    
 If the number of folders exceeds 600, a message will appear asking if you want to continue, however, the default recommended button is `No` in case you prefer to decrease it.
 
-☑️ That’s it, it’s that easy! Now all that’s left to do is look at your customized folders; if you don’t see any changes, just refresh or close and reopen the Windows Explorer’s window.
+☑️ That’s it, it’s that easy! Now all that’s left to do is look at your customized folders; if you don’t see any changes, just refresh the window and/or desktop.
 
 Remember, is not necessary to close the application to clear the list or options you have chosen, just click on the **⟳** button.
 
@@ -65,7 +65,7 @@ Remember, is not necessary to close the application to clear the list or options
 
 <br/>
 
-![Cystal-Folders-Usage](https://github.com/user-attachments/assets/820efaaf-742d-4b52-87e9-9be97d3a46f8)
+<picture><img src="https://raw.githubusercontent.com/genesistoxical/pruebas/refs/heads/main/docs/assets/Cystal-Folders-Usage.gif"/></picture>
 
 <br id="details"/>
 
@@ -89,7 +89,7 @@ Click on the upper Info button, a new window will appear where you can:
 
 <br/>
 
-![Cystal-Folders-Options](https://github.com/user-attachments/assets/c68303a2-5d91-4250-9104-e77703e8adeb)
+<picture><img src="https://raw.githubusercontent.com/genesistoxical/pruebas/refs/heads/main/docs/assets/Cystal-Folders-Options.gif"/></picture>
 
 <br/>
 
@@ -103,9 +103,8 @@ Click on the upper Info button, a new window will appear where you can:
 <br/>
 
 ## Info
-* Drop Icons is based on [Iconizer](https://github.com/willnode/Iconizer){:target="_blank"}. Read more credits [here](https://github.com/genesistoxical/drop-icons#credits){:target="_blank"}.
-* This software is under **MIT License** ([read full text](https://github.com/genesistoxical/drop-icons/blob/master/LICENSE){:target="_blank"}).
-* Copyright (c) 2022 - 2023 Génesis Toxical.
+* This software is under **MIT License** ([read full text](https://github.com/genesistoxical/cystal-folders/blob/master/LICENSE){:target="_blank"}).
+* Copyright (c) 2025 Génesis Toxical.
 <br>
 <style>
     h2.project-tagline:before {content: "Utility to convert images to icons ";}
