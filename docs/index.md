@@ -63,6 +63,10 @@ Remember, is not necessary to close the application to clear the list or options
 
 𝟯. Finally, click on the second `Restore` button. The small waiting window will appear again, then the notification on the desktop that it has been completed and that’s it, your folders are back to normal.
 
+<br/>
+
+![Cystal-Folders-Usage](https://github.com/user-attachments/assets/820efaaf-742d-4b52-87e9-9be97d3a46f8)
+
 <br id="details"/>
 
 ### Folders with customized icons on another PC:
@@ -70,15 +74,6 @@ Remember, is not necessary to close the application to clear the list or options
 The second switch `Configure to portable` allows you to customize the icon for up to 30 folders (including subfolders) to be displayed with that icon on any other computer, since it copies it inside. This option only works by dragging them to the list area; If any box is checked on the left panel, the switch cannot be turned on.
 
 In the same way, when restoring a folder with a portable icon you will need to follow the same steps, just remember to turn on the `Restore from portable` switch.
-
-<br/>
-
-### Security measures:
-
-* You cannot customize special folders that already have a system icon, such as _Documents_ or _Pictures_, only directories within it.
-* There are folders whose icon cannot be changed due to their protection level or privileges, so a notification will be displayed on the desktop warning about how many have been skipped.
-* It directly modifies the Desktop.ini file, thus avoiding deleting it and creating a new one, without losing its information.
-* Folders limit message, once the amount of 600 has been exceeded; to disable this message, open the `Config.ini` file and change `Message = true` to `Message = false`.
 
 <br/>
 
@@ -92,8 +87,20 @@ Click on the upper Info button, a new window will appear where you can:
      
 - **Third-party content:** On the left side are the names of each library, project, icons or fonts that were used, click one to read its license and author(s), as well as a short description. You can click on the clip icon to go to each repository/official site and change pages with **Next 🢖🢖** or **🢔🢔 Back**.
 
-## Tutorial
-<video src="https://github.com/user-attachments/assets/ffd3b05e-108e-4fa2-9b71-8ec3596b81c9" controls="controls"></video>
+<br/>
+
+![Cystal-Folders-Options](https://github.com/user-attachments/assets/c68303a2-5d91-4250-9104-e77703e8adeb)
+
+<br/>
+
+### Security measures:
+
+* You cannot customize special folders that already have a system icon, such as _Documents_ or _Pictures_, only directories within it.
+* There are folders whose icon cannot be changed due to their protection level or privileges, so a notification will be displayed on the desktop warning about how many have been skipped.
+* It directly modifies the Desktop.ini file, thus avoiding deleting it and creating a new one, without losing its information.
+* Folders limit message, once the amount of 600 has been exceeded; to disable this message, open the `Config.ini` file and change `Message = true` to `Message = false`.
+
+<br/>
 
 ## Info
 * Drop Icons is based on [Iconizer](https://github.com/willnode/Iconizer){:target="_blank"}. Read more credits [here](https://github.com/genesistoxical/drop-icons#credits){:target="_blank"}.
