@@ -34,7 +34,7 @@
 * Adaptive corners (rounded or metro), depending on the OS version.
 
 ## Preview
-<video src="https://github.com/user-attachments/assets/ffd3b05e-108e-4fa2-9b71-8ec3596b81c9" controls="controls"></video>
+![1](https://github.com/user-attachments/assets/032f1b81-346f-4612-bf3c-26fbe2ed2d78)
 
 ## Usage
 On the left panel there is an area where the directories or folders list to customize will be displayed. Below we can find icons with their respective checkboxes, which are: Documents, Pictures, Music, Videos and Desktop.
@@ -67,6 +67,9 @@ If the number of folders exceeds 600, a message will appear asking if you want t
 ☑️ That’s it, it’s that easy! Now all that’s left to do is look at your customized folders; if you don’t see any changes, just refresh or close and reopen the Windows Explorer’s window.
 
 Remember, is not necessary to close the application to clear the list or options you have chosen, just click on the **⟳** button.
+<br/>
+
+<video src="https://github.com/user-attachments/assets/ffd3b05e-108e-4fa2-9b71-8ec3596b81c9" controls="controls"></video>
 
 <br/>
 
