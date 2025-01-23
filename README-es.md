@@ -113,20 +113,21 @@ Dando click en el botón superior de Info, aparecerá una nueva ventana en la qu
 * Hay carpetas a las que no se les puede cambiar el icono debido a su nivel de protección o privilegios, por lo tanto se mostrará una notificación en el escritorio avisando sobre cuántas se han omitido.
 * Modifica directamente el archivo Desktop.ini, evitando así eliminarlo y creando uno nuevo, sin perder información del mismo.
 * Mensaje límite de carpetas, una vez superada la cantidad de 600; para desactivar este mensaje, abre el archivo Config.ini y cambia `Message = true` por `Message = false`.
-  
-## Options
-<a href="#"><img src="docs/assets/Drop-Icons-Options-v2.gif"/></a>
+
+<br>
 
 ## Instalador
 
 Para compilar el instalador es necesario [Inno Setup](https://jrsoftware.org/isinfo.php), los archivos se encuentran en la carpeta [installer src](/installer%20src). Solo debes abrir el proyecto (Installer.iss) y compilarlo, a menos que desees hacer una modificación. Al finalizar, en la misma ubicación dejará una carpeta llamada Output.
 
 >* Por favor, toma en cuenta que primero debes compilar el código de fuente en Visual Studio para tener los binarios, de lo contrario obtendrás un [📍Compiler Error](https://github.com/genesistoxical/drop-icons/issues/3).
->* ⬇️ Si lo prefieres, puedes descargar la app compilada en la [página](https://genesistoxical.github.io/crystal-folders/) de Crystal Folders.
+>* Si lo prefieres, puedes descargar la app compilada en la [página](https://genesistoxical.github.io/crystal-folders/) de Crystal Folders.
 
 **Portable with 7zip.bat** permite comprimir en .zip rápidamente la versión portable. Únicamente funciona con [7zip](https://www.7-zip.org/).
 
 Ambos .iss y .bat obtienen los archivos que son necesarios dentro de su carpeta y/o la carpeta Release (debido a las rutas relativas).
+
+<br>
 
 ## Contribuciones
 * El paquete **HandyControls** dejará de actualizarse (por ahora o permanentemente) ya que la última versión no permite cambiar el tamaño de ToggleButtonSwitch.
