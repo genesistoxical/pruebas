@@ -104,6 +104,8 @@ Dando click en el botón superior de Info, aparecerá una nueva ventana en la qu
 ## Info
 * Este software se encuentra bajo **MIT License** ([leer texto completo](https://github.com/genesistoxical/crystal-folders/blob/master/LICENSE){:target="_blank"}).
 * Copyright (c) 2025 Génesis Toxical.
+* `🤍 Pixie Folders` Crea tus propios folders con este set de seis iconos editables: [Descargar](https://genesistoxical.github.io/pixie-folders/).
+
 <br>
 <style>
     h2.project-tagline:before {content: "Personaliza los iconos de tus carpetas en segundos.";}
