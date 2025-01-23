@@ -34,7 +34,7 @@
 * Adaptive corners (rounded or metro), depending on the OS version.
 
 ## Preview
-![Crystal-Folders-Preview](https://github.com/user-attachments/assets/b891843a-b9e9-42df-a2f2-5e2c1a9534ee)
+<a href="#"><img src="docs/assets/Crystal-Folders.gif"/></a>
 
 ## Usage
 On the left panel there is an area where the directories or folders list to customize will be displayed. Below we can find icons with their respective checkboxes, which are: Documents, Pictures, Music, Videos and Desktop.
@@ -80,7 +80,7 @@ Remember, is not necessary to close the application to clear the list or options
 
 <br/>
 
-![Cystal-Folders-Usage](https://github.com/user-attachments/assets/820efaaf-742d-4b52-87e9-9be97d3a46f8)
+<a href="#"><img src="docs/assets/Crystal-Folders-Usage.gif"/></a>
 
 <br id="details"/>
 
@@ -104,7 +104,7 @@ Click on the upper Info button, a new window will appear where you can:
 
 <br/>
 
-![Cystal-Folders-Options](https://github.com/user-attachments/assets/c68303a2-5d91-4250-9104-e77703e8adeb)
+<a href="#"><img src="docs/assets/Crystal-Folders-Options.gif"/></a>
 
 <br/>
 
