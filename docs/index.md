@@ -19,7 +19,7 @@ Crystal Folders is an application to customize your folder icons in seconds, for
 * Adaptive corners (rounded or metro), depending on the OS version.
 
 ## Preview
-<picture><img alt="Crystal Folders app to customize folders" src="https://raw.githubusercontent.com/genesistoxical/pruebas/refs/heads/main/docs/assets/Crystal-Folders.gif"/></picture>
+<picture><img alt="Crystal Folders customize folders app" src="https://raw.githubusercontent.com/genesistoxical/pruebas/refs/heads/main/docs/assets/Crystal-Folders.gif"/></picture>
 
 ## Usage
 On the left panel there is an area where the directories or folders list to customize will be displayed. Below we can find icons with their respective checkboxes, which are: Documents, Pictures, Music, Videos and Desktop.
