@@ -135,7 +135,6 @@ Both .iss and .bat get the files that are needed within their folder and/or the 
 * Variable names must be in English.
 * If you open an **Issue**, it can be in English o Spanish.
 * **Pull request** in English, in the description you can add details in English or Spanish.
-* When converting **.svg** it is first converted to **.png** in a temporary folder and then from **.png** to icon. The priority would be **.svg** "directly" to icon.
   
 ## Config
 `Config.ini` file stores information about the language, theme color and folders limit message.
