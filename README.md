@@ -64,7 +64,7 @@ To remove folders one by one, you must select it in the list and click the **⦵
    
 If the number of folders exceeds 600, a message will appear asking if you want to continue, however, the default recommended button is `No` in case you prefer to decrease it.
 
-☑️ That’s it, it’s that easy! Now all that’s left to do is look at your customized folders; if you don’t see any changes, just refresh or close and reopen the Windows Explorer’s window.
+☑️ That’s it, it’s that easy! Now all that’s left to do is look at your customized folders; if you don’t see any changes, just refresh the window and/or desktop.
 
 Remember, is not necessary to close the application to clear the list or options you have chosen, just click on the **⟳** button.
 
