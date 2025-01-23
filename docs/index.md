@@ -107,7 +107,7 @@ Click on the upper Info button, a new window will appear where you can:
 * Copyright (c) 2025 Génesis Toxical.
 <br>
 <style>
-    h2.project-tagline:before {content: "Utility to convert images to icons ";}
+    h2.project-tagline:before {content: "Application to customize your folder icons in seconds.";}
     a.btn:nth-child(3):after {content: "ownload Portable";}
     a.btn:nth-child(4):after {content: "ownload Installer";}
 </style>
