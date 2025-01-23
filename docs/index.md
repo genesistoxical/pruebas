@@ -105,7 +105,7 @@ Click on the upper Info button, a new window will appear where you can:
 ## Info
 * This software is under **MIT License** ([read full text](https://github.com/genesistoxical/cystal-folders/blob/master/LICENSE){:target="_blank"}).
 * Copyright (c) 2025 Génesis Toxical.
-* 🩷 Create your own folders with this set of six editable icons [`Pixie Folders`](https://genesistoxical.github.io/pixie-folders/).
+* `🤍 Pixie Folders` Create your own folders with this set of six editable icons, [download here](https://genesistoxical.github.io/pixie-folders/).
 
 <br>
 <style>
