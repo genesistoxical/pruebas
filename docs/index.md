@@ -19,7 +19,7 @@ Crystal Folders is an application to customize your folder icons in seconds, for
 * Adaptive corners (rounded or metro), depending on the OS version.
 
 ## Preview
-<video src="https://github.com/user-attachments/assets/ffd3b05e-108e-4fa2-9b71-8ec3596b81c9" controls="controls"></video>
+![Crystal-Folders-Preview](https://github.com/user-attachments/assets/11f87b42-3bb1-4e8d-a323-b617351854b3)
 
 ## Usage
 On the left panel there is an area where the directories or folders list to customize will be displayed. Below we can find icons with their respective checkboxes, which are: Documents, Pictures, Music, Videos and Desktop.
@@ -92,8 +92,8 @@ Click on the upper Info button, a new window will appear where you can:
      
 - **Third-party content:** On the left side are the names of each library, project, icons or fonts that were used, click one to read its license and author(s), as well as a short description. You can click on the clip icon to go to each repository/official site and change pages with **Next 🢖🢖** or **🢔🢔 Back**.
 
-## Options
-<picture><img src="assets/Drop-Icons-Options-v2.gif"/></picture>
+## Tutorial
+<video src="https://github.com/user-attachments/assets/ffd3b05e-108e-4fa2-9b71-8ec3596b81c9" controls="controls"></video>
 
 ## Info
 * Drop Icons is based on [Iconizer](https://github.com/willnode/Iconizer){:target="_blank"}. Read more credits [here](https://github.com/genesistoxical/drop-icons#credits){:target="_blank"}.
