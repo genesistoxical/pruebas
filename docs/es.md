@@ -106,7 +106,7 @@ Dando click en el botón superior de Info, aparecerá una nueva ventana en la qu
 * Copyright (c) 2025 Génesis Toxical.
 <br>
 <style>
-    h2.project-tagline:before {content: "Aplicación para personalizar los iconos de tus carpetas en segundos.";}
+    h2.project-tagline:before {content: "Personaliza los iconos de tus carpetas en segundos.";}
     a.btn:nth-child(3):after {content: "escargar Portable";}
     a.btn:nth-child(4):after {content: "escargar Instalable";}
 </style>
