@@ -67,9 +67,6 @@ If the number of folders exceeds 600, a message will appear asking if you want t
 ☑️ That’s it, it’s that easy! Now all that’s left to do is look at your customized folders; if you don’t see any changes, just refresh or close and reopen the Windows Explorer’s window.
 
 Remember, is not necessary to close the application to clear the list or options you have chosen, just click on the **⟳** button.
-<br/>
-
-<video src="https://github.com/user-attachments/assets/ffd3b05e-108e-4fa2-9b71-8ec3596b81c9" controls="controls"></video>
 
 <br/>
 
@@ -110,8 +107,8 @@ Click on the upper Info button, a new window will appear where you can:
      
 - **Third-party content:** On the left side are the names of each library, project, icons or fonts that were used, click one to read its license and author(s), as well as a short description. You can click on the clip icon to go to each repository/official site and change pages with **Next 🢖🢖** or **🢔🢔 Back**.
 
-## Options
-<a href="#"><img src="docs/assets/Drop-Icons-Options-v2.gif"/></a>
+## Videotutorial
+<video src="https://github.com/user-attachments/assets/ffd3b05e-108e-4fa2-9b71-8ec3596b81c9" controls="controls"></video>
 
 ## Installer
 To compile the installer you need [Inno Setup](https://jrsoftware.org/isinfo.php), the files are located in the [installer src](/installer%20src) folder. You just need to open the project (Installer.iss) and compile it, unless you want to make a change. When finished, it will leave a folder called Output in the same location.
