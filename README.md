@@ -80,7 +80,7 @@ Remember, is not necessary to close the application to clear the list or options
 
 <br/>
 
-<a href="#"><img src="https://github.com/user-attachments/assets/820efaaf-742d-4b52-87e9-9be97d3a46f8"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/genesistoxical/pruebas/refs/heads/main/docs/assets/Cystal-Folders-Usage.gif"/></a>
 
 <br id="details"/>
 
@@ -104,7 +104,7 @@ Click on the upper Info button, a new window will appear where you can:
 
 <br/>
 
-<a href="#"><img src="https://github.com/user-attachments/assets/c68303a2-5d91-4250-9104-e77703e8adeb"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/genesistoxical/pruebas/refs/heads/main/docs/assets/Cystal-Folders-Options.gif"/></a>
 
 <br/>
 
