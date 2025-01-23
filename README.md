@@ -34,7 +34,7 @@
 * Adaptive corners (rounded or metro), depending on the OS version.
 
 ## Preview
-![Crystal-Folders-Preview](https://github.com/user-attachments/assets/11f87b42-3bb1-4e8d-a323-b617351854b3)
+![Crystal-Folders-Preview](https://github.com/user-attachments/assets/b891843a-b9e9-42df-a2f2-5e2c1a9534ee)
 
 ## Usage
 On the left panel there is an area where the directories or folders list to customize will be displayed. Below we can find icons with their respective checkboxes, which are: Documents, Pictures, Music, Videos and Desktop.
