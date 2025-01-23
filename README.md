@@ -165,7 +165,7 @@ Message = true
  
 * [Pixie Folders](https://genesistoxical.github.io/pixie-folders/) under [MIT License](https://github.com/genesistoxical/pixie-folders/blob/main/LICENSE).
 
-*You can find all licenses [here](/src/DropIcons/Docs).*
+*You can find all licenses [here](/src/CystalFolders/Docs).*
 
 ## License
 **MIT License**
