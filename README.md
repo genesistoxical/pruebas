@@ -127,6 +127,8 @@ To compile the installer you need [Inno Setup](https://jrsoftware.org/isinfo.php
 
 Both .iss and .bat get the files that are needed within their folder and/or the Release folder (due to relative paths).
 
+<br>
+
 ## Contributing
 * **HandyControls** package will no longer be updated (for now or permanently) as the latest version does not allow resizing of ToggleButtonSwitch.
 * If you make comments in the code, preferably in Spanish, please.
