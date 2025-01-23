@@ -15,7 +15,7 @@
 <a href="README.md">English</a> :speech_balloon: <a href="README-es.md">Español</a>
 </p>
 
-## Features
+## Características
 * Personaliza muchas carpetas en segundos.
 * Agrega carpetas dentro de Documentos, Imágenes, etc. con un clic.
 * Posibilidad de arrastrar y soltar.
@@ -33,7 +33,7 @@
 * Modificación del archivo Desktop.ini sin perder información anterior.
 * Esquinas adaptables (redondeadas o metro), dependiendo la versión del sistema operativo.
 
-## Preview
+## Previa
 <a href="#"><img src="docs/assets/Crystal-Folders.gif"/></a>
 
 ## Uso
