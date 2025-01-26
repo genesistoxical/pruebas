@@ -1,4 +1,4 @@
-# Image to Icon ✨🩷
+# Image to Icon 🫧
 
 Convert image to icon online. Running on glitch at [`imagetoicon.glitch.me`](https://imagetoicon.glitch.me)
 
@@ -17,4 +17,4 @@ Credits can be found on the [about](https://imagetoicon.glitch.me/about.html) pa
 
 <br/>
 
->There are currently no plans to update Jimp, as code changes will be required, but contributions are appreciated.
+<sup>There are currently no plans to update Jimp, as code changes will be required, but contributions are appreciated.</sup>
