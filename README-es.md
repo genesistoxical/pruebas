@@ -114,20 +114,6 @@ Drop Icons está basado en [Iconizer](https://github.com/willnode/Iconizer) bajo
 *Puedes encontrar todas las licencias [aquí](/src/DropIcons/Docs).*
 
 ## ¿Qué es lo nuevo?
-`Versión 1.0.0` se creó en Windows Forms. Drop Icons ya no se desarrollará con esa tecnología, sin embargo, todavía puedes encontrar y/o descargar la última versión oficial aquí:
-<br>
-🏷️ [winforms-v1-final](https://github.com/genesistoxical/drop-icons/tree/winforms-v1-final)
-
-<br>
-
-`Versión 2.0.0` está desarrollada con Windows Presentation Foundation (WPF) para mejorar la interfaz e incluir esquinas redondeadas adaptables, según la versión del sistema operativo.
-
-En este segundo lanzamiento se ha mejorado la ventana **Acerca de**, el archivo **Config.ini** se ha modificado para usar solo el color del tema HEX y no RGB, además que se ha reemplazado el selector de color (para el tema) por uno mucho más moderno.
-
-Debido a este último cambio, se eliminó **Colors.dat** ya que no existe botón para guardar los personalizados, en su lugar hay una paleta de colores.
-
-<br>
-
 `Versión 2.1.1` permite convertir tres formatos más; **.jfif .gif** y **.svg**, para este último fue necesario agregar compatibilidad [📍Can you add support to SVG file?](https://github.com/genesistoxical/drop-icons/issues/2). Ahora hay opciones de tamaño para los iconos: **Múltiple** y **256 px** [📍Icon Default 256x256](https://github.com/genesistoxical/drop-icons/discussions/1).
 
 Además de otras pequeñas mejoras, se implementó una nueva página en la ventana **Acerca de** y se agregó una carpeta con el nombre **Libs** en los binarios para una mejor organización de dll(s).
@@ -137,6 +123,12 @@ Además de otras pequeñas mejoras, se implementó una nueva página en la venta
 `Version 2.1.2` incluye actualizaciones menores en la ventana **Acerca de**: la opción para elegir los tamaños que serán incluidos dentro del icono se reenombró a **Formato** en vez de **Icono**. Esto para evitar confusiones.
 
 Se actualizó un problema con un enlace de atribución y se eliminó un control que no era utilizado. Así como otros pequeños cambios en las variables del código.
+
+<br>
+
+`Version 3.0.0` ahora tiene una conversión de vectores precisa. Anteriormente los márgenes vacíos no eran detectados, lo que daba como resultado un icono con dimensiones escaladas: [📍Image cropped](https://github.com/genesistoxical/drop-icons/issues/4).
+
+El circulo de cargando aparece cuando se agrega una o varias imágenes con un peso mayor a 2MB, evitando que la interfaz parezca congelada.
 
 ## Licencia
 **MIT License**
