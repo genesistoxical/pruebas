@@ -107,7 +107,7 @@ Drop Icons is based on [Iconizer](https://github.com/willnode/Iconizer) under [M
 
 * Icons are part of [Teenyicons](https://github.com/teenyicons/teenyicons) under [MIT License](https://github.com/teenyicons/teenyicons/blob/master/LICENSE).
 
-* [SVG]([https://github.com/ElinamLLC/SharpVectors/](https://github.com/svg-net/SVG)) under [MS-PL license](https://github.com/svg-net/SVG/blob/master/license.txt).
+* [SVG](https://github.com/svg-net/SVG) under [MS-PL license](https://github.com/svg-net/SVG/blob/master/license.txt).
 
 * [WinVersion](https://github.com/shaovoon/win_version_detection) detection under [MIT License](https://github.com/shaovoon/win_version_detection/blob/main/LICENSE).
 
