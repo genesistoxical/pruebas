@@ -75,7 +75,6 @@ Ambos .iss y .bat obtienen los archivos que son necesarios dentro de su carpeta 
 * Los nombres de las variables deben estar en Inglés.
 * Si abres un **Issue**, puede ser en Inglés o Español.
 * **Pull request** en Inglés, en la descripción puedes agregar detalles en Inglés o Español.
-* Al convertir **.svg** primero se convierte a **.png** en una carpeta temporal y posteriormente de **.png** a icono. La prioridad sería **.svg** "directamente" a icono.
   
 ## Configuración
 El archivo `Config.ini` almacena información del lenguaje, color del tema, format de icono y si está activada o no la opción TopMost.
@@ -108,7 +107,7 @@ Drop Icons está basado en [Iconizer](https://github.com/willnode/Iconizer) bajo
 
 * Los iconos son parte de [Teenyicons](https://github.com/teenyicons/teenyicons) bajo [MIT License](https://github.com/teenyicons/teenyicons/blob/master/LICENSE).
 
-* [SharpVectors](https://github.com/ElinamLLC/SharpVectors/) bajo [BSD 3-Clause](https://github.com/ElinamLLC/SharpVectors/blob/master/License.md).
+* [SVG](https://github.com/svg-net/SVG) bajo [MS-PL license](https://github.com/svg-net/SVG/blob/master/license.txt).
 
 * [WinVersion](https://github.com/shaovoon/win_version_detection) detection bajo [MIT License](https://github.com/shaovoon/win_version_detection/blob/main/LICENSE).
 
