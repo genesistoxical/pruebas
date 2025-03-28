@@ -108,7 +108,7 @@ Drop Icons está basado en [Iconizer](https://github.com/willnode/Iconizer) bajo
 * Los iconos son parte de [Teenyicons](https://github.com/teenyicons/teenyicons) bajo [MIT License](https://github.com/teenyicons/teenyicons/blob/master/LICENSE).
 
 * [SVG](https://github.com/svg-net/SVG) bajo [MS-PL license](https://github.com/svg-net/SVG/blob/master/license.txt).
-<br><sub>Este paquete incluye cinco dependencias, puedes encontrar más información [aquí](/src/DropIcons/Docs/SVG%20%2B.txt).</sup>
+<br><sub>Este paquete incluye cinco dependencias, lee más detalles en este [archivo](/src/DropIcons/Docs/SVG%20%2B.txt).</sup>
 
 * [WinVersion](https://github.com/shaovoon/win_version_detection) detection bajo [MIT License](https://github.com/shaovoon/win_version_detection/blob/main/LICENSE).
 
@@ -134,7 +134,7 @@ El circulo de cargando aparece cuando se agrega una o varias imágenes con un pe
 ## Licencia
 **MIT License**
 
-Copyright (c) 2022 - 2023 Génesis Toxical ([read here](LICENSE)).
+Copyright (c) 2022 - 2025 Génesis Toxical ([read here](LICENSE)).
 
 <br>
 
