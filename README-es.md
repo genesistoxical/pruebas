@@ -125,7 +125,7 @@ El circulo de cargando aparece cuando se agrega una o varias imágenes con un pe
 
 <br>
 
->✨ Un agradecimiento especial a **USER**, quien agregó la traducción a Alemán.
+>✨ Un agradecimiento especial a **uDEV2019**, quien agregó la traducción a Alemán.
 
 ## Licencia
 **MIT License**
