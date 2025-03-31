@@ -121,7 +121,7 @@ The loading spinner is displayed when one or more images larger than 2MB are add
 
 <br>
 
-`Version 3.1.0` includes one more language: [📍German translation](https://github.com/genesistoxical/drop-icons/pull/6). To avoid interface issues, updates for HandyControls package have been disabled.
+`Version 3.1.0` includes one more language: [📍German translation](https://github.com/genesistoxical/drop-icons/pull/6). To avoid interface issues, updates for **HandyControls** package have been disabled.
 
 <br>
 
