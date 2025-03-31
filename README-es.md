@@ -115,21 +115,17 @@ Drop Icons está basado en [Iconizer](https://github.com/willnode/Iconizer) bajo
 *Puedes encontrar todas las licencias [aquí](/src/DropIcons/Docs).*
 
 ## ¿Qué es lo nuevo?
-`Versión 2.1.1` permite convertir tres formatos más; **.jfif .gif** y **.svg**, para este último fue necesario agregar compatibilidad [📍Can you add support to SVG file?](https://github.com/genesistoxical/drop-icons/issues/2). Ahora hay opciones de tamaño para los iconos: **Múltiple** y **256 px** [📍Icon Default 256x256](https://github.com/genesistoxical/drop-icons/discussions/1).
-
-Además de otras pequeñas mejoras, se implementó una nueva página en la ventana **Acerca de** y se agregó una carpeta con el nombre **Libs** en los binarios para una mejor organización de dll(s).
-
-<br>
-
-`Versión 2.1.2` incluye actualizaciones menores en la ventana **Acerca de**: la opción para elegir los tamaños que serán incluidos dentro del icono se reenombró a **Formato** en vez de **Icono**. Esto para evitar confusiones.
-
-Se actualizó un problema con un enlace de atribución y se eliminó un control que no era utilizado. Así como otros pequeños cambios en las variables del código.
-
-<br>
-
 `Versión 3.0.0` ahora tiene una conversión de vectores precisa. Anteriormente los márgenes vacíos no eran detectados, lo que daba como resultado un icono con dimensiones escaladas: [📍Image cropped](https://github.com/genesistoxical/drop-icons/issues/4).
 
 El circulo de cargando aparece cuando se agrega una o varias imágenes con un peso mayor a 2MB, evitando que la interfaz parezca congelada.
+
+<br>
+
+`Version 3.1.0` incluye un idioma más: [📍German translation](https://github.com/genesistoxical/drop-icons/pull/6). Para evitar problemas con la interfaz, se han deshabilitado las actualizaciones para el paquete **HandyControls**.
+
+<br>
+
+>✨ Un agradecimiento especial a **USER**, quien agregó la traducción a Alemán.
 
 ## Licencia
 **MIT License**
