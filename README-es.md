@@ -121,7 +121,7 @@ El circulo de cargando aparece cuando se agrega una o varias imágenes con un pe
 
 <br>
 
-`Version 3.1.0` incluye un idioma más: [📍German translation](https://github.com/genesistoxical/drop-icons/pull/6). Para evitar problemas con la interfaz, se han deshabilitado las actualizaciones para el paquete **HandyControls**.
+`Versión 3.1.0` incluye un idioma más: [📍German translation](https://github.com/genesistoxical/drop-icons/pull/6). Para evitar problemas con la interfaz, se han deshabilitado las actualizaciones para el paquete **HandyControls**.
 
 <br>
 
