@@ -125,7 +125,7 @@ The loading spinner is displayed when one or more images larger than 2MB are add
 
 <br>
 
->✨ Special thanks to **uDEV2019**, who added German translation.
+>✨ Special thanks to **uDEV2019**, who added German translation to the app.
 
 ## License
 **MIT License**
