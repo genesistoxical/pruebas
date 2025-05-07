@@ -34,21 +34,25 @@
 <a href="#"><img src="docs/assets/Drop-Icons-App-v2.gif"/></a>
 
 ## Usage
-Drag and drop your images into the empty space, you will preview three images except if you only drag one or two. Below you can see the total amount of images to convert, subtracting three from preview. If you cannot drag, click on `Add images`.
+El uso es muy sencillo, ya que es un editor como cualquier otro. Si tienes duda sobre una herramienta o botón, deja tu cursor encima de (sin dar clic), para obtener información.
 
-Leave the first switch on if you want to save them in the same folder, if you prefer to choose a specific folder, turn it off. You can also generate a tiny icon by turning on the second switch. Finally, click on `Convert` button, wait for the interface to restart because this indicates that it has finished and your icons are ready.
+- Abre una imagen ![_Open](https://github.com/user-attachments/assets/3c4dca77-c250-40d7-9dca-9096d7d23a98) (debe ser en formato png). Los márgenes con pixeles vacíos se recortarán automáticamente.
+- Comienza a crear la flechita; utiliza el pincel, selector de color y tu creatividad. Al seleccionar el pincel, puedes borrar con clic derecho también.
+- Una vez terminado, podrías agregar sombra ![_Shadow](https://github.com/user-attachments/assets/ce1712bc-7bae-4092-b520-e6ab7e2c1e6f). Suele agregarse bastante sombreado a la flechita, así que puedes perfeccionarla borrando un poco.
+- Selecciona ![_Hotspot](https://github.com/user-attachments/assets/2d66873b-d530-4702-8248-c507ceaf8ca0) de la barra de herramientas, para elegir en dónde quieres que haga clic tu cursor, como por ejemplo, la punta de la flechita. Haz clic para dejar el circulito en el lugar que desees.
+- Presiona el botón de guardar ![_Save](https://github.com/user-attachments/assets/1baa6d5e-5b8a-4b96-be4a-37c6e8508595), ponle un nombre y ya lo habrás terminado. Ahora vamos a instalarlo.
 
-If you need to delete the images you have added by mistake, click on the arrows icon. Remember that you can drag images as many times as you want before clicking the `Convert` button.
+Instalación:
+- Abre tu carpeta de cursores con el botón ![_CursorsFolder](https://github.com/user-attachments/assets/3df726df-2dc2-405a-ab60-570f707d85f3) y mueve ahí el cursor que acabas de crear.
+- Da clic en ![_MouseProperties](https://github.com/user-attachments/assets/e3598798-743d-4894-87a1-8f6d24919be5) el cual es solo un acceso directo a las Propiedades del Mouse de Windows.
+- En la ventanita que se abrirá, dirígete a punteros, clic en "Selección normal" y “Examinar” para elegir uno diferente. Entra a la carpeta de - Pixie Cursors - y selecciona tu cursor. Puedes hacer lo mismo con el cursor de link o manita.
+- Presiona “Guardar como…”, ponle un nombre y Aceptar.
+- Desactiva la casilla de “habilitar sombra en el puntero” para que no se ponga doble sombra, da en Aceptar ¡Y listo, disfruta tu cursor!
 
 <br id="details"/>
-By clicking on the upper Info button, a new window will appear in which you can:
+By clicking on ![_Info](https://github.com/user-attachments/assets/6ac15c4b-a879-4fbb-bee6-0f16d633b4d3), a new window will appear in which you can:
 
-- **Change theme:** Click on `Change Theme` to open the color picker and choose a custom one, then click Apply. To return to default values, repeat the previous steps and press the purple button below the tone selector. Finally click Apply.
-
-- **Change language:** In the **Language** section below, click on the little arrows icon to change between English, Español or Deutsch. Finally click on the return button to apply and see changes.
-
-- **Format:** Clicking on `Format` will display a menu with two options to choose the sizes that will be included within the icon: **Multiple** generates a high quality icon that include all necessary sizes such as 16, 32, 48, 64, 128 and 256 pixels, although the output dimensions will be 16px. The last option is **256 px** which generates an icon with a single size but look pixelated in the details view.
-     >Note: If the **Generate tiny icon** switch is on, a small icon will be created regardless of its format.
+- **Change language:** In the **Language** section below, click on the little arrows icon to change between English or Español. Finally click on the return button to apply and see changes.
      
 - **Third-party content:** On the left side are the names of each library, project, icons or fonts that were used, click one to read its license and author(s), as well as a short description. You can click on the clip icon to go to each repository/official site and change pages with **Next 🢖🢖** or **🢔🢔 Back**.
 
