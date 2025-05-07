@@ -49,15 +49,13 @@ Instalación:
 - Presiona “Guardar como…”, ponle un nombre y Aceptar.
 - Desactiva la casilla de “habilitar sombra en el puntero” para que no se ponga doble sombra, da en Aceptar ¡Y listo, disfruta tu cursor!
 
+<br>
+
 By clicking on ![_Info](https://github.com/user-attachments/assets/6ac15c4b-a879-4fbb-bee6-0f16d633b4d3), a new window will appear in which you can:
 
 - **Change language:** In the **Language** section below, click on the little arrows icon to change between English or Español. Finally click on the return button to apply and see changes.
      
 - **Third-party content:** On the left side are the names of each library, project, icons or fonts that were used, click one to read its license and author(s), as well as a short description. You can click on the clip icon to go to each repository/official site and change pages with **Next 🢖🢖** or **🢔🢔 Back**.
-
-<br>
-
-To choose whether Drop Icons is on top of all windows (Topmost) or not, right-click anywhere in the main window and choose Enable Topmost or Disable Topmost.
 
 ## Options
 <a href="#"><img src="docs/assets/Drop-Icons-Options-v2.gif"/></a>
