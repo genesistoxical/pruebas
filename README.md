@@ -49,6 +49,11 @@ Instalación:
 - Presiona “Guardar como…”, ponle un nombre y Aceptar.
 - Desactiva la casilla de “habilitar sombra en el puntero” para que no se ponga doble sombra, da en Aceptar ¡Y listo, disfruta tu cursor!
 
+Otras herramientas:
+- Si está activado "Cortar Margen Vacío" al momento de abrir una imagen, este va a recortarse para otener el mejor tamaño del cursor.
+- Oprime Shift al usar el pixel para hacer una línea.
+- Oprime control al usar el bote de pintura o "rellenar" para pintar todos los pixeles del mismo color.
+
 <br>
 
 By clicking on ![_Info](https://github.com/user-attachments/assets/6ac15c4b-a879-4fbb-bee6-0f16d633b4d3), a new window will appear in which you can:
