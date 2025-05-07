@@ -16,19 +16,16 @@
 </p>
 
 ## Features
-* Clean and intuitive interface.
-* Quickly convert multiple images to icons at once, with Drag and Drop feature.
-* Switch between English, Spanish and German language.
-* Support for .png .jpg .jpeg .jfif .bmp .gif and .svg images.
-* Customize theme color.
-* Number of images to convert, subtracting three that are displayed as preview.
-* Settings are saved in an .ini file, except for switches.
-* Save icons in the same folder (default) or in a specific one.
-* Enable and disable Topmost.
-* Format options to choose sizes included within the icon, multiple and 256 px. [𝐢](#details)
-* Prevent duplication of an image that has been previously added.
-* Option to generate tiny icon.
-* Adaptive corners (rounded or metro), depending on the OS version.
+* Crea cursores en un par de minutos.
+* Interfaz intuitiva y sencilla.
+* Vista previa en tiempo y tamaño real.
+* Importa una imagen en PNG y recorta píxeles vacíos.
+* Elige en dónde hará clic el cursor (Hotspot).
+* Selector de color que permite guardar muestras.
+* Botón para agregar sombra al finalizar el cursor.
+* El fondo a cuadros del editor se puede oscurecer.
+* Accede a las herramientas con accesos del teclado.
+* Cambia la app al idioma Inglés o Español.
 
 ## Preview
 <a href="#"><img src="docs/assets/Drop-Icons-App-v2.gif"/></a>
