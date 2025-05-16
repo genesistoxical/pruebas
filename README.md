@@ -84,19 +84,7 @@ Both .iss and .bat get the files that are needed within their folder and/or the 
 ~~~
 [Options]
 Language = en
-Topmost = false
-
-[Theme]
-#FF9280FF
-
-[Format]
-Size = multiple
 ~~~
-
->Note: The two switch-type options are not saved because they are not options that are usually activated all the time.
-
-## Adaptive corners
-<a href="#"><img src="docs/assets/Drop-Icons-Corners-v2.png"/></a>
 
 ## Credits
 Drop Icons is based on [Iconizer](https://github.com/willnode/Iconizer) under [MIT License](https://github.com/willnode/Iconizer/blob/master/LICENSE).
@@ -115,15 +103,6 @@ Drop Icons is based on [Iconizer](https://github.com/willnode/Iconizer) under [M
 * [WinVersion](https://github.com/shaovoon/win_version_detection) detection under [MIT License](https://github.com/shaovoon/win_version_detection/blob/main/LICENSE).
 
 *You can find all licenses [here](/src/DropIcons/Docs).*
-
-## What's new?
-`Version 3.0.0` now has accurate vector conversion. Previously, empty margins weren't detected, resulting in an icon with scaled dimensions: [📍Image cropped](https://github.com/genesistoxical/drop-icons/issues/4).
-
-The loading spinner is displayed when one or more images larger than 2MB are added, preventing the interface from looking frozen.
-
-<br>
-
-`Version 3.1.0` includes one more language: [📍German translation](https://github.com/genesistoxical/drop-icons/pull/6) for both the application and installer. To avoid interface issues, updates for **HandyControls** package have been disabled.
 
 ## License
 **MIT License**
