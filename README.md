@@ -4,11 +4,11 @@
 <p align="center">Pixie Cursors is an app to create cursors easy.</p>
 
 <p align="center">
- <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-9280FF?style=flat-square&labelColor=343B45"/></a>
- <a href="https://github.com/genesistoxical/drop-icons/releases/latest"><img src="https://img.shields.io/github/v/release/genesistoxical/drop-icons.svg?color=9280FF&label=Release&style=flat-square&labelColor=343B45"/></a>
- <a href="#"><img alt="NET" src="https://img.shields.io/badge/.NET_Framework-4.8-9280FF?style=flat-square&labelColor=343B45"/></a> 
- <a href="/installer%20src"><img alt="Installer" src="https://img.shields.io/badge/Installer-ISS-9280FF?style=flat-square&labelColor=343B45"/></a>
- <a href="#"><img alt="Languages" src="https://img.shields.io/badge/Languages-3-9280FF?style=flat-square&labelColor=343B45"/></a>
+ <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-FD2A7A?style=flat-square&labelColor=343B45"/></a>
+ <a href="https://github.com/genesistoxical/drop-icons/releases/latest"><img src="https://img.shields.io/github/v/release/genesistoxical/drop-icons.svg?color=FD2A7A&label=Release&style=flat-square&labelColor=343B45"/></a>
+ <a href="#"><img alt="NET" src="https://img.shields.io/badge/.NET_Framework-4.8-FD2A7A?style=flat-square&labelColor=343B45"/></a> 
+ <a href="/installer%20src"><img alt="Installer" src="https://img.shields.io/badge/Installer-ISS-FD2A7A?style=flat-square&labelColor=343B45"/></a>
+ <a href="#"><img alt="Languages" src="https://img.shields.io/badge/Languages-3-FD2A7A?style=flat-square&labelColor=343B45"/></a>
 </p>
 
 <p align="center">
@@ -52,7 +52,7 @@ Otras herramientas:
 - Oprime Shift al usar el pixel para hacer una línea.
 - Oprime control al usar el bote de pintura o "rellenar" para pintar todos los pixeles del mismo color.
 
-<br>
+<br></br>
 ![PixieCursors](https://github.com/user-attachments/assets/b7161d4a-e2e6-4a73-837c-ab071d8856a9)
 
 
