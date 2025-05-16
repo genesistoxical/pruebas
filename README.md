@@ -29,6 +29,7 @@
 
 ## Preview
 <a href="#"><img src="docs/assets/Drop-Icons-App-v2.gif"/></a>
+![PixieCursors (Tiempo 0_00_29;03)](https://github.com/user-attachments/assets/0315e1e2-e89f-48ba-9792-9c6e0bf785df)
 
 ## Usage
 El uso es muy sencillo, ya que es un editor como cualquier otro. Si tienes duda sobre una herramienta o botón, deja tu cursor encima de (sin dar clic), para obtener información.
@@ -52,15 +53,14 @@ Otras herramientas:
 - Oprime control al usar el bote de pintura o "rellenar" para pintar todos los pixeles del mismo color.
 
 <br>
+![PixieCursors](https://github.com/user-attachments/assets/b7161d4a-e2e6-4a73-837c-ab071d8856a9)
+
 
 By clicking on ![_Info](https://github.com/user-attachments/assets/6ac15c4b-a879-4fbb-bee6-0f16d633b4d3), a new window will appear in which you can:
 
 - **Change language:** In the **Language** section below, click on the little arrows icon to change between English or Español. Finally click on the return button to apply and see changes.
      
 - **Third-party content:** On the left side are the names of each library, project, icons or fonts that were used, click one to read its license and author(s), as well as a short description. You can click on the clip icon to go to each repository/official site and change pages with **Next 🢖🢖** or **🢔🢔 Back**.
-
-## Options
-<a href="#"><img src="docs/assets/Drop-Icons-Options-v2.gif"/></a>
 
 ## Installer
 To compile the installer you need [Inno Setup](https://jrsoftware.org/isinfo.php), the files are located in the [installer src](/installer%20src) folder. You just need to open the project (Installer.iss) and compile it, unless you want to make a change. When finished, it will leave a folder called Output in the same location.
@@ -73,7 +73,6 @@ To compile the installer you need [Inno Setup](https://jrsoftware.org/isinfo.php
 Both .iss and .bat get the files that are needed within their folder and/or the Release folder (due to relative paths).
 
 ## Contributing
-* **HandyControls** package will no longer be updated (for now or permanently) as the latest version does not allow resizing of ToggleButtonSwitch.
 * If you make comments in the code, preferably in Spanish, please.
 * Variable names must be in English.
 * If you open an **Issue**, it can be in English o Spanish.
@@ -126,14 +125,10 @@ The loading spinner is displayed when one or more images larger than 2MB are add
 
 `Version 3.1.0` includes one more language: [📍German translation](https://github.com/genesistoxical/drop-icons/pull/6) for both the application and installer. To avoid interface issues, updates for **HandyControls** package have been disabled.
 
-<br>
-
->✨ Special thanks to **uDEV2019**, who added German translation to the app.
-
 ## License
 **MIT License**
 
-Copyright (c) 2022 - 2025 Génesis Toxical ([read here](LICENSE)).
+Copyright (c) 2025 Génesis Toxical ([read here](LICENSE)).
 
 <br>
 
