@@ -1,7 +1,7 @@
 <p align="center"></p>
 <p align="center"><a href="#"><img width="115px" src="docs/assets/Logo-115px.png" align="center" alt="Drop Icons"/></a></p>
-<h1 align="center">Drop Icons</h1>
-<p align="center">Drop Icons is an app to convert images to icons (.ico) for Windows, with a simple Drag and Drop feature.</p>
+<h1 align="center">Pixie Cursors</h1>
+<p align="center">Pixie Cursors is an app to create cursors easy.</p>
 
 <p align="center">
  <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-9280FF?style=flat-square&labelColor=343B45"/></a>
@@ -68,9 +68,7 @@ To compile the installer you need [Inno Setup](https://jrsoftware.org/isinfo.php
 >* Please note that you must first compile the source code in Visual Studio to get the binaries, otherwise you will get a [📍Compiler Error](https://github.com/genesistoxical/drop-icons/issues/3).
 >* Alternatively, you can download the compiled app from the Drop Icons [page](https://genesistoxical.github.io/drop-icons/).
 
-**Portable with 7zip.bat** allows you to quickly zip the portable version. It only works with [7zip](https://www.7-zip.org/).
-
-Both .iss and .bat get the files that are needed within their folder and/or the Release folder (due to relative paths).
+.iss Get the files that are needed within their folder and/or the Release folder (due to relative paths).
 
 ## Contributing
 * If you make comments in the code, preferably in Spanish, please.
@@ -79,7 +77,7 @@ Both .iss and .bat get the files that are needed within their folder and/or the 
 * **Pull request** in English, in the description you can add details in English or Spanish.
   
 ## Config
-`Config.ini` file stores information about the language, theme color, icon format and whether or not the Topmost option is enabled.
+`Config.ini` file stores information about the language.
 
 ~~~
 [Options]
