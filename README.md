@@ -33,15 +33,15 @@
 ## Usage
 El uso es muy sencillo, ya que es un editor como cualquier otro. Si tienes duda sobre una herramienta o botón, deja tu cursor encima de (sin dar clic), para obtener información.
 
-- Abre una imagen ![_Open](https://github.com/user-attachments/assets/3c4dca77-c250-40d7-9dca-9096d7d23a98) (debe ser en formato png). Los márgenes con pixeles vacíos se recortarán automáticamente.
+- Abre una imagen ![_Open](docs/assets/buttons/_Info.png) (debe ser en formato png). Los márgenes con pixeles vacíos se recortarán automáticamente.
 - Comienza a crear la flechita; utiliza el pincel, selector de color y tu creatividad. Al seleccionar el pincel, puedes borrar con clic derecho también.
-- Una vez terminado, podrías agregar sombra ![_Shadow](https://github.com/user-attachments/assets/ce1712bc-7bae-4092-b520-e6ab7e2c1e6f). Suele agregarse bastante sombreado a la flechita, así que puedes perfeccionarla borrando un poco.
-- Selecciona ![_Hotspot](https://github.com/user-attachments/assets/2d66873b-d530-4702-8248-c507ceaf8ca0) de la barra de herramientas, para elegir en dónde quieres que haga clic tu cursor, como por ejemplo, la punta de la flechita. Haz clic para dejar el circulito en el lugar que desees.
-- Presiona el botón de guardar ![_Save](https://github.com/user-attachments/assets/1baa6d5e-5b8a-4b96-be4a-37c6e8508595), ponle un nombre y ya lo habrás terminado. Ahora vamos a instalarlo.
+- Una vez terminado, podrías agregar sombra ![_Shadow](docs/assets/buttons/_Shadow.png). Suele agregarse bastante sombreado a la flechita, así que puedes perfeccionarla borrando un poco.
+- Selecciona ![_Hotspot](docs/assets/buttons/_Hotspot.png) de la barra de herramientas, para elegir en dónde quieres que haga clic tu cursor, como por ejemplo, la punta de la flechita. Haz clic para dejar el circulito en el lugar que desees.
+- Presiona el botón de guardar ![_Save](docs/assets/buttons/_Save.png), ponle un nombre y ya lo habrás terminado. Ahora vamos a instalarlo.
 
 Instalación:
-- Abre tu carpeta de cursores con el botón ![_CursorsFolder](https://github.com/user-attachments/assets/3df726df-2dc2-405a-ab60-570f707d85f3) y mueve ahí el cursor que acabas de crear.
-- Da clic en ![_MouseProperties](https://github.com/user-attachments/assets/e3598798-743d-4894-87a1-8f6d24919be5) el cual es solo un acceso directo a las Propiedades del Mouse de Windows.
+- Abre tu carpeta de cursores con el botón ![_CursorsFolder](docs/assets/buttons/_Info.png) y mueve ahí el cursor que acabas de crear.
+- Da clic en ![_MouseProperties](docs/assets/buttons/_MouseProperties.png) el cual es solo un acceso directo a las Propiedades del Mouse de Windows.
 - En la ventanita que se abrirá, dirígete a punteros, clic en "Selección normal" y “Examinar” para elegir uno diferente. Entra a la carpeta de - Pixie Cursors - y selecciona tu cursor. Puedes hacer lo mismo con el cursor de link o manita.
 - Presiona “Guardar como…”, ponle un nombre y Aceptar.
 - Desactiva la casilla de “habilitar sombra en el puntero” para que no se ponga doble sombra, da en Aceptar ¡Y listo, disfruta tu cursor!
