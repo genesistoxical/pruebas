@@ -5,9 +5,9 @@
 
 <p align="center">
  <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-FD2A7A?style=flat-square&labelColor=343B45"/></a>
- <a href="https://github.com/genesistoxical/drop-icons/releases/latest"><img src="https://img.shields.io/github/v/release/genesistoxical/drop-icons.svg?color=FD2A7A&label=Release&style=flat-square&labelColor=343B45"/></a>
+ <a href="https://github.com/genesistoxical/drop-icons/releases/latest"><img src="https://img.shields.io/github/v/release/genesistoxical/drop-icons.svg?color=2AB4FC&label=Release&style=flat-square&labelColor=343B45"/></a>
  <a href="#"><img alt="NET" src="https://img.shields.io/badge/.NET_Framework-4.8-FD2A7A?style=flat-square&labelColor=343B45"/></a> 
- <a href="/installer%20src"><img alt="Installer" src="https://img.shields.io/badge/Installer-ISS-FD2A7A?style=flat-square&labelColor=343B45"/></a>
+ <a href="/installer%20src"><img alt="Installer" src="https://img.shields.io/badge/Installer-ISS-2AB4FC?style=flat-square&labelColor=343B45"/></a>
  <a href="#"><img alt="Languages" src="https://img.shields.io/badge/Languages-3-FD2A7A?style=flat-square&labelColor=343B45"/></a>
 </p>
 
@@ -54,8 +54,9 @@ Otras herramientas:
 <br>
 <a href="#"><img src="docs/assets/Pixie-Cursors-Usage.gif"/></a>
 
+<br></br>
 
-By clicking on ![_Info](https://github.com/user-attachments/assets/6ac15c4b-a879-4fbb-bee6-0f16d633b4d3), a new window will appear in which you can:
+By clicking on ![_Info](docs/assets/buttons/_Info.png), a new window will appear in which you can:
 
 - **Change language:** In the **Language** section below, click on the little arrows icon to change between English or Español. Finally click on the return button to apply and see changes.
      
