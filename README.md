@@ -94,10 +94,10 @@ Drop Icons is based on [Iconizer](https://github.com/willnode/Iconizer) under [M
 
 * Icons are part of [Teenyicons](https://github.com/teenyicons/teenyicons) under [MIT License](https://github.com/teenyicons/teenyicons/blob/master/LICENSE).
 
-* [SVG](https://github.com/svg-net/SVG) under [MS-PL license](https://github.com/svg-net/SVG/blob/master/license.txt).
+* [LazZiya.ImageResize](https://github.com/LazZiya/ImageResize) under [MIT License](https://github.com/LazZiya/ImageResize/blob/master/LICENSE).
 <br><sub>This package includes five dependencies, read more details in this [file](/src/DropIcons/Docs/SVG%20%2B.txt).</sup>
 
-* [WinVersion](https://github.com/shaovoon/win_version_detection) detection under [MIT License](https://github.com/shaovoon/win_version_detection/blob/main/LICENSE).
+* Pixie Cursors is based on [PixelArtTool](https://github.com/unitycoder/PixelArtTool) under [MIT license](https://github.com/unitycoder/PixelArtTool/blob/master/LICENSE).
 
 *You can find all licenses [here](/src/DropIcons/Docs).*
 
@@ -109,6 +109,10 @@ Copyright (c) 2025 Génesis Toxical ([read here](LICENSE)).
 <br>
 
 ## Related:
-`🩷 Image to Icon` Convert image to icon online: [`imagetoicon.glitch.me`](https://imagetoicon.glitch.me/) or [`Repository`](https://github.com/genesistoxical/imagetoicon).
+`🩷 Crystal Folders` Customize your folder icons in a few seconds: [`imagetoicon.glitch.me`](https://imagetoicon.glitch.me/) or [`Repository`](https://github.com/genesistoxical/imagetoicon).
 
 `🩷 Pixie Folders` Set of six minimalist and editable folder icon designs: [`Download`](https://genesistoxical.github.io/pixie-folders/) or [`Repository`](https://github.com/genesistoxical/pixie-folders).
+
+`🩷 Drop Icons` Utility to convert images to icons (.ico) for Windows: [`Download`](https://genesistoxical.github.io/drop-icons/) or [`Repository`](https://github.com/genesistoxical/drop-icons/).
+
+`🩷 Image to Icon` Convert image to icon online: [`imagetoicon.glitch.me`](https://imagetoicon.glitch.me/) or [`Repository`](https://github.com/genesistoxical/imagetoicon).
