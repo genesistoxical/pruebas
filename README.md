@@ -28,8 +28,7 @@
 * Cambia la app al idioma Inglés o Español.
 
 ## Preview
-<a href="#"><img src="docs/assets/Drop-Icons-App-v2.gif"/></a>
-![PixieCursors (Tiempo 0_00_29;03)](https://github.com/user-attachments/assets/0315e1e2-e89f-48ba-9792-9c6e0bf785df)
+<a href="#"><img src="docs/assets/Pixie-Cursors-App.png"/></a>
 
 ## Usage
 El uso es muy sencillo, ya que es un editor como cualquier otro. Si tienes duda sobre una herramienta o botón, deja tu cursor encima de (sin dar clic), para obtener información.
@@ -52,8 +51,8 @@ Otras herramientas:
 - Oprime Shift al usar el pixel para hacer una línea.
 - Oprime control al usar el bote de pintura o "rellenar" para pintar todos los pixeles del mismo color.
 
-<br></br>
-![PixieCursors](https://github.com/user-attachments/assets/b7161d4a-e2e6-4a73-837c-ab071d8856a9)
+<br>
+<a href="#"><img src="docs/assets/Pixie-Cursors-Usage.gif"/></a>
 
 
 By clicking on ![_Info](https://github.com/user-attachments/assets/6ac15c4b-a879-4fbb-bee6-0f16d633b4d3), a new window will appear in which you can:
