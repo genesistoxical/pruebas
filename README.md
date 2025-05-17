@@ -56,7 +56,7 @@ Otras herramientas:
 
 <br></br>
 
-By clicking on ![_Info](https://github.com/user-attachments/assets/6ac15c4b-a879-4fbb-bee6-0f16d633b4d3), a new window will appear in which you can:
+By clicking on ![_Info](docs/assets/buttons/_Info.png), a new window will appear in which you can:
 
 - **Change language:** In the **Language** section below, click on the little arrows icon to change between English or Español. Finally click on the return button to apply and see changes.
      
