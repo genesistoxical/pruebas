@@ -54,6 +54,7 @@ Otras herramientas:
 <br>
 <a href="#"><img src="docs/assets/Pixie-Cursors-Usage.gif"/></a>
 
+<br></br>
 
 By clicking on ![_Info](https://github.com/user-attachments/assets/6ac15c4b-a879-4fbb-bee6-0f16d633b4d3), a new window will appear in which you can:
 
