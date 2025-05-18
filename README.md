@@ -51,7 +51,7 @@ Other tools:
 - If "Crop Empty Margin" is enabled when opening an image, it will be cropped to get the best cursor size.
 - Hold Shift when using brush to draw a line.
 - Press Ctrl when using paint bucket or "Fill" to paint all pixels the same color.
-- 
+
 <br>
 <a href="#"><img src="docs/assets/Pixie-Cursors-Usage.gif"/></a>
 
