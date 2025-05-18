@@ -31,26 +31,6 @@
 <a href="#"><img src="docs/assets/Pixie-Cursors-App.png"/></a>
 
 ## Usage
-El uso es muy sencillo, ya que es un editor como cualquier otro. Si tienes duda sobre una herramienta o botón, deja tu cursor encima de (sin dar clic), para obtener información.
-
-- Abre una imagen ![_Open](docs/assets/buttons/_Info.png) (debe ser en formato png). Los márgenes con pixeles vacíos se recortarán automáticamente.
-- Comienza a crear la flechita; utiliza el pincel, selector de color y tu creatividad. Al seleccionar el pincel, puedes borrar con clic derecho también.
-- Una vez terminado, podrías agregar sombra ![_Shadow](docs/assets/buttons/_Shadow.png). Suele agregarse bastante sombreado a la flechita, así que puedes perfeccionarla borrando un poco.
-- Selecciona ![_Hotspot](docs/assets/buttons/_Hotspot.png) de la barra de herramientas, para elegir en dónde quieres que haga clic tu cursor, como por ejemplo, la punta de la flechita. Haz clic para dejar el circulito en el lugar que desees.
-- Presiona el botón de guardar ![_Save](docs/assets/buttons/_Save.png), ponle un nombre y ya lo habrás terminado. Ahora vamos a instalarlo.
-
-Instalación:
-- Abre tu carpeta de cursores con el botón ![_CursorsFolder](docs/assets/buttons/_Info.png) y mueve ahí el cursor que acabas de crear.
-- Da clic en ![_MouseProperties](docs/assets/buttons/_MouseProperties.png) el cual es solo un acceso directo a las Propiedades del Mouse de Windows.
-- En la ventanita que se abrirá, dirígete a punteros, clic en "Selección normal" y “Examinar” para elegir uno diferente. Entra a la carpeta de - Pixie Cursors - y selecciona tu cursor. Puedes hacer lo mismo con el cursor de link o manita.
-- Presiona “Guardar como…”, ponle un nombre y Aceptar.
-- Desactiva la casilla de “habilitar sombra en el puntero” para que no se ponga doble sombra, da en Aceptar ¡Y listo, disfruta tu cursor!
-
-Otras herramientas:
-- Si está activado "Cortar Margen Vacío" al momento de abrir una imagen, este va a recortarse para otener el mejor tamaño del cursor.
-- Oprime Shift al usar el pixel para hacer una línea.
-- Oprime control al usar el bote de pintura o "rellenar" para pintar todos los pixeles del mismo color.
-
 It's very easy to use, as it's an editor like any other. If you have questions about a tool or button, hover over it (without clicking) to get information.
 
 - Open an image ![_Open](docs/assets/buttons/_Info.png) (it must be in PNG format). The margins with empty pixels will be automatically cropped.
