@@ -16,16 +16,16 @@
 </p>
 
 ## Features
-* Crea cursores en un par de minutos.
-* Interfaz intuitiva y sencilla.
-* Vista previa en tiempo y tamaño real.
-* Importa una imagen en PNG y recorta píxeles vacíos.
-* Elige en dónde hará clic el cursor (Hotspot).
-* Selector de color que permite guardar muestras.
-* Botón para agregar sombra al finalizar el cursor.
-* El fondo a cuadros del editor se puede oscurecer.
-* Accede a las herramientas con accesos del teclado.
-* Cambia la app al idioma Inglés o Español.
+* Create cursors in just a few minutes.
+* Intuitive and simple interface.
+* Full-time, real-size preview.
+* Import a PNG image and crop empty margins.
+* Choose where the cursor will click (Hotspot).
+* Color picker that allows you to save swatches.
+* Button to add a shadow at the end of the cursor.
+* The editor's checkered background can be darkened.
+* Access tools with keyboard shortcuts.
+* Switch between English and Spanish language.
 
 ## Preview
 <a href="#"><img src="docs/assets/Pixie-Cursors-App.png"/></a>
@@ -51,6 +51,27 @@ Otras herramientas:
 - Oprime Shift al usar el pixel para hacer una línea.
 - Oprime control al usar el bote de pintura o "rellenar" para pintar todos los pixeles del mismo color.
 
+It's very easy to use, as it's an editor like any other. If you have questions about a tool or button, hover over it (without clicking) to get information.
+
+- Open an image ![_Open](docs/assets/buttons/_Info.png) (it must be in PNG format). The margins with empty pixels will be automatically cropped.
+- Start creating the arrow; use the brush, colorpicker, and your creativity. Once you select the brush, you can also erase with a right-click.
+- Once finished, you can add a shadow ![_Shadow](docs/assets/buttons/_Shadow.png). A lot of shading is usually added to the arrow, so you can refine it by erasing a bit.
+
+- Select ![_Hotspot](docs/assets/buttons/_Hotspot.png) from the toolbar to choose where you want your cursor to click, such as the arrowhead. Click to place the circle where you want it.
+- Press the save button ![_Save](docs/assets/buttons/_Save.png), give it a name, and you're done. Now let's install it.
+
+Installation:
+- Open your cursors folder with the ![_CursorsFolder](docs/assets/buttons/_Info.png) button and move the cursor you just created there.
+- Click ![_MouseProperties](docs/assets/buttons/_MouseProperties.png), which is just a shortcut to the Windows Mouse Properties.
+- In the window that opens, go to Pointers, click "Normal Selection" and "Browse" to choose a different one. Go to the "Pixie Cursors" folder and select your cursor. You can do the same with the link or hand cursor.
+- Press "Save As...", give it a name and OK.
+- Uncheck the "Enable Drop Shadow" box to avoid a double shadow, click OK and that's it! Enjoy your cursor!
+
+Other tools:
+- If "Crop Empty Margin" is enabled when opening an image, it will be cropped to get the best cursor size.
+- Hold Shift when using brush to draw a line.
+- Press Ctrl when using paint bucket or "Fill" to paint all pixels the same color.
+- 
 <br>
 <a href="#"><img src="docs/assets/Pixie-Cursors-Usage.gif"/></a>
 
