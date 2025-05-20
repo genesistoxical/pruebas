@@ -35,18 +35,18 @@ It's very easy to use, as it's an editor like any other. If you have questions a
 
 - Open an image ![_Open](docs/assets/buttons/_Info.png) (it must be in PNG format). The margins with empty pixels will be automatically cropped.
 - Start creating the arrow; use the brush, colorpicker and your creativity. Once you select the brush, you can also erase with a right-click.
-- Once finished, you can add a shadow ![_Shadow](docs/assets/buttons/_Shadow.png). A lot of shading is usually added to the arrow, so you can refine it by erasing a bit.
+- Once finished, you can add a shadow ![_Shadow](docs/assets/buttons/_Shadow.png). A lot of shading is usually added to the arrow so you can refine it by erasing a bit.
 - Select ![_Hotspot](docs/assets/buttons/_Hotspot.png) from toolbar to choose where you want your cursor to click, such as the arrowhead. Click to place the circle where you want it.
-- Press the save button ![_Save](docs/assets/buttons/_Save.png), put it a name, and you're done. Now let's install it.
+- Press the save button ![_Save](docs/assets/buttons/_Save.png), put it a name, and you're done. Now let's install it...
 
-Installation:
+**Installation:**
 - Open your cursors folder with the ![_CursorsFolder](docs/assets/buttons/_Info.png) button and move the cursor you just created there.
 - Click ![_MouseProperties](docs/assets/buttons/_MouseProperties.png), which is just a shortcut to the Windows Mouse Properties.
 - In the window that opens, go to **Pointers**, click **Normal Selection** and `Browse` to choose a different one. Go to **- Pixie Cursors -** folder and select your cursor. You can do the same with the link or hand cursor.
 - Press `Save As...`, put it a name and `OK`.
 - Uncheck the **Enable Drop Shadow** box to avoid a double shadow, click `OK` and that's it! Enjoy your cursor!
 
-Other tools:
+**Other tools:**
 - If **Crop Empty Margin** is enabled when opening an image, it will be cropped to get the best cursor size.
 - Hold `Shift` when using brush to draw a line.
 - Press `Ctrl` when using paint bucket or *Fill* to paint all pixels the same color.
