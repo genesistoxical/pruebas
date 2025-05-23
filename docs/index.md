@@ -38,7 +38,7 @@ It's very easy to use, as it's an editor like any other. If you have questions a
 
 <br>
 
-<picture><img src="docs/assets/Pixie-Cursors-Usage.gif"/></picture>
+<picture><img src="assets/Pixie-Cursors-Usage.gif"/></picture>
 
 <br></br>
 
