@@ -5,7 +5,7 @@
 
 <p align="center">
  <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-FD2A7A?style=flat-square&labelColor=343B45"/></a>
- <a href="https://github.com/genesistoxical/drop-icons/releases/latest"><img src="https://img.shields.io/github/v/release/genesistoxical/drop-icons.svg?color=2AB4FC&label=Release&style=flat-square&labelColor=343B45"/></a>
+ <a href="https://github.com/genesistoxical/pixie-cursors/releases/latest"><img src="https://img.shields.io/github/v/release/genesistoxical/drop-icons.svg?color=2AB4FC&label=Release&style=flat-square&labelColor=343B45"/></a>
  <a href="#"><img alt="NET" src="https://img.shields.io/badge/.NET_Framework-4.8-FD2A7A?style=flat-square&labelColor=343B45"/></a> 
  <a href="/installer%20src"><img alt="Installer" src="https://img.shields.io/badge/Installer-ISS-2AB4FC?style=flat-square&labelColor=343B45"/></a>
  <a href="#"><img alt="Languages" src="https://img.shields.io/badge/Languages-2-FD2A7A?style=flat-square&labelColor=343B45"/></a>
@@ -96,11 +96,11 @@ Pixie Cursors está basado en [PixelArtTool](https://github.com/unitycoder/Pixel
 * Icons are part of [Teenyicons](https://github.com/teenyicons/teenyicons) bajo [MIT License](https://github.com/teenyicons/teenyicons/blob/master/LICENSE).
 
 * [LazZiya.ImageResize](https://github.com/LazZiya/ImageResize) bajo [MIT License](https://github.com/LazZiya/ImageResize/blob/master/LICENSE).
-<br><sub>This package includes five dependencies, read more details in this [file](/src/DropIcons/Docs/SVG%20%2B.txt).</sup>
+<br><sub>This package includes five dependencies, read more details in this [file](/src/PixieCursors/Docs/LazZiyaImageResize%20%2B.txt).</sup>
 
-* [Noto Music](https://fonts.google.com/noto/specimen/Noto+Music) bajo [SIL Open Font License](/src/DropIcons/Docs/Noto%20Music/OFL.txt).
+* [Noto Music](https://fonts.google.com/noto/specimen/Noto+Music) bajo [SIL Open Font License](/src/PixieCursors/Docs/Noto%20Music/OFL.txt).
 
-**Puedes encontrar todas las licencias [aquí]/src/DropIcons/Docs).*
+**Puedes encontrar todas las licencias [aquí](/src/DropIcons/Docs).*
 
 ## Licencia
 **MIT License**
