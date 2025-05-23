@@ -1,4 +1,4 @@
-Pixie Cursors is an app to create your own custom cursors.
+Pixie Cursors is an app to create your own custom cursors, for Windows.
 
 ## Features
 * Create cursors in just a few minutes.
@@ -13,7 +13,7 @@ Pixie Cursors is an app to create your own custom cursors.
 * Switch between English and Spanish language.
 
 ## Preview
-<picture><img alt="Crystal Folders customize folders app" src="assets/Crystal-Folders-App.gif"/></picture>
+<picture><img alt="Pixie Cursors create cursors app" src="assets/Pixie-Cursors-App.png"/></picture>
 
 ## Usage
 It's very easy to use, as it's an editor like any other. If you have questions about a tool or button, hover over it (without clicking) to get information.
@@ -37,7 +37,8 @@ It's very easy to use, as it's an editor like any other. If you have questions a
 - Press `Ctrl` when using paint bucket or *Fill* to paint all pixels the same color.
 
 <br>
-<a href="#"><img src="docs/assets/Pixie-Cursors-Usage.gif"/></a>
+
+<picture><img src="docs/assets/Pixie-Cursors-Usage.gif"/></picture>
 
 <br></br>
 
@@ -56,7 +57,7 @@ By clicking on ![_Info](docs/assets/buttons/_Info.png), a new window will appear
 
 <br>
 <style>
-    h2.project-tagline:before {content: "Customize your folder icons in second";}
+    h2.project-tagline:before {content: "Create your own custom cursors in a few second";}
     a.btn:nth-child(3):after {content: "ownload Portable";}
     a.btn:nth-child(4):after {content: "ownload Installer";}
 </style>

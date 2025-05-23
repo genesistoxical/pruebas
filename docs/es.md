@@ -1,4 +1,4 @@
-Crystal Folders es una aplicación para personalizar los iconos de tus carpetas en segundos, para Windows.
+Pixie Cursors es una app para crear tus propios cursores personalizados, en Windows.
 
 ## Características
 * Crea cursores en un par de minutos.
@@ -13,7 +13,7 @@ Crystal Folders es una aplicación para personalizar los iconos de tus carpetas 
 * Cambia entre el idioma Inglés y Español.
 
 ## Previa
-<picture><img alt="Crystal Folders personalizar folders app" src="assets/Crystal-Folders-App.gif"/></picture>
+<picture><img alt="Pixie Cursors crear cursores app" src="assets/Pixie-Cursors-App.png"/></picture>
 
 ## Uso
 El uso es muy sencillo, ya que es un editor como cualquier otro. Si tienes duda sobre una herramienta o botón, deja tu cursor encima de (sin dar clic) para obtener información.
@@ -37,7 +37,8 @@ El uso es muy sencillo, ya que es un editor como cualquier otro. Si tienes duda 
 - Oprime `Ctrl` al usar el bote de pintura o **Rellenar** para pintar todos los pixeles del mismo color.
 
 <br>
-<a href="#"><img src="docs/assets/Pixie-Cursors-Usage.gif"/></a>
+
+<picture><img src="docs/assets/Pixie-Cursors-Usage.gif"/></picture>
 
 <br></br>
 
@@ -46,12 +47,6 @@ Dando click en ![_Info](docs/assets/buttons/_Info.png), aparecerá una nueva ven
 - **Cambiar el idioma:** En la sección inferior **Idioma**, haz clic en el icono de las flechitas para cambiar entre English, Español o Deutsch. Por último da clic en el botón de regresar para aplicar y ver los cambios.
 
 - **Contenido de terceros:** En la parte izquierda están los nombres de cada librería, proyecto, iconos o tipografías que fueron utilizados, cliquea uno para leer su licencia y autor(a) o autores(as), además de una corta descripción. Puedes hacer clic sobre el icono de clip para ir al repositorio/sitio oficial de cada uno y cambiar de página con **Siguiente 🢖🢖** o **🢔🢔 Atrás**.
-
-<br/>
-
-<picture><img src="assets/Cystal-Folders-Options.gif"/></picture>
-
-<br/>
 
 ## Info
 * Este software se encuentra bajo **MIT License** ([leer texto completo](https://github.com/genesistoxical/crystal-folders/blob/master/LICENSE){:target="_blank"}).
