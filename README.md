@@ -94,11 +94,11 @@ Pixie Cursors is based on [PixelArtTool](https://github.com/unitycoder/PixelArtT
 * Icons are part of [Teenyicons](https://github.com/teenyicons/teenyicons) under [MIT License](https://github.com/teenyicons/teenyicons/blob/master/LICENSE).
 
 * [LazZiya.ImageResize](https://github.com/LazZiya/ImageResize) under [MIT License](https://github.com/LazZiya/ImageResize/blob/master/LICENSE).
-<br><sub>This package includes five dependencies, read more details in this [file](/src/DropIcons/Docs/SVG%20%2B.txt).</sup>
+<br><sub>This package includes five dependencies, read more details in this [file](/src/PixieCursors/Docs/LazZiyaImageResize%20%2B.txt).</sup>
 
 * [Noto Music](https://fonts.google.com/noto/specimen/Noto+Music) under [SIL Open Font License](/src/DropIcons/Docs/Noto%20Music/OFL.txt).
 
-*You can find all licenses [here](/src/DropIcons/Docs).*
+*You can find all licenses [here](/src/PixieCursors/Docs).*
 
 ## License
 **MIT License**
