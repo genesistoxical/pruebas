@@ -5,7 +5,7 @@
 
 <p align="center">
  <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-FD2A7A?style=flat-square&labelColor=343B45"/></a>
- <a href="https://github.com/genesistoxical/drop-icons/releases/latest"><img src="https://img.shields.io/github/v/release/genesistoxical/drop-icons.svg?color=2AB4FC&label=Release&style=flat-square&labelColor=343B45"/></a>
+ <a href="https://github.com/genesistoxical/pixie-cursors/releases/latest"><img src="https://img.shields.io/github/v/release/genesistoxical/drop-icons.svg?color=2AB4FC&label=Release&style=flat-square&labelColor=343B45"/></a>
  <a href="#"><img alt="NET" src="https://img.shields.io/badge/.NET_Framework-4.8-FD2A7A?style=flat-square&labelColor=343B45"/></a> 
  <a href="/installer%20src"><img alt="Installer" src="https://img.shields.io/badge/Installer-ISS-2AB4FC?style=flat-square&labelColor=343B45"/></a>
  <a href="#"><img alt="Languages" src="https://img.shields.io/badge/Languages-2-FD2A7A?style=flat-square&labelColor=343B45"/></a>
@@ -96,7 +96,7 @@ Pixie Cursors is based on [PixelArtTool](https://github.com/unitycoder/PixelArtT
 * [LazZiya.ImageResize](https://github.com/LazZiya/ImageResize) under [MIT License](https://github.com/LazZiya/ImageResize/blob/master/LICENSE).
 <br><sub>This package includes five dependencies, read more details in this [file](/src/PixieCursors/Docs/LazZiyaImageResize%20%2B.txt).</sup>
 
-* [Noto Music](https://fonts.google.com/noto/specimen/Noto+Music) under [SIL Open Font License](/src/DropIcons/Docs/Noto%20Music/OFL.txt).
+* [Noto Music](https://fonts.google.com/noto/specimen/Noto+Music) under [SIL Open Font License](/src/PixieCursors/Docs/Noto%20Music/OFL.txt).
 
 *You can find all licenses [here](/src/PixieCursors/Docs).*
 
