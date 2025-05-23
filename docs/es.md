@@ -18,15 +18,15 @@ Pixie Cursors es una app para crear tus propios cursores personalizados, en Wind
 ## Uso
 El uso es muy sencillo, ya que es un editor como cualquier otro. Si tienes duda sobre una herramienta o botón, deja tu cursor encima de (sin dar clic) para obtener información.
 
-- Abre una imagen ![_Open](docs/assets/buttons/_Info.png) (debe ser en formato png). Los márgenes con pixeles vacíos se recortarán automáticamente.
+- Abre una imagen ![_Open](assets/buttons/_Info.png) (debe ser en formato png). Los márgenes con pixeles vacíos se recortarán automáticamente.
 - Comienza a crear la flechita; utiliza el pincel, selector de color y tu creatividad. Al seleccionar el pincel, puedes borrar con clic derecho también.
-- Una vez terminado, podrías agregar sombra ![_Shadow](docs/assets/buttons/_Shadow.png). Suele agregarse bastante sombreado a la flechita así que puedes perfeccionarla borrando un poco.
-- Selecciona ![_Hotspot](docs/assets/buttons/_Hotspot.png) de la barra de herramientas para elegir en dónde quieres que haga clic tu cursor, como por ejemplo, la punta de la flechita. Haz clic para dejar el circulito en el lugar que desees.
-- Presiona el botón de guardar ![_Save](docs/assets/buttons/_Save.png), ponle un nombre y ya lo habrás terminado. Ahora vamos a instalarlo...
+- Una vez terminado, podrías agregar sombra ![_Shadow](assets/buttons/_Shadow.png). Suele agregarse bastante sombreado a la flechita así que puedes perfeccionarla borrando un poco.
+- Selecciona ![_Hotspot](assets/buttons/_Hotspot.png) de la barra de herramientas para elegir en dónde quieres que haga clic tu cursor, como por ejemplo, la punta de la flechita. Haz clic para dejar el circulito en el lugar que desees.
+- Presiona el botón de guardar ![_Save](assets/buttons/_Save.png), ponle un nombre y ya lo habrás terminado. Ahora vamos a instalarlo...
 
 **Instalación:**
-- Abre tu carpeta de cursores con el botón ![_CursorsFolder](docs/assets/buttons/_Info.png) y mueve ahí el cursor que acabas de crear.
-- Da clic en ![_MouseProperties](docs/assets/buttons/_MouseProperties.png) el cual es solo un acceso directo a las Propiedades del Mouse de Windows.
+- Abre tu carpeta de cursores con el botón ![_CursorsFolder](assets/buttons/_Info.png) y mueve ahí el cursor que acabas de crear.
+- Da clic en ![_MouseProperties](assets/buttons/_MouseProperties.png) el cual es solo un acceso directo a las Propiedades del Mouse de Windows.
 - En la ventanita que se abrirá, dirígete a punteros, clic en **Selección normal** y `Examinar` para elegir uno diferente. Entra a la carpeta de **- Pixie Cursors -** y selecciona tu cursor. Puedes hacer lo mismo con el cursor de link o manita.
 - Presiona `Guardar como…`, ponle un nombre y `Aceptar`.
 - Desactiva la casilla de **Habilitar sombra en el puntero** para que no se ponga doble sombra, da en `Aceptar` ¡Y listo, disfruta tu cursor!
@@ -42,7 +42,7 @@ El uso es muy sencillo, ya que es un editor como cualquier otro. Si tienes duda 
 
 <br></br>
 
-Dando click en ![_Info](docs/assets/buttons/_Info.png), aparecerá una nueva ventana en la que puedes:
+Dando click en ![_Info](assets/buttons/_Info.png), aparecerá una nueva ventana en la que puedes:
 
 - **Cambiar el idioma:** En la sección inferior **Idioma**, haz clic en el icono de las flechitas para cambiar entre English, Español o Deutsch. Por último da clic en el botón de regresar para aplicar y ver los cambios.
 
