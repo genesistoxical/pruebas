@@ -4,6 +4,7 @@
 @import "{{ site.theme }}";
 
 $accent-primary: #FD2A7A;
+$accent-blue: #2AB4FC;
 $accent-secondary: #595959;
 
 a {
@@ -28,7 +29,7 @@ a {
     background-image: none;
     border-bottom: solid 1px #e1e1e1;
     margin-bottom: 3rem;
-    border-top: 10px solid #2AB4FC;
+    border-top: 10px solid $accent-primary;
     background-image: url(/pruebas/assets/Background.png);
     background-size: cover;
 }
@@ -84,7 +85,7 @@ body {
 }
 
 .main-content code {
-    background-color: #2AB4FC;
+    background-color: $accent-primary;
     color: #ffffff;
 }
 
@@ -98,7 +99,7 @@ body {
 
 ::selection {
     color: white;
-    background: #FF78BC;
+    background: $accent-primary;
 }
 
 img:nth-child(1) {
