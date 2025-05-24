@@ -33,7 +33,7 @@
 ## Uso
 El uso es muy sencillo, ya que es un editor como cualquier otro. Si tienes duda sobre una herramienta o botón, deja tu cursor encima de (sin dar clic) para obtener información.
 
-- Abre una imagen ![Open](docs/assets/buttons/Info.png) (debe ser en formato png). Los márgenes con pixeles vacíos se recortarán automáticamente.
+- Abre una imagen ![Open](docs/assets/buttons/Open.png) (debe ser en formato png). Los márgenes con pixeles vacíos se recortarán automáticamente.
 - Comienza a crear la flechita; utiliza el pincel, selector de color y tu creatividad. Al seleccionar el pincel, puedes borrar con clic derecho también.
 - Una vez terminado, podrías agregar sombra ![Shadow](docs/assets/buttons/Shadow.png). Suele agregarse bastante sombreado a la flechita así que puedes perfeccionarla borrando un poco.
 - Selecciona ![Hotspot](docs/assets/buttons/_Hotspot.png) de la barra de herramientas para elegir en dónde quieres que haga clic tu cursor, como por ejemplo, la punta de la flechita. Haz clic para dejar el circulito en el lugar que desees.

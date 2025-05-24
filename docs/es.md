@@ -18,7 +18,7 @@ Pixie Cursors es una app para crear tus propios cursores personalizados, en Wind
 ## Uso
 El uso es muy sencillo, ya que es un editor como cualquier otro. Si tienes duda sobre una herramienta o botón, deja tu cursor encima de (sin dar clic) para obtener información.
 
-- Abre una imagen ![Open](assets/buttons/Info.png) (debe ser en formato png). Los márgenes con pixeles vacíos se recortarán automáticamente.
+- Abre una imagen ![Open](assets/buttons/Open.png) (debe ser en formato png). Los márgenes con pixeles vacíos se recortarán automáticamente.
 - Comienza a crear la flechita; utiliza el pincel, selector de color y tu creatividad. Al seleccionar el pincel, puedes borrar con clic derecho también.
 - Una vez terminado, podrías agregar sombra ![Shadow](assets/buttons/Shadow.png). Suele agregarse bastante sombreado a la flechita así que puedes perfeccionarla borrando un poco.
 - Selecciona ![Hotspot](assets/buttons/Hotspot.png) de la barra de herramientas para elegir en dónde quieres que haga clic tu cursor, como por ejemplo, la punta de la flechita. Haz clic para dejar el circulito en el lugar que desees.
@@ -42,7 +42,7 @@ El uso es muy sencillo, ya que es un editor como cualquier otro. Si tienes duda 
 
 <br></br>
 
-Dando click en ![_Info](assets/buttons/_Info.png), aparecerá una nueva ventana en la que puedes:
+Dando click en ![Info](assets/buttons/Info.png), aparecerá una nueva ventana en la que puedes:
 
 - **Cambiar el idioma:** En la sección inferior **Idioma**, haz clic en el icono de las flechitas para cambiar entre English, Español o Deutsch. Por último da clic en el botón de regresar para aplicar y ver los cambios.
 
