@@ -48,7 +48,7 @@ a {
 }
 
 a.btn:nth-child(4) {
-    background-color: $accent-primary;
+    background-color: $accent-blue;
 }
 
 a.btn:nth-child(4):hover {
@@ -99,7 +99,7 @@ body {
 
 ::selection {
     color: white;
-    background: $accent-primary;
+    background: $accent-blue;
 }
 
 img:nth-child(1) {
