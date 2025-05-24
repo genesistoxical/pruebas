@@ -40,7 +40,7 @@ It's very easy to use, as it's an editor like any other. If you have questions a
 
 <picture><img src="assets/Pixie-Cursors-Usage.gif"/></picture>
 
-<br></br>
+<br>
 
 By clicking on ![Info](assets/buttons/Info.png), a new window will appear in which you can:
 
