@@ -21,7 +21,7 @@ It's very easy to use, as it's an editor like any other. If you have questions a
 - Open an image <img src="assets/buttons/Open.png"/> (it must be in PNG format). The margins with empty pixels will be automatically cropped.
 - Start creating the arrow; use the brush, colorpicker and your creativity. Once you select the brush, you can also erase with a right-click.
 - Once finished, you can add a shadow ![_Shadow](assets/buttons/_Shadow.png). A lot of shading is usually added to the arrow so you can refine it by erasing a bit.
-- Select ![_Hotspot](assets/buttons/_Hotspot.png) from toolbar to choose where you want your cursor to click, such as the arrowhead. Click to place the circle where you want it.
+- Select ![_Hotspot](assets/buttons/Hotspot.png) from toolbar to choose where you want your cursor to click, such as the arrowhead. Click to place the circle where you want it.
 - Press the save button ![_Save](assets/buttons/_Save.png), put it a name, and you're done. Now let's install it...
 
 **Installation:**
