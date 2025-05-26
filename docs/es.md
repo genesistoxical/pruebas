@@ -57,7 +57,7 @@ Dando click en ![Info](assets/buttons/Info.png), aparecerá una nueva ventana en
 
 <br>
 <style>
-    h2.project-tagline:before {content: "Personaliza los iconos de tus carpetas en segundo";}
-    a.btn:nth-child(3):after {content: "escargar Portable";}
-    a.btn:nth-child(4):after {content: "escargar Instalable";}
+    h2.project-tagline:before {content: "Crea tus propios cursore";}
+    a.btn:nth-child(3):after {content: "er Repositorio";}
+    a.btn:nth-child(4):after {content: "escargar App";}
 </style>

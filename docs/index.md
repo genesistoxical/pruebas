@@ -57,7 +57,7 @@ By clicking on ![Info](assets/buttons/Info.png), a new window will appear in whi
 
 <br>
 <style>
-    h2.project-tagline:before {content: "Create your own custom cursors in a few second";}
-    a.btn:nth-child(3):after {content: "ownload Portable";}
-    a.btn:nth-child(4):after {content: "ownload Installer";}
+    h2.project-tagline:before {content: "Create your own custom cursor";}
+    a.btn:nth-child(3):after {content: "iew Repository";}
+    a.btn:nth-child(4):after {content: "ownload App";}
 </style>
