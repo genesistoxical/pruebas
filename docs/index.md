@@ -49,7 +49,7 @@ By clicking on ![Info](assets/buttons/Info.png), a new window will appear in whi
 - **Third-party content:** On the left side are the names of each library, project, icons or fonts that were used, click one to read its license and author(s), as well as a short description. You can click on the clip icon to go to each repository/official site and change pages with **Next 🢖🢖** or **🢔🢔 Back**.
 
 ## Info
-* This software is under **MIT License** ([read full text](https://github.com/genesistoxical/cystal-folders/blob/master/LICENSE){:target="_blank"}).
+* This software is under **MIT License** ([read full text](https://github.com/genesistoxical/pixie-cursors/blob/master/LICENSE){:target="_blank"}).
 * `❤️ Pixie Folders` Create your own folders with this set of six editable icons: [Download](https://genesistoxical.github.io/pixie-folders/){:target="_blank"}.
 * `❤️ Image to Icon` Convert image to icon online: [imagetoicon.glitch.me](https://imagetoicon.glitch.me/){:target="_blank"}.
 * `❤️ Drop Icons` App to convert images to icons (.ico) for Windows: [Download](https://genesistoxical.github.io/drop-icons/){:target="_blank"}.

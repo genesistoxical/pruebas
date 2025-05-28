@@ -49,7 +49,7 @@ Dando click en ![Info](assets/buttons/Info.png), aparecerá una nueva ventana en
 - **Contenido de terceros:** En la parte izquierda están los nombres de cada librería, proyecto, iconos o tipografías que fueron utilizados, cliquea uno para leer su licencia y autor(a) o autores(as), además de una corta descripción. Puedes hacer clic sobre el icono de clip para ir al repositorio/sitio oficial de cada uno y cambiar de página con **Siguiente 🢖🢖** o **🢔🢔 Atrás**.
 
 ## Info
-* Este software se encuentra bajo **MIT License** ([leer texto completo](https://github.com/genesistoxical/crystal-folders/blob/master/LICENSE){:target="_blank"}).
+* Este software se encuentra bajo **MIT License** ([leer texto completo](https://github.com/genesistoxical/pixie-cursors/blob/master/LICENSE){:target="_blank"}).
 * `❤️ Pixie Folders` Crea tus propios folders con este set de seis iconos editables: [Descargar](https://genesistoxical.github.io/pixie-folders/){:target="_blank"}.
 * `❤️ Image to Icon` Convertir imagen a icono online: [imagetoicon.glitch.me](https://imagetoicon.glitch.me/){:target="_blank"}.
 * `❤️ Drop Icons` Aplicación para convertir imágenes a iconos (.ico) para Windows: [Descargar](https://genesistoxical.github.io/drop-icons/){:target="_blank"}.
