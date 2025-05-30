@@ -1,7 +1,7 @@
 <p align="center"></p>
 <p align="center"><a href="#"><img width="115px" src="docs/assets/Logo-115px.png" align="center" alt="Pixie Cursors"/></a></p>
 <h1 align="center">Pixie Cursors</h1>
-<p align="center">Pixie Cursors is an app to create your own custom cursors.</p>
+<p align="center">Pixie Cursors is an app to create your own custom cursors for Windows.</p>
 
 <p align="center">
  <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-FD2A7A?style=flat-square&labelColor=343B45"/></a>
