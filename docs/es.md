@@ -1,4 +1,4 @@
-Pixie Cursors es una app para crear tus propios cursores personalizados, en Windows.
+Pixie Cursors es una app para crear tus propios cursores personalizados en Windows.
 
 ## Características
 * Crea cursores en un par de minutos.
