@@ -328,18 +328,20 @@ body {
   color: transparent;
   background-image: url(https://flagicons.lipis.dev/flags/4x3/mx.svg);
   text-shadow: none;
-  padding: 0px 9px 0px 0px;
+  padding: 0px 8px 0px 0px;
   background-repeat: no-repeat;
   background-size: 25px auto;
+  box-shadow: 1px 1px 1px 0px #00000073;
 }
 
 .fa-globe:before {
   color: transparent;
   background-image: url(https://flagicons.lipis.dev/flags/4x3/us.svg);
   text-shadow: none;
-  padding: 0px 9px 0px 0px;
+  padding: 0px 8px 0px 0px;
   background-repeat: no-repeat;
   background-size: 25px auto;
+  box-shadow: 1px 1px 1px 0px #00000073;
 }
 
 @media (max-width: 600px) {
