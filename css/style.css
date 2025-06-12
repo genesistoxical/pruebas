@@ -178,7 +178,7 @@ body {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-auto-rows: minmax(250px, auto);
-  grid-gap: 0.9rem;
+  grid-gap: 16px;
 }
 
 .card .project-bio p {
