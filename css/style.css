@@ -328,7 +328,7 @@ body {
   color: transparent;
   background-image: url(https://flagicons.lipis.dev/flags/4x3/mx.svg);
   text-shadow: none;
-  padding: 0px 20px 0px 0px;
+  padding: 0px 9px 0px 0px;
   background-repeat: no-repeat;
   background-size: 25px auto;
 }
@@ -339,7 +339,7 @@ body {
   text-shadow: none;
   padding: 0px 20px 0px 0px;
   background-repeat: no-repeat;
-  background-size: 25px auto;
+  background-size: 9px auto;
 }
 
 @media (max-width: 600px) {
