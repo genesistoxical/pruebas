@@ -127,7 +127,7 @@ h2::selection {
 }
 
 .card:hover {
-  box-shadow: inset 0 100px 1000px 10px rgb(0 0 0 / 15%);
+  box-shadow: inset 0 100px 1000px 10px rgb(0 0 0 / 6%);
 }
 
 .card:hover .project-info {
