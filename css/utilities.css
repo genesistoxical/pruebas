@@ -110,7 +110,7 @@ h2::selection {
   color: #fff;
   border-radius: 5px;
   transition: 0.4s ease-in-out;
-  cursor: pointer;
+  cursor: default;
   box-shadow: 0px 0px 4px 0px #00000040;
   text-shadow: 1px 1px 2px #554a90;
 }
