@@ -120,10 +120,6 @@ h2::selection {
   transition: 0.25s ease-in-out;
   font-size: 1.1rem;
   margin-right: 0.3rem;
-  background-color: var(--primary-color);
-  padding: 5px 6px 4px 6px;
-  border-radius: 20px;
-}
 }
 
 .card a:hover {
