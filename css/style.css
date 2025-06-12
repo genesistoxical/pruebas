@@ -337,9 +337,9 @@ body {
   color: transparent;
   background-image: url(https://flagicons.lipis.dev/flags/4x3/us.svg);
   text-shadow: none;
-  padding: 0px 20px 0px 0px;
+  padding: 0px 9px 0px 0px;
   background-repeat: no-repeat;
-  background-size: 9px auto;
+  background-size: 25px auto;
 }
 
 @media (max-width: 600px) {
