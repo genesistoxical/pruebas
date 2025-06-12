@@ -141,17 +141,17 @@ h2::selection {
 
 /* Project 2 */
 .card:nth-child(2) {
-  background: url(../assets/project/Crystal-Folders.png) center center/cover;
+  background: url(../assets/project/Image-to-Icon.png) center center/cover;
 }
 
 /* Project 3 */
 .card:nth-child(3) {
-  background: url(../assets/project/Image-to-Icon.png) center center/cover;
+  background: url(../assets/project/Crystal-Folders.png) center center/cover;
 }
 
 /* Project 4 */
 .card:nth-child(4) {
-  background: url(../assets/project/Pixie-Cursors.png) center center/cover;
+  background: url(../assets/project/Pixie-Folders.png) center center/cover;
 }
 
 /* Project 5 */
@@ -161,7 +161,7 @@ h2::selection {
 
 /* Project 6 */
 .card:nth-child(6) {
-  background: url(../assets/project/Pixie-Folders.png) center center/cover;
+  background: url(../assets/project/Pixie-Cursors.png) center center/cover;
 }
 
 /* Media Queries */
