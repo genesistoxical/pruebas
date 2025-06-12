@@ -185,7 +185,7 @@ body {
   font-size: 0.83rem;
 }
 
-.card .project-bio h3 {
+.card .project-bio h3, .card .project-bio a {
   font-size: 0.9rem;
 }
 
