@@ -324,6 +324,11 @@ body {
   }
 }
 
+.fa-github:before {
+  color: transparent;
+  background-image: url(https://flagicons.lipis.dev/flags/4x3/mx.svg);
+}
+
 @media (max-width: 600px) {
   .project {
     display: grid;
