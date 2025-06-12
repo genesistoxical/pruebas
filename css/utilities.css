@@ -141,22 +141,22 @@ h2::selection {
 
 /* Project 2 */
 .card:nth-child(2) {
-  background: url(../assets/project/Image-to-Icon.png) center center/cover;
+  background: url(../assets/project/Drop-Icons.png) center center/cover;
 }
 
 /* Project 3 */
 .card:nth-child(3) {
-  background: url(../assets/project/Drop-Icons.png) center center/cover;
+  background: url(../assets/project/Image-to-Icon.png) center center/cover;
 }
 
 /* Project 4 */
 .card:nth-child(4) {
-  background: url(../assets/project/Pixie-Folders.png) center center/cover;
+  background: url(../assets/project/Qzero-Cursor.png) center center/cover;
 }
 
 /* Project 5 */
 .card:nth-child(5) {
-  background: url(../assets/project/Qzero-Cursor.png) center center/cover;
+  background: url(../assets/project/Pixie-Folders.png) center center/cover;
 }
 
 /* Project 6 */
