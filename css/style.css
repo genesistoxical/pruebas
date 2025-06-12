@@ -326,7 +326,7 @@ body {
 
 .fa-github:before {
   color: transparent;
-  background-image: url(https://flagicons.lipis.dev/flags/4x3/mx.svg);
+  background-image: url(https://flagicons.lipis.dev/flags/4x3/us.svg);
   text-shadow: none;
   padding: 0px 8px 0px 0px;
   background-repeat: no-repeat;
@@ -336,7 +336,7 @@ body {
 
 .fa-globe:before {
   color: transparent;
-  background-image: url(https://flagicons.lipis.dev/flags/4x3/us.svg);
+  background-image: url(https://flagicons.lipis.dev/flags/4x3/mx.svg);
   text-shadow: none;
   padding: 0px 8px 0px 0px;
   background-repeat: no-repeat;
