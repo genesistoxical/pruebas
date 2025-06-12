@@ -136,7 +136,7 @@ h2::selection {
 
 /* project 1 */
 .card:nth-child(1) {
-  background: url(../assets/project/Drop-Icons.png) center center/cover;
+  background: url(../assets/project/Crystal-Folders.png) center center/cover;
 }
 
 /* Project 2 */
@@ -146,7 +146,7 @@ h2::selection {
 
 /* Project 3 */
 .card:nth-child(3) {
-  background: url(../assets/project/Crystal-Folders.png) center center/cover;
+  background: url(../assets/project/Drop-Icons.png) center center/cover;
 }
 
 /* Project 4 */
