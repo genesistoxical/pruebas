@@ -358,8 +358,14 @@ body {
   box-shadow: 0px 1px 4px 0px #00000094 !important;
 }
 
-.about-container {
+.about-containter {
   display: flex;
   flex-direction: row;
-;
+  flex-wrap: wrap;
+  align-items: center;
+}
     
+.Me {
+  width: 114px;
+  border-radius: 50%;
+}
