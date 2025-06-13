@@ -10,7 +10,7 @@
 :root {
   /* Colors */
   --primary-color: #101010;
-  --secondary-color: #282828;
+  --secondary-color: #1a1a1a;
   --bg-primary: #ffffff;
   --text-color: #222222;
   --text-color-two: #ffffff;
@@ -354,5 +354,5 @@ body {
 }
 
 .modal {
-    max-width: 528px;
+    max-width: 472px;
 }
