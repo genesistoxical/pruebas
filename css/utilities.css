@@ -28,48 +28,19 @@ h2::selection {
 }
 
 .btn-primary {
-  background: #101010;
-  color: #fff;
+  background: var(--primary-color);
+  color: var(--text-color);
 }
 
 .btn-secondary {
   margin: 5px 0;
   background-color: #101010;
-  color: var(--bg-primary);
+  color: var(--text-color);
 }
 
 /* add hover to resume button */
 .btn-primary:hover {
-  background: #101010);
-}
-
-/* Dark mode toggle */
-#switch {
-  display: none;
-}
-
-.toggle-icons {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  cursor: pointer;
-}
-
-.toggle-icons > img {
-  transition: 0.6s cubic-bezier(0.23, 1, 0.32, 1);
-  width: 30px;
-}
-
-.moon {
-  transform: rotate(10deg);
-}
-
-#switch:checked + .toggle-icons .moon {
-  transform: rotate(250deg);
-}
-
-#switch:checked + .toggle-icons .sun {
-  transform: rotate(100deg);
+  background: var(--secondary-color));
 }
 
 /* Header Container */
