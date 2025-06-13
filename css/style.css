@@ -348,3 +348,11 @@ body {
     width: 80%;
   }
 }
+
+.blocker {
+    background-color: transparent;
+}
+
+.modal {
+    max-width: 528px;
+}
