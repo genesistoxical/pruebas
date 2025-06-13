@@ -350,9 +350,10 @@ body {
 }
 
 .blocker {
-    background-color: transparent;
+  background-color: transparent;
 }
 
 .modal {
-    max-width: 472px;
+  max-width: 472px;
+  box-shadow: 0px 1px 4px 0px #00000094;
 }
