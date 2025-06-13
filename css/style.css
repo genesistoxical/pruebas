@@ -370,6 +370,12 @@ body {
 .Me {
   width: 105px;
   border-radius: 50%;
-  border: #dbdada 5px solid;
+  border: #e9e9e9 5px solid;
   margin: 0px 20px 14px 37px;
+}
+
+.about-containter strong {
+  background: #e9e9e9;
+  padding: 3px;
+  border-radius: 28px;
 }
