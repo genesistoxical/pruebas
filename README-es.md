@@ -12,13 +12,18 @@
 </p>
 
 <p align="center">
-<a href="README.md">English</a> :speech_balloon: <a href="README-es.md">Español</a>
+<b>• Lenguajes Compatibles •</b>
+</BR>
+<img width="21" height="15" alt="US" src="https://github.com/user-attachments/assets/b5e6447c-6845-4b8d-b3df-ee45bb465706"/>‎ ‎ ‎ <img width="21" height="15" alt="MX" src="https://github.com/user-attachments/assets/0bc0851a-228a-4df2-aa0d-ba2bdc4c7b18"/>‎ ‎ ‎ <img width="21" height="15" alt="CN" src="https://github.com/user-attachments/assets/64983f24-791e-4141-a256-032940058f65"/>‎ ‎ ‎ <img width="21" height="15" alt="DE" src="https://github.com/user-attachments/assets/c07cb917-60c3-4aed-88ae-82e223ea7c49"/>‎ ‎ ‎ <img width="21" height="15" alt="FR" src="https://github.com/user-attachments/assets/14a3b116-da55-40b6-9a78-71a75fa4de4a"/>
+</p>
+
+<p align="center">
+<a href="README.md">README - English</a> :speech_balloon: <a href="README-es.md">README - Español</a>
 </p>
 
 ## Características
 * Interfaz limpia e intuitiva.
 * Convierte rápidamente muchas imágenes en iconos a la vez, con la función de arrastrar y soltar.
-* Traducción al Inglés, Español, Alemán y Chino Simplificado.
 * Compatibilidad con imágenes .png .jpg .jpeg .jfif .bmp .gif y .svg
 * Personaliza el color del tema.
 * Número de las imágenes a convertir, restando tres que se muestran como vista previa.
@@ -47,7 +52,7 @@ Dando click en el botón superior de Info, aparecerá una nueva ventana en la qu
 
 - **Cambiar el idioma:** En la sección inferior **Idioma**, haz clic en el icono de las flechitas para cambiar entre English, Español o Deutsch. Por último da clic en el botón de regresar para aplicar y ver los cambios.
  
-- **Formato:** Al hacer clic en `Formato` se desplegará un menú con dos opciones para elegir los tamaños que serán incluidos dentro del icono: **Múltiple** genera un icono de alta calidad que incluye todos los tamaños necesarios como 16, 32, 48, 64, 128 y 256 pixeles, aunque sus dimensiones mostrarán solo 16px. La ultima opción es **256 px** el cual genera un icono con un solo tamaño pero luce pixelado en la vista de detalles.
+- **Formato:** Al hacer clic en `Formato` se desplegará un menú con dos opciones para elegir los tamaños que serán incluidos dentro del icono: **Múltiple** genera un icono de alta calidad que incluye todos los tamaños necesarios como 16, 32, 48, 64, 128 y 256 pixeles, aunque sus dimensiones mostrarán solo 16px. Las dos últimas opciones son **256 px** y **512 px**, las cuales generan un icono con solamente ese tamaño.
      >Nota: Si el switch **Generar icono mini** está activado, se creará un icono pequeño independientemente de su formato.
 
 - **Contenido de terceros:** En la parte izquierda están los nombres de cada librería, proyecto, iconos o tipografías que fueron utilizados, cliquea uno para leer su licencia y autor(a) o autores(as), además de una corta descripción. Puedes hacer clic sobre el icono de clip para ir al repositorio/sitio oficial de cada uno y cambiar de página con **Siguiente 🢖🢖** o **🢔🢔 Atrás**.
@@ -114,13 +119,14 @@ Drop Icons está basado en [Iconizer](https://github.com/willnode/Iconizer) bajo
 
 *Puedes encontrar todas las licencias [aquí](/src/DropIcons/Docs).*
 
-## ¿Qué es lo nuevo?
-`Versión 3.0.0` ahora tiene una conversión de vectores precisa. Anteriormente los márgenes vacíos no eran detectados, lo que daba como resultado un icono con dimensiones escaladas: [📍Image cropped](https://github.com/genesistoxical/drop-icons/issues/4).
-
-El circulo de cargando aparece cuando se agrega una o varias imágenes con un peso mayor a 2MB, evitando que la interfaz parezca congelada.
-
 <br>
 
+✨ Agradecimientos especiales a los traductores:
+* German Translation por **uDEV2019**.
+* Simplified Chinese Translation por **huqiu2**.
+* French Translation por **logounet**.
+
+## ¿Qué es lo nuevo?
 `Versión 3.1.0` incluye un idioma más: [📍German translation](https://github.com/genesistoxical/drop-icons/pull/6) tanto en la aplicación como en el instalador. Para evitar problemas con la interfaz, se han deshabilitado las actualizaciones para el paquete **HandyControls**.
 
 <br>
@@ -129,7 +135,9 @@ El circulo de cargando aparece cuando se agrega una o varias imágenes con un pe
 
 <br>
 
->✨ Un agradecimiento especial a **uDEV2019**, quien agregó la traducción a Alemán y a **huqiu2** por el agregar el Chino Simplificado.
+`Version 3.6.0` se agregó otra traducción (Wow, gracias): [📍French language](https://github.com/genesistoxical/drop-icons/issues/9), solo para la aplicación. También se incluyó la opción para crear íconos de 512px en **Formato** [📍Please add 512 px](https://github.com/genesistoxical/drop-icons/discussions/10).
+
+Ahora la opción **Lenguaje** se despliega y aparece un tooltip al mantener encima el cursor, para mostrar los créditos.
 
 ## Licencia
 **MIT License**
@@ -139,6 +147,6 @@ Copyright (c) 2022 - 2025 Génesis Toxical ([read here](LICENSE)).
 <br>
 
 ## Relacionado:
-`🩷 Image to Icon` Convertir imagen a icono online: [`imagetoicon.glitch.me`](https://imagetoicon.glitch.me/) o [`Repositorio`](https://github.com/genesistoxical/imagetoicon).
+`🩷 Image to Icon` Convertir imagen a icono online:  [`genesistoxical.github.io/imagetoicon`](https://genesistoxical.github.io/imagetoicon/) o [`Repositorio`](https://github.com/genesistoxical/imagetoicon).
 
 `🩷 Pixie Folders` Set con seis diseños de iconos de carpetas minimalistas y editables: [`Descargar`](https://genesistoxical.github.io/pixie-folders/) o [`Repositorio`](https://github.com/genesistoxical/pixie-folders).
