@@ -52,7 +52,7 @@ By clicking on the upper Info button, a new window will appear in which you can:
 
 - **Change language:** In the **Language** section below, click on the little arrows icon to change between English, Español or Deutsch. Finally click on the return button to apply and see changes.
 
-- **Format:** Clicking on `Format` will display a menu with two options to choose the sizes that will be included within the icon: **Multiple** generates a high quality icon that include all necessary sizes such as 16, 32, 48, 64, 128 and 256 pixels, although the output dimensions will be 16px. The last option is **256 px** which generates an icon with a single size but look pixelated in the details view.
+- **Format:** Clicking on `Format` will display a menu with two options to choose the sizes that will be included within the icon: **Multiple** generates a high quality icon that include all necessary sizes such as 16, 32, 48, 64, 128 and 256 pixels, although the output dimensions will be 16px. The last two options are **256 px** and **512 px**, which generate an icon with only that size.
      >Note: If the **Generate tiny icon** switch is on, a small icon will be created regardless of its format.
      
 - **Third-party content:** On the left side are the names of each library, project, icons or fonts that were used, click one to read its license and author(s), as well as a short description. You can click on the clip icon to go to each repository/official site and change pages with **Next 🢖🢖** or **🢔🢔 Back**.
@@ -122,9 +122,9 @@ Drop Icons is based on [Iconizer](https://github.com/willnode/Iconizer) under [M
 <br>
 
 ✨ Special thanks to the translators:
-- **uDEV2019** - German
-- **huqiu2** - Simplified Chinese
-- **logounet** - French
+* German Translation by **uDEV2019**.
+* Simplified Chinese Translation by **huqiu2**.
+* French Translation by **logounet**.
 
 ## What's new?
 `Version 3.1.0` includes one more language: [📍German translation](https://github.com/genesistoxical/drop-icons/pull/6) for both the application and installer. To avoid interface issues, updates for **HandyControls** package have been disabled.
@@ -137,7 +137,7 @@ Drop Icons is based on [Iconizer](https://github.com/willnode/Iconizer) under [M
 
 `Version 3.6.0` another translation was added (Wow, thanks): [📍French language](https://github.com/genesistoxical/drop-icons/issues/9), for app only. Option to create 512px icons in **Format** was also included [📍Please add 512 px](https://github.com/genesistoxical/drop-icons/discussions/10).
 
-Now the **Language** option unfolds and a tooltip appears when you hover over it to show credits.
+Now the **Language** option unfolds and a tooltip appears when you hover over it, to show credits.
 
 ## License
 **MIT License**
