@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-<a href="README.md">English</a> :speech_balloon: <a href="README-es.md">Español</a>
+<a href="README.md">README - English</a> :speech_balloon: <a href="README-es.md">README - Español</a>
 </p>
 
 ## Features
