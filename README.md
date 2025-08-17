@@ -137,6 +137,8 @@ Drop Icons is based on [Iconizer](https://github.com/willnode/Iconizer) under [M
 
 `Version 3.6.0` another translation was added (Wow, thanks): [📍French language](https://github.com/genesistoxical/drop-icons/issues/9), for app only. Option to create 512px icons in **Format** was also included [📍Please add 512 px](https://github.com/genesistoxical/drop-icons/discussions/10).
 
+Now the **Language** option unfolds and a tooltip appears when you hover over it to show credits.
+
 ## License
 **MIT License**
 
@@ -145,6 +147,6 @@ Copyright (c) 2022 - 2025 Génesis Toxical ([read here](LICENSE)).
 <br>
 
 ## Related:
-`🩷 Image to Icon` Convert image to icon online: [`imagetoicon.glitch.me`](https://imagetoicon.glitch.me/) or [`Repository`](https://github.com/genesistoxical/imagetoicon).
+`🩷 Image to Icon` Convert image to icon online: [`genesistoxical.github.io/imagetoicon`](https://genesistoxical.github.io/imagetoicon/) or [`Repository`](https://github.com/genesistoxical/imagetoicon).
 
 `🩷 Pixie Folders` Set of six minimalist and editable folder icon designs: [`Download`](https://genesistoxical.github.io/pixie-folders/) or [`Repository`](https://github.com/genesistoxical/pixie-folders).
