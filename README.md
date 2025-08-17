@@ -119,13 +119,14 @@ Drop Icons is based on [Iconizer](https://github.com/willnode/Iconizer) under [M
 
 *You can find all licenses [here](/src/DropIcons/Docs).*
 
-## What's new?
-`Version 3.0.0` now has accurate vector conversion. Previously, empty margins weren't detected, resulting in an icon with scaled dimensions: [📍Image cropped](https://github.com/genesistoxical/drop-icons/issues/4).
-
-The loading spinner is displayed when one or more images larger than 2MB are added, preventing the interface from looking frozen.
-
 <br>
 
+✨ Special thanks to the translators:
+- **uDEV2019** - German
+- **huqiu2** - Simplified Chinese
+- **logounet** - French
+
+## What's new?
 `Version 3.1.0` includes one more language: [📍German translation](https://github.com/genesistoxical/drop-icons/pull/6) for both the application and installer. To avoid interface issues, updates for **HandyControls** package have been disabled.
 
 <br>
@@ -134,7 +135,7 @@ The loading spinner is displayed when one or more images larger than 2MB are add
 
 <br>
 
->✨ Special thanks to **uDEV2019**, who added German translation and to **huqiu2** for adding Simplified Chinese.
+`Version 3.6.0` another translation was added (Wow, thanks): [📍French language](https://github.com/genesistoxical/drop-icons/issues/9), for app only. Option to create 512px icons in **Format** was also included [📍Please add 512 px](https://github.com/genesistoxical/drop-icons/discussions/10).
 
 ## License
 **MIT License**
