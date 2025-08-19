@@ -121,7 +121,7 @@ Drop Icons está basado en [Iconizer](https://github.com/willnode/Iconizer) bajo
 
 <br>
 
-✨ Agradecimientos especiales a los traductores:
+✨ Agradecimientos especiales por las traducciones:
 * German Translation por **uDEV2019**.
 * Simplified Chinese Translation por **huqiu2**.
 * French Translation por **logounet**.
