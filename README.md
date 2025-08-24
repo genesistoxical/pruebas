@@ -80,7 +80,7 @@ Remember, to clear the list or chosen options just click on **⟳**.
 
 <br/>
 
-<a href="#"><img src="docs/assets/Cystal-Folders-Usage.gif"/></a>
+https://github.com/user-attachments/assets/eaa63ce8-5844-4489-9a71-c77290e8fb82
 
 <br id="details"/>
 
@@ -104,7 +104,7 @@ Click on the upper Info button, a new window will appear where you can:
 
 <br/>
 
-<a href="#"><img src="docs/assets/Cystal-Folders-Options.gif"/></a>
+<a href="#"><img src="docs/assets/Folders.gif"/></a>
 
 <br/>
 
@@ -173,6 +173,8 @@ Message = true
 `Version 1.3.1` includes a patch that prevents the app from closing when folders cannot be added from the checkboxes and in turn, displays a drag-and-drop suggestion.
 
 Both the portable and installable also include a shortcut to [Custom Folder](https://genesistoxical.github.io/customfolder/).
+
+`Version 1.3.4` fixed a bug where the cache would sometimes not refresh, resulting in changes not being displayed immediately or after a while.
 
 ## License
 **MIT License**
