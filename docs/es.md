@@ -1,62 +1,116 @@
-Drop Icons es una aplicación para convertir imágenes a iconos (.ico) para Windows, con una función simple de arrastrar y soltar.
-
-Lenguajes Compatibles
-
-<img width="21" height="15" alt="US" src="https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/US.png"/>‎ ‎ ‎ <img width="21" height="15" alt="MX" src="https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/MX.png"/>‎ ‎ ‎ <img width="21" height="15" alt="CN" src="https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/CN.png"/>‎ ‎ ‎ <img width="21" height="15" alt="DE" src="https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/DE.png"/>‎ ‎ ‎ <img width="21" height="15" alt="FR" src="https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/FR.png"/>
+Crystal Folders es una aplicación para personalizar los iconos de tus carpetas en segundos, en Windows.
 
 ## Características
-* Interfaz limpia e intuitiva.
-* Convierte rápidamente muchas imágenes en iconos a la vez, con la función de arrastrar y soltar.
-* Compatibilidad con imágenes .png .jpg .jpeg .jfif .bmp .gif y .svg
-* Personaliza el color del tema.
-* Número de las imágenes a convertir, restando tres que se muestran como vista previa.
+* Personaliza muchas carpetas en segundos.
+* Agrega carpetas ubicadas dentro de Documentos, Imágenes, etc. con un clic.
+* Posibilidad de arrastrar y soltar.
+* Elegir entre siete colores de iconos predeterminados o uno propio.
+* Opción para incluir subcarpetas.
+* Posibilidad de quitar directorios de la lista una vez agregados.
+* Muestra el número de carpetas y subcarpetas a personalizar.
+* Opción para crear carpetas portables con icono personalizado.
+* Evita la duplicación de carpetas que se han añadido previamente. 
+* Notificaciones directamente en el escritorio.
+* Evita la personalización de carpetas que usan iconos del sistema.
+* Cambia entre el idioma Inglés y Español.
 * Guarda la configuración en un archivo .ini, excepto para los switches.
-* Guarda los iconos en la misma carpeta (por defecto) o en una específica.
-* Habilita y deshabilita Topmost.
-* Opciones de formato para elegir los tamaños incluidos dentro del icono, múltiple y 256 px. [𝐢](#details)
-* Evita la duplicación de una imagen que se ha añadido previamente.
-* Opción para generar un icono mini.
+* Personaliza el color del tema.
+* Modificación del archivo Desktop.ini sin perder información.
 * Esquinas adaptables (redondeadas o metro), dependiendo la versión del sistema operativo.
 
 ## Previa
-<picture><img alt="Drop Icons convertir imágenes a iconos" src="assets/Drop-Icons-App-v2.gif"/></picture>
+<picture><img alt="Crystal Folders personalizar folders app" src="assets/Crystal-Folders-App.gif"/></picture>
 
 ## Uso
-Arrastra y suelta tus imágenes en el espacio vacío, obtendrás una vista previa de tres imágenes excepto si solo arrastras una o dos. Más abajo puedes ver la cantidad total de imágenes a convertir, restando tres de la previa. Si no puedes arrastrar, cliquea en `Agregar`.
+En el panel izquierdo hay un área donde se mostrará la lista de directorios o carpetas a personalizar. Más abajo encontrarás iconos con sus respectivas casillas, los cuales son: Documentos, Imágenes, Música, Videos y Escritorio.
 
-Deja el primer switch activado si deseas guardarlos en la misma carpeta, si prefieres elegir una carpeta específica, desactívalo. También puedes generar un icono mini activando el segundo switch. Por último, haz clic en el botón `Convertir`, espera a que la interfaz se reinicie porque eso indica que ha finalizado y tus iconos están listos.
+<br/>
 
-Si necesitas eliminar las imágenes que agregaste por error, haz clic en el icono de las flechas. Recuerda que puedes arrastrar imágenes tantas veces como quieras antes de hacer clic en el botón `Convertir`.
+𝟭. **Agregar carpetas**, existen dos formas:
+* Activa la o las casillas que desees personalizar, por ejemplo: si seleccionaste _Documentos_, se agregarán a la lista todas las carpetas que se encuentran dentro. Puedes desactivarlas en cualquier momento para quitar esos directorios.
+* Arrastrando y soltando carpetas en el área mencionada anteriormente, incluso si ya has activado casillas.
+
+Para quitar carpetas una por una, debes seleccionarla en la lista y cliquear **⦵**.
+
+𝟮. **Elegir un icono:**
+   En el panel derecho oprime el botón `Elegir…`; se abrirá una pequeña ventana con siete colores de iconos predeterminados o podrías buscar y utilizar uno propio, solo debe estar en formato ICO. Una vez que lo selecciones y oprimas en `Abrir`, aparecerá en la vista previa.
+
+𝟯. **Agregar subcarpetas:**
+   Más abajo puedes activar el interruptor de `Agregar subcarpetas`, el cual también indicará la cantidad de subcarpetas totales. Si consideras que son demasiados o no te interesa, simplemente desactívalo (esto únicamente ayuda a tener una mejor experiencia de personalización).
+
+<br/>
+
+>Vamos a omitir por ahora el segundo switch.
+
+<br/>
+
+𝟰. **Personalizar todo:**
+   Por último, oprime el botón `Personalizar` que, de igual manera, indica la cantidad total de carpetas a las que se les cambiará el icono. Hecho eso, se mostrará una pequeña ventana de espera y posteriormente, una notificación en tu escritorio confirmando que se ha completado correctamente.
+   
+Si la cantidad de carpetas supera los 600, se mostrará un mensaje preguntando si deseas continuar, sin embargo, el botón recomendado por defecto es `No` en caso de que prefieras disminuirla.
+☑️ ¡Listo, así de fácil!, ya solo queda mirar tus carpetas personalizadas; en caso de no ver cambios, solo actualiza la ventana y/o escritorio.
+
+Recuerda, para limpiar la lista o las opciones elegidas basta con hacer clic en **⟳**.
+
+<br/>
+
+### Restaurar carpetas:
+
+𝟭. Deberás seguir los primeros pasos nuevamente; activando las casillas o arrastrando y soltandolos a la lista. Solo que ahora en lugar de elegir un nuevo icono, deberás hacer clic en el botón `Restaurar` y como podrás notar aparecerá una flechita en lo que sería la vista previa para indicarnos dicha acción.
+
+𝟮. El switch de abajo ha cambiado a `Restaurar subfolders`, actívalo en caso de que los hayas personalizado antes.
+
+𝟯. Finalmente da clic en el botón `Restaurar`. Volverá a aparecer la pequeña ventana de espera, posteriormente la notificación en el escritorio de que se ha completado y listo, tus carpetas vuelven a ser normales.
+
+<br/>
+
+<picture><img src="assets/Cystal-Folders-Usage.gif"/></picture>
 
 <br id="details"/>
+
+### Carpetas con iconos personalizados en otra PC:
+
+El segundo switch `Configurar a portable` permite personalizar el icono a máximo 30 carpetas (incluyendo subcarpetas) para que se muestren con ese icono en cualquier otra computadora, debido a que lo copia dentro. Esta opción solo funciona arrastrándolas al área de la lista; si hay alguna casilla activada del panel izquierdo, el switch no podrá activarse.
+
+De la misma manera, al restaurar una carpeta con icono portable deberás seguir los mismos pasos, solo recuerda activar el switch `Restaurar de portable`.
+
+<br/>
+
+### Botón de Info:
+
 Dando click en el botón superior de Info, aparecerá una nueva ventana en la que puedes:
 
 - **Cambiar el tema:** Haz clic sobre `Cambiar Tema` para abrir el selector de color y elegir uno personalizado, cuando lo tengas da clic en Aplicar. Para regresar al color por defecto repite los pasos anteriores y presiona el botón morado debajo del selector de tono, finalmente haz clic en Aplicar.
 
-- **Cambiar el idioma:** En la sección inferior **Idioma**, haz clic en el icono de las flechitas para cambiar entre English, Español o Deutsch. Por último da clic en el botón de regresar para aplicar y ver los cambios.
- 
-- **Formato:** Al hacer clic en `Formato` se desplegará un menú con dos opciones para elegir los tamaños que serán incluidos dentro del icono: **Múltiple** genera un icono de alta calidad que incluye todos los tamaños necesarios como 16, 32, 48, 64, 128 y 256 pixeles, aunque sus dimensiones mostrarán solo 16px. La ultima opción es **256 px** el cual genera un icono con un solo tamaño pero luce pixelado en la vista de detalles.
-     >Nota: Si el switch **Generar icono mini** está activado, se creará un icono pequeño independientemente de su formato.
+- **Cambiar el idioma:** En la sección inferior **Idioma**, haz clic en el icono de las flechitas para cambiar entre English o Español, por último da clic en el botón de regresar para aplicar y ver los cambios.
 
 - **Contenido de terceros:** En la parte izquierda están los nombres de cada librería, proyecto, iconos o tipografías que fueron utilizados, cliquea uno para leer su licencia y autor(a) o autores(as), además de una corta descripción. Puedes hacer clic sobre el icono de clip para ir al repositorio/sitio oficial de cada uno y cambiar de página con **Siguiente 🢖🢖** o **🢔🢔 Atrás**.
 
+<br/>
+
+<picture><img src="assets/Cystal-Folders-Options.gif"/></picture>
+
+<br/>
+
+### Medidas de seguridad:
+
+* No puedes personalizar carpetas especiales que ya tengan un icono del sistema, como por ejemplo _Documentos_ o _Imágenes_, solo los directorios dentro del mismo.
+* Hay carpetas a las que no se les puede cambiar el icono debido a su nivel de protección o privilegios, por lo tanto se mostrará una notificación en el escritorio avisando sobre cuántas se han omitido.
+* Modifica directamente el archivo Desktop.ini, evitando así eliminarlo y creando uno nuevo sin perder información del mismo.
+* Mensaje límite de carpetas, una vez superada la cantidad de 600; para desactivar este mensaje abre el archivo Config.ini y cambia `Message = true` por `Message = false`.
+
 <br>
-
-Para elegir que Drop Icons esté encima de todas las ventanas (Topmost) o no, da clic derecho en cualquier lugar de la ventana principal y elige Habilitar Topmost o Deshabilitar Topmost.
-
-## Opciones
-<picture><img alt="Drop Icons" src="assets/Drop-Icons-Options-v2.gif"/></picture>
 
 ## Info
-* Drop Icons está basado en [Iconizer](https://github.com/willnode/Iconizer){:target="_blank"}. Lee más creditos [aquí](https://github.com/genesistoxical/drop-icons#credits){:target="_blank"}.
-* German Translation por **uDEV2019**.
-* Simplified Chinese Translation por **huqiu2**.
-* French Translation por **logounet**.
-* Este software se encuentra bajo **MIT License** ([leer texto completo](https://github.com/genesistoxical/drop-icons/blob/master/LICENSE){:target="_blank"}).
-* Copyright (c) 2022 - 2025 Génesis Toxical.
+* Este software se encuentra bajo **MIT License** ([leer texto completo](https://github.com/genesistoxical/crystal-folders/blob/master/LICENSE){:target="_blank"}).
+* `🤍 Pixie Folders` Crea tus propios folders con este set de seis iconos editables: [Descargar](https://genesistoxical.github.io/pixie-folders/){:target="_blank"}.
+* `🤍 Image to Icon` Convertir imagen a icono online: [imagetoicon.glitch.me](https://imagetoicon.glitch.me/){:target="_blank"}.
+* `🤍 Drop Icons` Aplicación para convertir imágenes a iconos (.ico) para Windows: [Descargar](https://genesistoxical.github.io/drop-icons/){:target="_blank"}.
+* Copyright (c) 2025 Génesis Toxical.
+
 <br>
 <style>
-    h2.project-tagline:before {content: "Aplicación para convertir imagenes en iconos ";}
+    h2.project-tagline:before {content: "Personaliza los iconos de tus carpetas en segundo";}
     a.btn:nth-child(3):after {content: "escargar Portable";}
     a.btn:nth-child(4):after {content: "escargar Instalable";}
 </style>

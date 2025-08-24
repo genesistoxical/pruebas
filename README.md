@@ -1,78 +1,133 @@
 <p align="center"></p>
-<p align="center"><a href="#"><img width="115px" src="docs/assets/Logo-115px.png" align="center" alt="Drop Icons"/></a></p>
-<h1 align="center">Drop Icons</h1>
-<p align="center">Drop Icons is an app to convert images to icons (.ico) for Windows, with a simple Drag and Drop feature.</p>
+<p align="center"><a href="#"><img width="115px" src="docs/assets/Logo-115px.png" align="center" alt="Crystal Folders"/></a></p>
+<h1 align="center">Crystal Folders</h1>
+<p align="center">Crystal Folders is an app to customize your folder icons in a few seconds, for Windows.</p>
 
 <p align="center">
- <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-9280FF?style=flat-square&labelColor=343B45"/></a>
- <a href="https://github.com/genesistoxical/drop-icons/releases/latest"><img src="https://img.shields.io/github/v/release/genesistoxical/drop-icons.svg?color=9280FF&label=Release&style=flat-square&labelColor=343B45"/></a>
- <a href="#"><img alt="NET" src="https://img.shields.io/badge/.NET_Framework-4.8-9280FF?style=flat-square&labelColor=343B45"/></a> 
- <a href="/installer%20src"><img alt="Installer" src="https://img.shields.io/badge/Installer-ISS-9280FF?style=flat-square&labelColor=343B45"/></a>
- <a href="#"><img alt="Languages" src="https://img.shields.io/badge/Languages-4-9280FF?style=flat-square&labelColor=343B45"/></a>
+ <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-FF69B4?style=flat-square&labelColor=343B45"/></a>
+ <a href="https://github.com/genesistoxical/crystal-folders/releases/latest"><img src="https://img.shields.io/github/v/release/genesistoxical/crystal-folders.svg?color=FF69B4&label=Release&style=flat-square&labelColor=343B45"/></a>
+ <a href="#"><img alt="NET" src="https://img.shields.io/badge/.NET_Framework-4.8-FF69B4?style=flat-square&labelColor=343B45"/></a> 
+ <a href="/installer%20src"><img alt="Installer" src="https://img.shields.io/badge/Installer-ISS-FF69B4?style=flat-square&labelColor=343B45"/></a>
+ <a href="#"><img alt="Languages" src="https://img.shields.io/badge/Languages-2-FF69B4?style=flat-square&labelColor=343B45"/></a>
 </p>
 
 <p align="center">
-<b>• Supported Languages •</b>
-</br>
-<img width="21" height="15" alt="US" src="https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/US.png"/>‎ ‎ ‎ <img width="21" height="15" alt="MX" src="https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/MX.png"/>‎ ‎ ‎ <img width="21" height="15" alt="CN" src="https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/CN.png"/>‎ ‎ ‎ <img width="21" height="15" alt="DE" src="https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/DE.png"/>‎ ‎ ‎ <img width="21" height="15" alt="FR" src="https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/FR.png"/>
-</p>
-
-<p align="center">
-<a href="README.md">README - English</a> :speech_balloon: <a href="README-es.md">README - Español</a>
+<a href="README.md">English</a> :speech_balloon: <a href="README-es.md">Español</a>
 </p>
 
 ## Features
-* Clean and intuitive interface.
-* Quickly convert multiple images to icons at once, with Drag and Drop feature.
-* Support for .png .jpg .jpeg .jfif .bmp .gif and .svg images.
+* Customize many folders in a few seconds.
+* Add folders located inside Documents, Pictures, etc. with one click
+* Drag and drop option.
+* Choose from seven default icon colors or your own.
+* Option to include subfolders.
+* Possibility to remove directories from the list once added.
+* Displays folders and subfolders number to customize.
+* Option to create portable folders with a custom icon. [𝐢](#details)
+* Avoid duplication of folders that have been previously added.
+* Notifications directly on the desktop.
+* Avoid customizing folders with system icons.
+* Switch between English and Spanish language.
+* Save settings in a .ini file, except for switches.
 * Customize theme color.
-* Number of images to convert, subtracting three that are displayed as preview.
-* Settings are saved in an .ini file, except for switches.
-* Save icons in the same folder (default) or in a specific one.
-* Enable and disable Topmost.
-* Format options to choose sizes included within the icon, multiple and 256 px. [𝐢](#details)
-* Prevent duplication of an image that has been previously added.
-* Option to generate tiny icon.
+* Modifying the Desktop.ini file without losing information.
 * Adaptive corners (rounded or metro), depending on the OS version.
 
 ## Preview
-<a href="#"><img src="docs/assets/Drop-Icons-App-v2.gif"/></a>
+<a href="#"><img src="docs/assets/Crystal-Folders-App.gif"/></a>
 
 ## Usage
-Drag and drop your images into the empty space, you will preview three images except if you only drag one or two. Below you can see the total amount of images to convert, subtracting three from preview. If you cannot drag, click on `Add images`.
+On the left panel there is an area where the directories or folder list to customize will be displayed. Below you'll find icons with their respective checkboxes, which are: Documents, Pictures, Music, Videos and Desktop.
 
-Leave the first switch on if you want to save them in the same folder, if you prefer to choose a specific folder, turn it off. You can also generate a tiny icon by turning on the second switch. Finally, click on `Convert` button, wait for the interface to restart because this indicates that it has finished and your icons are ready.
+<br/>
 
-If you need to delete the images you have added by mistake, click on the arrows icon. Remember that you can drag images as many times as you want before clicking the `Convert` button.
+𝟭. **Add folders**, there are two ways:
+* Check the box(es) you want to customize, for example: if you selected _Documents_, all the folders inside will be added to the list. You can uncheck them at any time to remove those directories.
+* By dragging and dropping folders into the empty area mentioned above, even if you've already checked boxes.
+
+To remove folders one by one, you must select it in the list and click on **⦵**.
+
+𝟮. **Choose an icon:**
+   On the right panel press the `Choose…` button, a small window will open with seven default icon colors or you could search and use your own, it just needs to be in ICO format. Once you select it and press `Open`, it will appear in the preview.
+
+𝟯. **Add subfolders:**
+   Further down you can turn on `Add subfolders` switch, which will also indicate the total number of. If you find there are too many or you aren't interested, simply turn it off (this only helps to get a better customization experience).
+
+<br/>
+
+>We will skip the second switch for now.
+
+<br/>
+
+𝟰. **Customize all:**
+   Finally, press the `Customize` button, which, likewise, indicates the total number of folders whose icons will be changed. Once this is done, a small waiting window will be displayed and then a notification on your desktop confirming that it has completed successfully.
+   
+If the folders number exceeds 600, a message will appear asking if you want to continue, however, the default recommended button is `No` in case you prefer to decrease it.
+
+☑️ That’s it, it’s that easy! Now all that’s left to do is look at your customized folders; if you don’t see any changes, just refresh the window and/or desktop.
+
+Remember, to clear the list or chosen options just click on **⟳**.
+
+<br/>
+
+### Restore folders:
+
+𝟭. You'll need to follow the first steps again; checking the boxes or dragging and dropping them to the list. Only now instead of choosing a new icon, you'll have to click on `Restore` button and as you can see, a little arrow will appear in what would be the preview to indicate this action.
+
+𝟮. The switch below has changed to `Restore subfolders`, turn that on if you’ve customized them before.
+
+𝟯. Finally, click on the second `Restore` button. The small waiting window will appear again, then the notification on the desktop that it has been completed and that’s it, your folders are back to normal.
+
+<br/>
+
+<a href="#"><img src="docs/assets/Cystal-Folders-Usage.gif"/></a>
 
 <br id="details"/>
-By clicking on the upper Info button, a new window will appear in which you can:
+
+### Folders with customized icons on another PC:
+
+The second switch `Configure to portable` allows you to customize the icon for up to 30 folders (including subfolders) to be displayed with that icon on any other computer, since it copies it inside. This option only works by dragging them to the list area; if any box is checked on the left panel, the switch cannot be turned on.
+
+In the same way, when restoring a folder with a portable icon you'll need to follow the same steps, just remember to turn on `Restore from portable` switch.
+
+<br/>
+
+### Info button:
+
+Click on the upper Info button, a new window will appear where you can:
 
 - **Change theme:** Click on `Change Theme` to open the color picker and choose a custom one, then click Apply. To return to default values, repeat the previous steps and press the purple button below the tone selector. Finally click Apply.
 
-- **Change language:** In the **Language** section below, click on the little arrows icon to change between English, Español or Deutsch. Finally click on the return button to apply and see changes.
-
-- **Format:** Clicking on `Format` will display a menu with two options to choose the sizes that will be included within the icon: **Multiple** generates a high quality icon that include all necessary sizes such as 16, 32, 48, 64, 128 and 256 pixels, although the output dimensions will be 16px. The last two options are **256 px** and **512 px**, which generate an icon with only that size.
-     >Note: If the **Generate tiny icon** switch is on, a small icon will be created regardless of its format.
+- **Change language:** In the **Language** section below, click on the little arrows icon to change between English or Español, finally click on the return button to apply and see changes.
      
 - **Third-party content:** On the left side are the names of each library, project, icons or fonts that were used, click one to read its license and author(s), as well as a short description. You can click on the clip icon to go to each repository/official site and change pages with **Next 🢖🢖** or **🢔🢔 Back**.
 
-<br>
+<br/>
 
-To choose whether Drop Icons is on top of all windows (Topmost) or not, right-click anywhere in the main window and choose Enable Topmost or Disable Topmost.
+<a href="#"><img src="docs/assets/Cystal-Folders-Options.gif"/></a>
 
-## Options
-<a href="#"><img src="docs/assets/Drop-Icons-Options-v2.gif"/></a>
+<br/>
+
+### Security measures:
+
+* You cannot customize special folders that already have a system icon, such as _Documents_ or _Pictures_, only directories inside it.
+* There are folders whose icon cannot be changed due to their protection level or privileges, so a notification will be displayed on the desktop warning about how many have been skipped.
+* It directly modifies the Desktop.ini file, thus avoiding deleting it and creating a new one without losing its information.
+* Folders limit message, once the amount of 600 has been exceeded; to disable this message open the `Config.ini` file and change `Message = true` to `Message = false`.
+
+<br/>
 
 ## Installer
 To compile the installer you need [Inno Setup](https://jrsoftware.org/isinfo.php), the files are located in the [installer src](/installer%20src) folder. You just need to open the project (Installer.iss) and compile it, unless you want to make a change. When finished, it will leave a folder called Output in the same location.
 
->* Please note that you must first compile the source code in Visual Studio to get the binaries, otherwise you will get a [📍Compiler Error](https://github.com/genesistoxical/drop-icons/issues/3).
->* Alternatively, you can download the compiled app from the Drop Icons [page](https://genesistoxical.github.io/drop-icons/).
+>* Please note that you must first compile the source code in Visual Studio to get the binaries, otherwise, you'll get a [📍Compiler Error](https://github.com/genesistoxical/drop-icons/issues/3).
+>* Alternatively, you can download the compiled app from the Crystal Folders [page](https://genesistoxical.github.io/crystal-folders/).
 
 **Portable with 7zip.bat** allows you to quickly zip the portable version. It only works with [7zip](https://www.7-zip.org/).
 
 Both .iss and .bat get the files that are needed within their folder and/or the Release folder (due to relative paths).
+
+<br>
 
 ## Contributing
 * **HandyControls** package will no longer be updated (for now or permanently) as the latest version does not allow resizing of ToggleButtonSwitch.
@@ -82,71 +137,53 @@ Both .iss and .bat get the files that are needed within their folder and/or the 
 * **Pull request** in English, in the description you can add details in English or Spanish.
   
 ## Config
-`Config.ini` file stores information about the language, theme color, icon format and whether or not the Topmost option is enabled.
+`Config.ini` file stores information about the language, theme color and folders limit message.
 
 ~~~
 [Options]
 Language = en
-Topmost = false
+Message = true
 
 [Theme]
-#FF9280FF
-
-[Format]
-Size = multiple
+#FF69B4
 ~~~
 
->Note: The two switch-type options are not saved because they are not options that are usually activated all the time.
-
-## Adaptive corners
-<a href="#"><img src="docs/assets/Drop-Icons-Corners-v2.png"/></a>
+>Note: The two switch-type options aren't saved because they aren't options that are usually activated all the time.
 
 ## Credits
-Drop Icons is based on [Iconizer](https://github.com/willnode/Iconizer) under [MIT License](https://github.com/willnode/Iconizer/blob/master/LICENSE).
-
 * [HandyControls](https://github.com/ghost1372/HandyControls) under [MIT License](https://github.com/ghost1372/HandyControls/blob/develop/LICENSE).
 
 * [FolderBrowserEx](https://github.com/evaristocuesta/FolderBrowserEx) library under [MIT License](https://github.com/evaristocuesta/FolderBrowserEx/blob/master/LICENSE).
 
 * [Noto Music](https://fonts.google.com/noto/specimen/Noto+Music) under [SIL Open Font License](/src/DropIcons/Docs/Noto%20Music/OFL.txt).
 
-* Icons are part of [Teenyicons](https://github.com/teenyicons/teenyicons) under [MIT License](https://github.com/teenyicons/teenyicons/blob/master/LICENSE).
+* Some icons are part of [Teenyicons](https://github.com/teenyicons/teenyicons) under [MIT License](https://github.com/teenyicons/teenyicons/blob/master/LICENSE).
 
-* [SVG](https://github.com/svg-net/SVG) under [MS-PL license](https://github.com/svg-net/SVG/blob/master/license.txt).
-<br><sub>This package includes five dependencies, read more details in this [file](/src/DropIcons/Docs/SVG%20%2B.txt).</sup>
+* Checkboxes icons are part of [Jam icons](https://github.com/michaelampr/jam) under [MIT License](https://github.com/michaelampr/jam/blob/master/LICENSE).
 
 * [WinVersion](https://github.com/shaovoon/win_version_detection) detection under [MIT License](https://github.com/shaovoon/win_version_detection/blob/main/LICENSE).
+ 
+* [Pixie Folders](https://genesistoxical.github.io/pixie-folders/) under [MIT License](https://github.com/genesistoxical/pixie-folders/blob/main/LICENSE).
 
-*You can find all licenses [here](/src/DropIcons/Docs).*
-
-<br>
-
-✨Special thanks for the translations:
-* German Translation by **uDEV2019**.
-* Simplified Chinese Translation by **huqiu2**.
-* French Translation by **logounet**.
+*You can find all licenses [here](/src/CystalFolders/Docs).*
 
 ## What's new?
-`Version 3.1.0` includes one more language: [📍German translation](https://github.com/genesistoxical/drop-icons/pull/6) for both the application and installer. To avoid interface issues, updates for **HandyControls** package have been disabled.
+`Version 1.2.0` prevents folder modification date from changing when customizing them. A couple of visual improvements have been added to **About** window.
 
-<br>
+`Version 1.3.1` includes a patch that prevents the app from closing when folders cannot be added from the checkboxes and in turn, displays a drag-and-drop suggestion.
 
-`Version 3.2.0` includes another language: [📍Simplified Chinese language](https://github.com/genesistoxical/drop-icons/issues/8), for app only.
-
-<br>
-
-`Version 3.6.0` another translation was added (Wow, thanks): [📍French language](https://github.com/genesistoxical/drop-icons/issues/9), for app only. Option to create 512px icons in **Format** was also included [📍Please add 512 px](https://github.com/genesistoxical/drop-icons/discussions/10).
-
-Now the **Language** option unfolds and a tooltip appears when you hover over it, to show credits.
+Both the portable and installable also include a shortcut to [Custom Folder](https://genesistoxical.github.io/customfolder/).
 
 ## License
 **MIT License**
 
-Copyright (c) 2022 - 2025 Génesis Toxical ([read here](LICENSE)).
+Copyright (c) 2025 Génesis Toxical ([read here](LICENSE)).
 
 <br>
 
 ## Related:
-`🩷 Image to Icon` Convert image to icon online: [`genesistoxical.github.io/imagetoicon`](https://genesistoxical.github.io/imagetoicon/) or [`Repository`](https://github.com/genesistoxical/imagetoicon).
+`🩷 Drop Icons` Utility to convert images to icons (.ico) for Windows: [`Download`](https://genesistoxical.github.io/drop-icons/) or [`Repository`](https://github.com/genesistoxical/drop-icons/).
+
+`🩷 Image to Icon` Convert image to icon online: [`imagetoicon.glitch.me`](https://imagetoicon.glitch.me/) or [`Repository`](https://github.com/genesistoxical/imagetoicon).
 
 `🩷 Pixie Folders` Set of six minimalist and editable folder icon designs: [`Download`](https://genesistoxical.github.io/pixie-folders/) or [`Repository`](https://github.com/genesistoxical/pixie-folders).
