@@ -65,7 +65,7 @@ Remember, to clear the list or chosen options just click on **⟳**.
 
 <br/>
 
-https://github.com/user-attachments/assets/73cf3966-5187-4815-a3ec-11620f39fc35
+<video controls><source src="https://github.com/user-attachments/assets/73cf3966-5187-4815-a3ec-11620f39fc35" type="video/mp4"></video>
 
 <br id="details"/>
 
