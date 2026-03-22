@@ -1,6 +1,6 @@
 Crystal Folders is an app to customize your folder icons in a few seconds, for Windows.
 
-<img/>‎<img width="16" height="16" src="https://raw.githubusercontent.com/genesistoxical/customfolder/refs/heads/main/assets/favicon.png"/>‎ [Custom Folder](https://genesistoxical.github.io/customfolder/){:target="_blank"}‎ ‎ ‎ ‎ ‎ ‎ ‎<img/>‎<img width="16" height="16" src="https://raw.githubusercontent.com/genesistoxical/imagetoicon/refs/heads/main/assets/file-orientation.png"/> [Image to Icon](https://genesistoxical.github.io/imagetoicon/){:target="_blank"}
+<img/>‎<img width="16" height="16" src="https://raw.githubusercontent.com/genesistoxical/customfolder/refs/heads/main/assets/favicon.png"/>‎  [Custom Folder](https://genesistoxical.github.io/customfolder/){:target="_blank"}‎ ‎ ‎ ‎ ‎ ‎ ‎<img/>‎<img width="16" height="16" src="https://raw.githubusercontent.com/genesistoxical/imagetoicon/refs/heads/main/assets/file-orientation.png"/>  [Image to Icon](https://genesistoxical.github.io/imagetoicon/){:target="_blank"}
 
 ## Features
 * Customize many folders in a few seconds.
