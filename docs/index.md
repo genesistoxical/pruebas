@@ -1,5 +1,9 @@
 Crystal Folders is an app to customize your folder icons in a few seconds, for Windows.
 
+Create or convert your folders with:
+
+<p align="center"><a href="https://genesistoxical.github.io/customfolder/">Custom Folder</a><a href="https://genesistoxical.github.io/customfolder/">Image to Icon</a></p>
+
 ## Features
 * Customize many folders in a few seconds.
 * Add folders located inside Documents, Pictures, etc. with one click
@@ -107,7 +111,7 @@ Click on the upper Info button, a new window will appear where you can:
 * `🤍 Custom Folder` Create your own custom icon folder: [genesistoxical.github.io/customfolder](https://genesistoxical.github.io/customfolder/){:target="_blank"}.
 * `🤍 Image to Icon` Convert image to icon online: [genesistoxical.github.io/imagetoicon](https://genesistoxical.github.io/imagetoicon/){:target="_blank"}.
 * `🤍 Drop Icons` App to convert images to icons (.ico) for Windows: [Download](https://genesistoxical.github.io/drop-icons/){:target="_blank"}.
-* Copyright (c) 2025 Génesis Toxical.
+* Copyright (c) 2025 - 2026 Génesis Toxical.
 
 <br>
 <style>
