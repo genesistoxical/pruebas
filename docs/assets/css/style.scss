@@ -1,11 +1,9 @@
-
 ---
 ---
 
 @import "{{ site.theme }}";
 
-$accent-primary: #FD2A7A;
-$accent-blue: #2AB4FC;
+$accent-primary: #FF69B4;
 $accent-secondary: #595959;
 
 a {
@@ -31,7 +29,7 @@ a {
     border-bottom: solid 1px #e1e1e1;
     margin-bottom: 3rem;
     border-top: 10px solid $accent-primary;
-    background-image: url(/pixie-cursors/assets/Background.png);
+    background-image: url(/crystal-folders/assets/Background.png);
     background-size: cover;
 }
 
@@ -49,11 +47,11 @@ a {
 }
 
 a.btn:nth-child(4) {
-    background-color: $accent-blue;
+    background-color: $accent-primary;
 }
 
 a.btn:nth-child(4):hover {
-    background-color: #40BCFC; 
+    background-color: #FF78BCe6;
 }
 
 @media screen and (min-width: 64em){
@@ -70,7 +68,7 @@ a.btn:nth-child(4):hover {
 }
 
 h1.project-name::before {
-    background-image: url(/pixie-cursors/assets/Logo-120px.png);
+    background-image: url(/crystal-folders/assets/Logo-120px.png);
     background-size: 120px;
     content: "";
     background-position: 50%;
@@ -86,7 +84,7 @@ body {
 }
 
 .main-content code {
-    background-color: $accent-blue;
+    background-color: $accent-primary;
     color: #ffffff;
 }
 
@@ -100,13 +98,14 @@ body {
 
 ::selection {
     color: white;
-    background: $accent-blue;
+    background: #FF78BC;
 }
 
-img:nth-child(1) {
+img:nth-child(1), video {
     border-radius: 18px;
 }
 
-a.btn:nth-child(3){
-    cursor: default;
+p:nth-child(2) {
+    line-height: 14px;
+	margin-bottom: 40px;
 }

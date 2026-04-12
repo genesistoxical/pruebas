@@ -1,14 +1,14 @@
 <p align="center"></p>
-<p align="center"><a href="#"><img width="115px" src="docs/assets/Logo-115px.png" align="center" alt="Pixie Cursors"/></a></p>
-<h1 align="center">Droplet Screenmate</h1>
-<p align="center">Droplet Screenmate, a pet running on your desktop.</p>
+<p align="center"><a href="#"><img width="115px" src="docs/assets/Logo-115px.png" align="center" alt="Crystal Folders"/></a></p>
+<h1 align="center">Crystal Folders</h1>
+<p align="center">Crystal Folders is an app to customize your folder icons in a few seconds, for Windows.</p>
 
 <p align="center">
- <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-FD2A7A?style=flat-square&labelColor=343B45"/></a>
- <a href="https://github.com/genesistoxical/pixie-cursors/releases/latest"><img src="https://img.shields.io/github/v/release/genesistoxical/pixie-cursors.svg?color=2AB4FC&label=Release&style=flat-square&labelColor=343B45"/></a>
- <a href="#"><img alt="NET" src="https://img.shields.io/badge/.NET_Framework-4.8-FD2A7A?style=flat-square&labelColor=343B45"/></a> 
- <a href="/installer%20src"><img alt="Installer" src="https://img.shields.io/badge/Installer-ISS-2AB4FC?style=flat-square&labelColor=343B45"/></a>
- <a href="#"><img alt="Languages" src="https://img.shields.io/badge/Languages-2-FD2A7A?style=flat-square&labelColor=343B45"/></a>
+ <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-FF69B4?style=flat-square&labelColor=343B45"/></a>
+ <a href="https://github.com/genesistoxical/crystal-folders/releases/latest"><img src="https://img.shields.io/github/v/release/genesistoxical/crystal-folders.svg?color=FF69B4&label=Release&style=flat-square&labelColor=343B45"/></a>
+ <a href="#"><img alt="NET" src="https://img.shields.io/badge/.NET_Framework-4.8-FF69B4?style=flat-square&labelColor=343B45"/></a> 
+ <a href="/installer%20src"><img alt="Installer" src="https://img.shields.io/badge/Installer-ISS-FF69B4?style=flat-square&labelColor=343B45"/></a>
+ <a href="#"><img alt="Languages" src="https://img.shields.io/badge/Languages-2-FF69B4?style=flat-square&labelColor=343B45"/></a>
 </p>
 
 <p align="center">
@@ -16,113 +16,182 @@
 </p>
 
 ## Features
-* Create cursors in just a few minutes.
-* Intuitive and simple interface.
-* Full-time, real-size preview.
-* Import a PNG image and crop empty margins.
-* Choose where the cursor will click (Hotspot).
-* Color picker that allows you to save swatches.
-* Button to add a shadow at the end of the cursor.
-* The editor's checkered background can be darkened.
-* Access tools with keyboard shortcuts.
+* Customize many folders in a few seconds.
+* Add folders located inside Documents, Pictures, etc. with one click
+* Drag and drop option.
+* Choose from seven default icon colors or your own.
+* Option to include subfolders.
+* Possibility to remove directories from the list once added.
+* Displays folders and subfolders number to customize.
+* Option to create portable folders with a custom icon. [𝐢](#details)
+* Avoid duplication of folders that have been previously added.
+* Notifications directly on the desktop.
+* Avoid customizing folders with system icons.
 * Switch between English and Spanish language.
+* Save settings in a .ini file, except for switches.
+* Customize theme color.
+* Modifying the Desktop.ini file without losing information.
+* Adaptive corners (rounded or metro), depending on the OS version.
 
 ## Preview
-<a href="#"><img src="docs/assets/Pixie-Cursors-App.png"/></a>
+<a href="#"><img src="docs/assets/Crystal-Folders.gif"/></a>
 
 ## Usage
-It's very easy to use, as it's an editor like any other. If you have questions about a tool or button, hover over it (without clicking) to get information.
+On the left panel there is an area where the directories or folder list to customize will be displayed. Below you'll find icons with their respective checkboxes, which are: Documents, Pictures, Music, Videos and Desktop.
 
-- Open an image ![Open](docs/assets/buttons/Open.png) (it must be in PNG format). The margins with empty pixels will be automatically cropped.
-- Start creating the arrow; use the brush, colorpicker and your creativity. Once you select the brush, you can also erase with a right-click.
-- Once finished, you can add a shadow ![Shadow](docs/assets/buttons/Shadow.png). A lot of shading is usually added to the arrow so you can refine it by erasing a bit.
-- Select ![Hotspot](docs/assets/buttons/Hotspot.png) from toolbar to choose where you want your cursor to click, such as the arrowhead. Click to place the circle where you want it.
-- Press the save button ![Save](docs/assets/buttons/Save.png), put it a name, and you're done. Now let's install it...
+<br/>
 
-**Installation:**
-- Open your cursors folder with the ![CursorsFolder](docs/assets/buttons/CursorsFolder.png) button and move the cursor you just created there.
-- Click ![MouseProperties](docs/assets/buttons/MouseProperties.png), which is just a shortcut to the Windows Mouse Properties.
-- In the window that opens, go to **Pointers**, click **Normal Selection** and `Browse` to choose a different one. Go to **- Pixie Cursors -** folder and select your cursor. You can do the same with the link or hand cursor.
-- Press `Save As...`, put it a name and `OK`.
-- Uncheck the **Enable Drop Shadow** box to avoid a double shadow, click `OK` and that's it! Enjoy your cursor!
+𝟭. **Add folders**, there are two ways:
+* Check the box(es) you want to customize, for example: if you selected _Documents_, all the folders inside will be added to the list. You can uncheck them at any time to remove those directories.
+* By dragging and dropping folders into the empty area mentioned above, even if you've already checked boxes.
 
-**Other tools:**
-- If **Crop Empty Margin** is enabled when opening an image, it will be cropped to get the best cursor size.
-- Hold `Shift` when using brush to draw a line.
-- Press `Ctrl` when using paint bucket or **Fill** to paint all pixels the same color.
+To remove folders one by one, you must select it in the list and click on **⦵**.
 
-<br>
-<a href="#"><img src="docs/assets/Pixie-Cursors-Usage.gif"/></a>
+𝟮. **Choose an icon:**
+   On the right panel press the `Choose…` button, a small window will open with seven default icon colors or you could search and use your own, it just needs to be in ICO format. Once you select it and press `Open`, it will appear in the preview.
 
-<br></br>
+𝟯. **Add subfolders:**
+   Further down you can turn on `Add subfolders` switch, which will also indicate the total number of. If you find there are too many or you aren't interested, simply turn it off (this only helps to get a better customization experience).
 
-By clicking on ![Info](docs/assets/buttons/Info.png), a new window will appear in which you can:
+<br/>
 
-- **Change language:** In the **Language** section below, click on the little arrows icon to change between English or Español. Finally click on the return button to apply and see changes.
+>We will skip the second switch for now.
+
+<br/>
+
+𝟰. **Customize all:**
+   Finally, press the `Customize` button, which, likewise, indicates the total number of folders whose icons will be changed. Once this is done, a small waiting window will be displayed and then a notification on your desktop confirming that it has completed successfully.
+   
+If the folders number exceeds 600, a message will appear asking if you want to continue, however, the default recommended button is `No` in case you prefer to decrease it.
+
+☑️ That’s it, it’s that easy! Now all that’s left to do is look at your customized folders; if you don’t see any changes, just refresh the window and/or desktop.
+
+Remember, to clear the list or chosen options just click on **⟳**.
+
+<br/>
+
+### Restore folders:
+
+𝟭. You'll need to follow the first steps again; checking the boxes or dragging and dropping them to the list. Only now instead of choosing a new icon, you'll have to click on `Restore` button and as you can see, a little arrow will appear in what would be the preview to indicate this action.
+
+𝟮. The switch below has changed to `Restore subfolders`, turn that on if you’ve customized them before.
+
+𝟯. Finally, click on the second `Restore` button. The small waiting window will appear again, then the notification on the desktop that it has been completed and that’s it, your folders are back to normal.
+
+<br/>
+
+https://github.com/user-attachments/assets/73cf3966-5187-4815-a3ec-11620f39fc35
+
+<br id="details"/>
+
+### Folders with customized icons on another PC:
+
+The second switch `Configure to portable` allows you to customize the icon for up to 30 folders (including subfolders) to be displayed with that icon on any other computer, since it copies it inside. This option only works by dragging them to the list area; if any box is checked on the left panel, the switch cannot be turned on.
+
+In the same way, when restoring a folder with a portable icon you'll need to follow the same steps, just remember to turn on `Restore from portable` switch.
+
+<br/>
+
+### Info button:
+
+Click on the upper Info button, a new window will appear where you can:
+
+- **Change theme:** Click on `Change Theme` to open the color picker and choose a custom one, then click Apply. To return to default values, repeat the previous steps and press the purple button below the tone selector. Finally click Apply.
+
+- **Change language:** In the **Language** section below, click on the little arrows icon to change between English or Español, finally click on the return button to apply and see changes.
      
 - **Third-party content:** On the left side are the names of each library, project, icons or fonts that were used, click one to read its license and author(s), as well as a short description. You can click on the clip icon to go to each repository/official site and change pages with **Next 🢖🢖** or **🢔🢔 Back**.
+
+<br/>
+
+<a href="#"><img src="docs/assets/Folders.gif"/></a>
+
+<br/>
+
+### Security measures:
+
+* You cannot customize special folders that already have a system icon, such as _Documents_ or _Pictures_, only directories inside it.
+* There are folders whose icon cannot be changed due to their protection level or privileges, so a notification will be displayed on the desktop warning about how many have been skipped.
+* It directly modifies the Desktop.ini file, thus avoiding deleting it and creating a new one without losing its information.
+* Folders limit message, once the amount of 600 has been exceeded; to disable this message open the `Config.ini` file and change `Message = true` to `Message = false`.
+
+<br/>
 
 ## Installer
 To compile the installer you need [Inno Setup](https://jrsoftware.org/isinfo.php), the files are located in the [installer src](/installer%20src) folder. You just need to open the project (Installer.iss) and compile it, unless you want to make a change. When finished, it will leave a folder called Output in the same location.
 
->* Please note that you must first compile the source code in Visual Studio to get the binaries, otherwise you will get a [📍Compiler Error](https://github.com/genesistoxical/drop-icons/issues/3).
->* Alternatively, you can download the compiled app from the Pixie Cursors [page](https://genesistoxical.github.io/pixie-cursors/).
+>* Please note that you must first compile the source code in Visual Studio to get the binaries, otherwise, you'll get a [📍Compiler Error](https://github.com/genesistoxical/drop-icons/issues/3).
+>* Alternatively, you can download the compiled app from the Crystal Folders [page](https://genesistoxical.github.io/crystal-folders/).
 
-.iss Get the files that are needed within their folder and/or the Release folder (due to relative paths).
+**Portable with 7zip.bat** allows you to quickly zip the portable version. It only works with [7zip](https://www.7-zip.org/).
+
+Both .iss and .bat get the files that are needed within their folder and/or the Release folder (due to relative paths).
+
+<br>
 
 ## Contributing
+* **HandyControls** package will no longer be updated (for now or permanently) as the latest version does not allow resizing of ToggleButtonSwitch.
 * If you make comments in the code, preferably in Spanish, please.
 * Variable names must be in English.
 * If you open an **Issue**, it can be in English o Spanish.
 * **Pull request** in English, in the description you can add details in English or Spanish.
   
 ## Config
-`Config.ini` file stores information about the language.
+`Config.ini` file stores information about the language, theme color and folders limit message.
 
 ~~~
 [Options]
 Language = en
+Message = true
+
+[Theme]
+#FF69B4
 ~~~
 
-## Credits
-Pixie Cursors is based on [PixelArtTool](https://github.com/unitycoder/PixelArtTool) under [MIT license](https://github.com/unitycoder/PixelArtTool/blob/master/LICENSE).
+>Note: The two switch-type options aren't saved because they aren't options that are usually activated all the time.
 
+## Credits
 * [HandyControls](https://github.com/ghost1372/HandyControls) under [MIT License](https://github.com/ghost1372/HandyControls/blob/develop/LICENSE).
 
 * [FolderBrowserEx](https://github.com/evaristocuesta/FolderBrowserEx) library under [MIT License](https://github.com/evaristocuesta/FolderBrowserEx/blob/master/LICENSE).
 
-* Icons are part of [Teenyicons](https://github.com/teenyicons/teenyicons) under [MIT License](https://github.com/teenyicons/teenyicons/blob/master/LICENSE).
+* [Noto Music](https://fonts.google.com/noto/specimen/Noto+Music) under [SIL Open Font License](/src/DropIcons/Docs/Noto%20Music/OFL.txt).
 
-* [LazZiya.ImageResize](https://github.com/LazZiya/ImageResize) under [MIT License](https://github.com/LazZiya/ImageResize/blob/master/LICENSE).
-<br><sub>This package includes a dependency, read more details in this [file](/src/PixieCursors/Docs/LazZiyaImageResize%20%2B.txt).</sup>
+* Some icons are part of [Teenyicons](https://github.com/teenyicons/teenyicons) under [MIT License](https://github.com/teenyicons/teenyicons/blob/master/LICENSE).
 
-* [Noto Music](https://fonts.google.com/noto/specimen/Noto+Music) under [SIL Open Font License](/src/PixieCursors/Docs/Noto%20Music/OFL.txt).
+* Checkboxes icons are part of [Jam icons](https://github.com/michaelampr/jam) under [MIT License](https://github.com/michaelampr/jam/blob/master/LICENSE).
 
-*You can find all licenses [here](/src/PixieCursors/Docs).*
+* [WinVersion](https://github.com/shaovoon/win_version_detection) detection under [MIT License](https://github.com/shaovoon/win_version_detection/blob/main/LICENSE).
+ 
+* [Pixie Folders](https://genesistoxical.github.io/pixie-folders/) under [MIT License](https://github.com/genesistoxical/pixie-folders/blob/main/LICENSE).
+
+*You can find all licenses [here](/src/CystalFolders/Docs).*
 
 ## What's new?
-`Version 1.1.0` when opening an image smaller than 32px that is not square, it no longer looks blurry.
+`Version 1.3.1` includes a patch that prevents the app from closing when folders cannot be added from the checkboxes and in turn, displays a drag-and-drop suggestion.
 
-`Version 1.4.1` eraser tool fixed, it wasn't working. Message displayed when opening an image while another one is already open has been improved.
+Both the portable and installable also include a shortcut to [Custom Folder](https://genesistoxical.github.io/customfolder/).
 
-`Version 1.5.2` fixed a minor issue when double-clicking the ColorPicker. The message to create a new file when opening another image has been improved, now also displays when a cursor design is on the canvas.
+<br>
 
-Regarding a Windows 10 compatibility issue (it won't open), it will be compiled on that version to fix it.
+`Version 1.3.4` fixed a bug where the cache would sometimes not refresh, resulting in changes not being displayed immediately or after a while.
 
-`Version 1.5.4` fixed an issue where Pixie Cursors wouldn't run using the installer. This was due to the **Config.ini** file path was incorrect when attempting to get it from AppData.
+<br>
+
+`Version 1.4.0` improving search logic, prevent breaking when retrieving non-default library directories [📍Cambio logica de busqueda](https://github.com/genesistoxical/crystal-folders/pull/3).
 
 ## License
 **MIT License**
 
-Copyright (c) 2025 Génesis Toxical ([read here](LICENSE)).
+Copyright (c) 2025 - 2026 Génesis Toxical ([read here](LICENSE)).
 
 <br>
 
 ## Related:
-`❤️ Crystal Folders` Customize your folder icons in a few seconds: [`Download`](https://genesistoxical.github.io/crystal-folders/) or [`Repository`](https://github.com/genesistoxical/crystal-folders).
+`🩷 Custom Folder` Create your own custom icon folder: [`genesistoxical.github.io/customfolder`](https://genesistoxical.github.io/customfolder/) or [`Repository`](https://github.com/genesistoxical/drop-icons/).
 
-`❤️ Custom Folder` Create your own custom icon folder: [`genesistoxical.github.io/customfolder`](https://genesistoxical.github.io/customfolder/) or [`Repository`](https://github.com/genesistoxical/customfolder).
+`🩷 Drop Icons` Utility to convert images to icons (.ico) for Windows: [`Download`](https://genesistoxical.github.io/drop-icons/) or [`Repository`](https://github.com/genesistoxical/drop-icons/).
 
-`❤️ Drop Icons` Utility to convert images to icons (.ico) for Windows: [`Download`](https://genesistoxical.github.io/drop-icons/) or [`Repository`](https://github.com/genesistoxical/drop-icons/).
+`🩷 Image to Icon` Convert image to icon online: [`genesistoxical.github.io/imagetoicon`](https://genesistoxical.github.io/imagetoicon/) or [`Repository`](https://github.com/genesistoxical/imagetoicon).
 
-`❤️ Image to Icon` Convert image to icon online: [`genesistoxical.github.io/imagetoicon`](https://genesistoxical.github.io/imagetoicon/) or [`Repository`](https://github.com/genesistoxical/imagetoicon).
+`🩷 Pixie Folders` Set of six minimalist and editable folder icon designs: [`Download`](https://genesistoxical.github.io/pixie-folders/) or [`Repository`](https://github.com/genesistoxical/pixie-folders).
