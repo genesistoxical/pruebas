@@ -57,7 +57,7 @@ By clicking on ![Info](assets/buttons/Info.png), a new window will appear in whi
 
 <br>
 <style>
-    h2.project-tagline:before {content: "Create your own custom cursor";}
-    a.btn:nth-child(3):after {content: "ownload Bin";}
+    h2.project-tagline:before {content: "A pet running on your desktop";}
+    a.btn:nth-child(3):after {content: "ownload Base";}
     a.btn:nth-child(4):after {content: "ownload App";}
 </style>

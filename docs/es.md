@@ -57,7 +57,7 @@ Dando click en ![Info](assets/buttons/Info.png), aparecerá una nueva ventana en
 
 <br>
 <style>
-    h2.project-tagline:before {content: "Crea tus propios cursore";}
-    a.btn:nth-child(3):after {content: "escargar Bin";}
+    h2.project-tagline:before {content: "Una mascota corriendo por tu escritorio";}
+    a.btn:nth-child(3):after {content: "escargar Base";}
     a.btn:nth-child(4):after {content: "escargar App";}
 </style>
