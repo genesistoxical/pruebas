@@ -1,19 +1,16 @@
 Droplet Screenmate, una mascota corriendo por tu escritorio.
 
 ## Características
-* Crea cursores en un par de minutos.
-* Interfaz intuitiva y sencilla.
-* Vista previa en tiempo y tamaño real.
-* Importa una imagen en PNG y recorta píxeles vacíos.
-* Elige en dónde hará clic el cursor (Hotspot).
-* Selector de color que permite guardar muestras.
-* Botón para agregar sombra al finalizar el cursor.
-* El fondo a cuadros del editor se puede oscurecer.
-* Accede a las herramientas con accesos del teclado.
-* Cambia entre el idioma Inglés y Español.
+* Tu mascota detecta la barra de tareas y camina por encima de ella.
+* Puedes arrastrarlo y soltarlo en cualquier otra parte de tu escritorio.
+* Animaciones diferentes al caminar, detenerse, sentarse y arrastrar.
+* Elige entre los 8 skins por defecto.
+* Opciones para cambiar la velocidad en la que camina.
+* Opción de iniciar al encender tu PC.
+* Puedes crear tu propio skin usando las plantillas (PNG y editables).
 
 ## Previa
-<picture><img alt="Pixie Cursors crear cursores app" src="assets/Pixie-Cursors-App.png"/></picture>
+<picture><img alt="Pixie Cursors crear cursores app" src="Droplet-Screenmate.png"/></picture>
 
 ## Uso
 El uso es muy sencillo, ya que es un editor como cualquier otro. Si tienes duda sobre una herramienta o botón, deja tu cursor encima de (sin dar clic) para obtener información.
