@@ -16,19 +16,16 @@
 </p>
 
 ## Features
-* Create cursors in just a few minutes.
-* Intuitive and simple interface.
-* Full-time, real-size preview.
-* Import a PNG image and crop empty margins.
-* Choose where the cursor will click (Hotspot).
-* Color picker that allows you to save swatches.
-* Button to add a shadow at the end of the cursor.
-* The editor's checkered background can be darkened.
-* Access tools with keyboard shortcuts.
-* Switch between English and Spanish language.
+* Your pet detects the taskbar and walks over it.
+* You can drag and drop it anywhere else on your desktop.
+* Different animations for walking, stopping, sitting, and dragging.
+* Choose from 8 default skins.
+* Options to change its walking speed.
+* Option to start when you turn on your PC.
+* You can create your own skin using the templates (PNG and editable).
 
 ## Preview
-<a href="#"><img src="docs/assets/Pixie-Cursors-App.png"/></a>
+<a href="#"><img src="docs/assets/Droplet-Screenmate.png"/></a>
 
 ## Usage
 It's very easy to use, as it's an editor like any other. If you have questions about a tool or button, hover over it (without clicking) to get information.
