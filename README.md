@@ -47,60 +47,33 @@ Go to the icon in your system tray and right-click it:
 
 <br></br>
 
-By clicking on ![Info](docs/assets/buttons/Info.png), a new window will appear in which you can:
-
-- **Change language:** In the **Language** section below, click on the little arrows icon to change between English or Español. Finally click on the return button to apply and see changes.
-     
-- **Third-party content:** On the left side are the names of each library, project, icons or fonts that were used, click one to read its license and author(s), as well as a short description. You can click on the clip icon to go to each repository/official site and change pages with **Next 🢖🢖** or **🢔🢔 Back**.
-
-## Installer
-To compile the installer you need [Inno Setup](https://jrsoftware.org/isinfo.php), the files are located in the [installer src](/installer%20src) folder. You just need to open the project (Installer.iss) and compile it, unless you want to make a change. When finished, it will leave a folder called Output in the same location.
-
->* Please note that you must first compile the source code in Visual Studio to get the binaries, otherwise you will get a [📍Compiler Error](https://github.com/genesistoxical/drop-icons/issues/3).
->* Alternatively, you can download the compiled app from the Pixie Cursors [page](https://genesistoxical.github.io/pixie-cursors/).
-
-.iss Get the files that are needed within their folder and/or the Release folder (due to relative paths).
-
 ## Contributing
 * If you make comments in the code, preferably in Spanish, please.
 * Variable names must be in English.
 * If you open an **Issue**, it can be in English o Spanish.
 * **Pull request** in English, in the description you can add details in English or Spanish.
+* Due to the simplicity and optimization required in this application, no translations will be made.
   
 ## Config
-`Config.ini` file stores information about the language.
+`Config.ini` file stores skin info.
 
 ~~~
 [Options]
-Language = en
+Skin = Mushroom
+~~~
+
+El archivo `Config.ini` del skin almacena su propia configuración.
+
+~~~
+[Config]
+Velocity = 0.2
+Step size = 12
 ~~~
 
 ## Credits
 Pixie Cursors is based on [PixelArtTool](https://github.com/unitycoder/PixelArtTool) under [MIT license](https://github.com/unitycoder/PixelArtTool/blob/master/LICENSE).
 
-* [HandyControls](https://github.com/ghost1372/HandyControls) under [MIT License](https://github.com/ghost1372/HandyControls/blob/develop/LICENSE).
-
-* [FolderBrowserEx](https://github.com/evaristocuesta/FolderBrowserEx) library under [MIT License](https://github.com/evaristocuesta/FolderBrowserEx/blob/master/LICENSE).
-
-* Icons are part of [Teenyicons](https://github.com/teenyicons/teenyicons) under [MIT License](https://github.com/teenyicons/teenyicons/blob/master/LICENSE).
-
-* [LazZiya.ImageResize](https://github.com/LazZiya/ImageResize) under [MIT License](https://github.com/LazZiya/ImageResize/blob/master/LICENSE).
-<br><sub>This package includes a dependency, read more details in this [file](/src/PixieCursors/Docs/LazZiyaImageResize%20%2B.txt).</sup>
-
-* [Noto Music](https://fonts.google.com/noto/specimen/Noto+Music) under [SIL Open Font License](/src/PixieCursors/Docs/Noto%20Music/OFL.txt).
-
 *You can find all licenses [here](/src/PixieCursors/Docs).*
-
-## What's new?
-`Version 1.1.0` when opening an image smaller than 32px that is not square, it no longer looks blurry.
-
-`Version 1.4.1` eraser tool fixed, it wasn't working. Message displayed when opening an image while another one is already open has been improved.
-
-`Version 1.5.2` fixed a minor issue when double-clicking the ColorPicker. The message to create a new file when opening another image has been improved, now also displays when a cursor design is on the canvas.
-
-Regarding a Windows 10 compatibility issue (it won't open), it will be compiled on that version to fix it.
-
-`Version 1.5.4` fixed an issue where Pixie Cursors wouldn't run using the installer. This was due to the **Config.ini** file path was incorrect when attempting to get it from AppData.
 
 ## License
 **MIT License**

@@ -46,62 +46,33 @@ Dirígete al icono que está en tu bandeja, dale click derecho:
 
 <br></br>
 
-Dando click en ![Info](docs/assets/buttons/Info.png), aparecerá una nueva ventana en la que puedes:
-
-- **Cambiar el idioma:** En la sección inferior **Idioma**, haz clic en el icono de las flechitas para cambiar entre English, Español o Deutsch. Por último da clic en el botón de regresar para aplicar y ver los cambios.
-
-- **Contenido de terceros:** En la parte izquierda están los nombres de cada librería, proyecto, iconos o tipografías que fueron utilizados, cliquea uno para leer su licencia y autor(a) o autores(as), además de una corta descripción. Puedes hacer clic sobre el icono de clip para ir al repositorio/sitio oficial de cada uno y cambiar de página con **Siguiente 🢖🢖** o **🢔🢔 Atrás**.
-
-## Instalador
-Para compilar el instalador es necesario [Inno Setup](https://jrsoftware.org/isinfo.php), los archivos se encuentran en la carpeta [installer src](/installer%20src). Solo debes abrir el proyecto (Installer.iss) y compilarlo, a menos que desees hacer una modificación. Al finalizar, en la misma ubicación dejará una carpeta llamada Output.
-
->* Por favor, toma en cuenta que primero debes compilar el código de fuente en Visual Studio para tener los binarios, de lo contrario obtendrás un [📍Compiler Error](https://github.com/genesistoxical/drop-icons/issues/3).
->* Si lo prefieres, puedes descargar la app compilada en la [página](https://genesistoxical.github.io/pixie-foders/) de Pixie Folders.
-
-**Portable with 7zip.bat** permite comprimir en .zip rápidamente la versión portable. Únicamente funciona con [7zip](https://www.7-zip.org/).
-
-.iss Obtiene los archivos que son necesarios dentro de su carpeta y/o la carpeta Release (debido a las rutas relativas).
-
 ## Contribuciones
 * Si haces comentarios en el código, preferiblemente en Español, por favor.
 * Los nombres de las variables deben estar en Inglés.
 * Si abres un **Issue**, puede ser en Inglés o Español.
 * **Pull request** en Inglés, en la descripción puedes agregar detalles en Inglés o Español.
+* Debido a la simplicidad y optimización que se requiere en esta aplicación, no se harán traducciones.
   
 ## Configuración
-El archivo `Config.ini` almacena información del lenguaje.
+El archivo `Config.ini` almacena información del skin.
 
 ~~~
 [Options]
-Language = en
+Skin = Mushroom
+~~~
+
+El archivo `Config.ini` del skin almacena su propia configuración.
+
+~~~
+[Config]
+Velocity = 0.2
+Step size = 12
 ~~~
 
 ## Créditos
 Pixie Cursors está basado en [PixelArtTool](https://github.com/unitycoder/PixelArtTool) bajo [MIT license](https://github.com/unitycoder/PixelArtTool/blob/master/LICENSE).
 
-* [HandyControls](https://github.com/ghost1372/HandyControls) bajo [MIT License](https://github.com/ghost1372/HandyControls/blob/develop/LICENSE).
-
-* [FolderBrowserEx](https://github.com/evaristocuesta/FolderBrowserEx) library bajo [MIT License](https://github.com/evaristocuesta/FolderBrowserEx/blob/master/LICENSE).
-
-* Icons are part of [Teenyicons](https://github.com/teenyicons/teenyicons) bajo [MIT License](https://github.com/teenyicons/teenyicons/blob/master/LICENSE).
-
-* [LazZiya.ImageResize](https://github.com/LazZiya/ImageResize) bajo [MIT License](https://github.com/LazZiya/ImageResize/blob/master/LICENSE).
-<br><sub>Este paquete incluye una dependencia, lee más detalles en este [archivo](/src/PixieCursors/Docs/LazZiyaImageResize%20%2B.txt).</sup>
-
-* [Noto Music](https://fonts.google.com/noto/specimen/Noto+Music) bajo [SIL Open Font License](/src/PixieCursors/Docs/Noto%20Music/OFL.txt).
-
 **Puedes encontrar todas las licencias [aquí](/src/PixieCursors/Docs).*
-
-## ¿Qué es lo nuevo?
-`Versión 1.1.0` al abrir una imagen menor a 32px que no es cuadrada, ya no se ve borrosa.
-
-`Versión 1.4.1` herramienta borrador arreglada, no funcionaba. Se ha mejorado el mensaje que se muestra al abrir una imagen cuando ya hay otra abierta.
-
-`Versión 1.5.2` se arregló un pequeño problema al dar doble clic al Selector de Color. El mensaje para crear un nuevo archivo al abrir otra imagen se ha mejorado, ahora también se muestra cuando hay un diseño de cursor en el canvas.
-
-En cuanto a un problema con la compatibilidad con Windows 10 (no se abre), se compilará en esa versión para arreglarlo.
-
-`Versión 1.5.4` se solucionó el problema de que Pixie Cursors no se ejecutaba usando el instalador. Esto debido a que la ruta del archivo **Config.ini** era incorrecta cuando se intentaba obtener desde AppData.
 
 ## Licencia
 **MIT License**
