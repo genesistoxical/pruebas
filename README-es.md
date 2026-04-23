@@ -26,25 +26,20 @@
 <a href="#"><img src="docs/assets/Droplet-Screenmate.png"/></a>
 
 ## Uso
-El uso es muy sencillo, ya que es un editor como cualquier otro. Si tienes duda sobre una herramienta o botón, deja tu cursor encima de (sin dar clic) para obtener información.
+Lo único que debes hacer es ejecutar Droplet Screenmate.exe ¡y listo! Aparecerá tu mascota caminando sobre tu barra de tareas, no solo eso, también se detiene, se sienta e incluso basta con que lo arrastres y lo sueltes para cambiarlo de lugar. De hecho, también tiene una animación especial cuando lo estás arrastrando.
 
-- Abre una imagen ![Open](docs/assets/buttons/Open.png) (debe ser en formato png). Los márgenes con pixeles vacíos se recortarán automáticamente.
-- Comienza a crear la flechita; utiliza el pincel, selector de color y tu creatividad. Al seleccionar el pincel, puedes borrar con clic derecho también.
-- Una vez terminado, podrías agregar sombra ![Shadow](docs/assets/buttons/Shadow.png). Suele agregarse bastante sombreado a la flechita así que puedes perfeccionarla borrando un poco.
-- Selecciona ![Hotspot](docs/assets/buttons/_Hotspot.png) de la barra de herramientas para elegir en dónde quieres que haga clic tu cursor, como por ejemplo, la punta de la flechita. Haz clic para dejar el circulito en el lugar que desees.
-- Presiona el botón de guardar ![Save](docs/assets/buttons/Save.png), ponle un nombre y ya lo habrás terminado. Ahora vamos a instalarlo...
+Dirígete al icono que está en tu bandeja, dale click derecho: 
 
-**Instalación:**
-- Abre tu carpeta de cursores con el botón ![CursorsFolder](docs/assets/buttons/CursorsFolder.png) y mueve ahí el cursor que acabas de crear.
-- Da clic en ![MouseProperties](docs/assets/buttons/MouseProperties.png) el cual es solo un acceso directo a las Propiedades del Mouse de Windows.
-- En la ventanita que se abrirá, dirígete a punteros, clic en **Selección normal** y `Examinar` para elegir uno diferente. Entra a la carpeta de **- Pixie Cursors -** y selecciona tu cursor. Puedes hacer lo mismo con el cursor de link o manita.
-- Presiona `Guardar como…`, ponle un nombre y `Aceptar`.
-- Desactiva la casilla de **Habilitar sombra en el puntero** para que no se ponga doble sombra, da en `Aceptar` ¡Y listo, disfruta tu cursor!
+**Options** abrirá la ventanita de Opciones de la mascota:
+* En el apartado de _Skin_, solo despliega, elige uno y da click en OK. ¡Eso es todo!
+* Para cambiar qué tan rápido camina y qué tan largos da los pasos, ve al apartado de _Config_: entre más alto esté el valor de Velocity, más rápido irá. Step Size es lo largo que da sus pasitos, entre menos valor, más cortos los pasos. Puedes usar estas combinaciones al crear tu skin personalizado, dependiendo si se arrastra, si salta, etc.
 
-**Otras herramientas:**
-- Si está activado **Cortar Margen Vacío** al momento de abrir una imagen, este va a recortarse para otener el mejor tamaño del cursor.
-- Oprime `Shift` al usar el pixel para hacer una línea.
-- Oprime `Ctrl` al usar el bote de pintura o **Rellenar** para pintar todos los pixeles del mismo color.
+**Run at Startup**: Actívala para que se inicie al momento que enciendes tu PC, puedes desactivarla también cuando desees. IMPORTANTE; una vez que actives esta opción, si vuelves a mover la carpeta de Droplet Screenmate de lugar, ya no se iniciará con tu PC aunque se marque como activa... únicamente debes desactivarla y activarla nuevamente.
+
+**About**: Licencia MIT, créditos y enlace al respositorio.
+
+**Exit**: Cerrar la aplicación. Sin embargo, al momento de que vuelvas a abrirla nuevamente, tu configuración y skin serán mismos que antes, ya que todo se guarda en archivos Config.ini
+
 
 <br>
 <a href="#"><img src="docs/assets/Pixie-Cursors-Usage.gif"/></a>

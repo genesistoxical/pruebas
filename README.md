@@ -26,25 +26,21 @@
 <a href="#"><img src="docs/assets/Droplet-Screenmate.png"/></a>
 
 ## Usage
-It's very easy to use, as it's an editor like any other. If you have questions about a tool or button, hover over it (without clicking) to get information.
+All you have to do is run Droplet Screenmate.exe and you're done! Your pet will appear walking on your taskbar. Not only that, it also stops, sits, and you can even drag and drop it to change its position. In fact, it also has a special animation when you're dragging it.
 
-- Open an image ![Open](docs/assets/buttons/Open.png) (it must be in PNG format). The margins with empty pixels will be automatically cropped.
-- Start creating the arrow; use the brush, colorpicker and your creativity. Once you select the brush, you can also erase with a right-click.
-- Once finished, you can add a shadow ![Shadow](docs/assets/buttons/Shadow.png). A lot of shading is usually added to the arrow so you can refine it by erasing a bit.
-- Select ![Hotspot](docs/assets/buttons/Hotspot.png) from toolbar to choose where you want your cursor to click, such as the arrowhead. Click to place the circle where you want it.
-- Press the save button ![Save](docs/assets/buttons/Save.png), put it a name, and you're done. Now let's install it...
+Go to the icon in your system tray and right-click it:
 
-**Installation:**
-- Open your cursors folder with the ![CursorsFolder](docs/assets/buttons/CursorsFolder.png) button and move the cursor you just created there.
-- Click ![MouseProperties](docs/assets/buttons/MouseProperties.png), which is just a shortcut to the Windows Mouse Properties.
-- In the window that opens, go to **Pointers**, click **Normal Selection** and `Browse` to choose a different one. Go to **- Pixie Cursors -** folder and select your cursor. You can do the same with the link or hand cursor.
-- Press `Save As...`, put it a name and `OK`.
-- Uncheck the **Enable Drop Shadow** box to avoid a double shadow, click `OK` and that's it! Enjoy your cursor!
+**Options** will open the Pet Options window:
 
-**Other tools:**
-- If **Crop Empty Margin** is enabled when opening an image, it will be cropped to get the best cursor size.
-- Hold `Shift` when using brush to draw a line.
-- Press `Ctrl` when using paint bucket or **Fill** to paint all pixels the same color.
+* In the _Skin_ section, just expand the dropdown menu, choose one, and click OK. That's it!
+
+* To change how fast it walks and how long its strides are, go to the _Config_ section: the higher the Velocity value, the faster it will go. Step Size is how long its steps are; the lower the value, the shorter the steps. You can use these combinations when creating your custom skin, depending on whether it crawls, jumps, etc.
+
+**Run at Startup**: Enable this option to launch the application when you turn on your PC. You can also disable it at any time. IMPORTANT: Once you enable this option, if you move the Droplet Screenmate folder, it will no longer launch with your PC, even if it's marked as active. You'll simply need to disable and then re-enable it.
+
+**About**: MIT license, credits, and repository link.
+
+**Exit**: Close the application. However, when you reopen it, your settings and skin will be the same as before, since everything is saved in Config.ini files.
 
 <br>
 <a href="#"><img src="docs/assets/Pixie-Cursors-Usage.gif"/></a>
