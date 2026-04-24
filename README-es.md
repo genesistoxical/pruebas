@@ -23,7 +23,7 @@
 * Puedes crear tu propio skin usando las plantillas (PNG y editables).
 
 ## Preview
-<a href="#"><img src="assets/Droplet-Screenmate.png"/></a>
+<a href="#"><img src="docs/assets/Droplet-Screenmate.png"/></a>
 
 ## Uso
 Lo único que debes hacer es ejecutar Droplet Screenmate.exe ¡y listo! Aparecerá tu mascota caminando sobre tu barra de tareas, no solo eso, también se detiene, se sienta e incluso basta con que lo arrastres y lo sueltes para cambiarlo de lugar. De hecho, también tiene una animación especial cuando lo estás arrastrando.

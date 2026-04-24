@@ -10,7 +10,7 @@ Droplet Screenmate, a pet running on your desktop.
 * You can create your own skin using the templates (PNG and editable).
 
 ## Preview
-<picture><img alt="Pixie Cursors create cursors app" src="Droplet-Screenmate.png"/></picture>
+<picture><img alt="Pixie Cursors create cursors app" src="assets/Droplet-Screenmate.png"/></picture>
 
 ## Usage
 It's very easy to use, as it's an editor like any other. If you have questions about a tool or button, hover over it (without clicking) to get information.

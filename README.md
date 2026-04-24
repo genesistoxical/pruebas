@@ -23,7 +23,7 @@
 * You can create your own skin using the templates (PNG and editable).
 
 ## Preview
-<a href="#"><img src="assets/Droplet-Screenmate.png"/></a>
+<a href="#"><img src="docs/assets/Droplet-Screenmate.png"/></a>
 
 ## Usage
 All you have to do is run Droplet Screenmate.exe and you're done! Your pet will appear walking on your taskbar. Not only that, it also stops, sits, and you can even drag and drop it to change its position. In fact, it also has a special animation when you're dragging it.
