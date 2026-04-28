@@ -26,21 +26,21 @@
 <a href="#"><img src="docs/assets/Droplet-Screenmate.png"/></a>
 
 ## Usage
-All you have to do is run Droplet Screenmate.exe and you're done! Your pet will appear walking on your taskbar. Not only that, it also stops, sits, and you can even drag and drop it to change its position. In fact, it also has a special animation when you're dragging it.
+All you have to do is run **Droplet Screenmate.exe** and you're done! Your pet will appear walking on your taskbar. Not only that, it also stops, sits, and you can even drag and drop it to change its position. In fact, it also has a special animation when you're dragging it.
 
 Go to the icon in your system tray and right-click it:
 
-**Options** will open the Pet Options window:
+**Options** will open the pet options window:
 
 * In the _Skin_ section, just expand the dropdown menu, choose one, and click OK. That's it!
 
-* To change how fast it walks and how long its strides are, go to the _Config_ section: the higher the Velocity value, the faster it will go. Step Size is how long its steps are; the lower the value, the shorter the steps. You can use these combinations when creating your custom skin, depending on whether it crawls, jumps, etc.
+* To change how fast it walks and how long its strides are, go to the _Config_ section: the higher the Velocity value, the faster it will go. _Step Size_ is how long its steps are; the lower the value, the shorter the steps. You can use these combinations when creating your custom skin, depending on whether it crawls, jumps, etc.
 
-**Run at Startup**: Enable this option to launch the application when you turn on your PC. You can also disable it at any time. IMPORTANT: Once you enable this option, if you move the Droplet Screenmate folder, it will no longer launch with your PC, even if it's marked as active. You'll simply need to disable and then re-enable it.
+**Run at Startup**: Enable this option to launch the application when you turn on your PC. You can also disable it at any time. IMPORTANT: Once you enable this option, if you move the **Droplet Screenmate** folder, it will no longer launch with your PC, even if it's marked as active. You'll simply need to disable and then re-enable it.
 
 **About**: MIT license, credits, and repository link.
 
-**Exit**: Close the application. However, when you reopen it, your settings and skin will be the same as before, since everything is saved in Config.ini files.
+**Exit**: Close the application. However, when you reopen it, your settings and skin will be the same as before, since everything is saved in _Config.ini_ files.
 
 <br>
 <a href="#"><img src="docs/assets/Pixie-Cursors-Usage.gif"/></a>
@@ -55,14 +55,14 @@ Go to the icon in your system tray and right-click it:
 * Due to the simplicity and optimization required in this application, no translations will be made.
   
 ## Config
-`Config.ini` file stores skin info.
+Primary `Config.ini` file stores which skin was last used.
 
 ~~~
 [Options]
 Skin = Mushroom
 ~~~
 
-El archivo `Config.ini` del skin almacena su propia configuración.
+Skin's `Config.ini` file stores its own configuration.
 
 ~~~
 [Config]
@@ -70,23 +70,12 @@ Velocity = 0.2
 Step size = 12
 ~~~
 
-## Credits
-Pixie Cursors is based on [PixelArtTool](https://github.com/unitycoder/PixelArtTool) under [MIT license](https://github.com/unitycoder/PixelArtTool/blob/master/LICENSE).
-
-*You can find all licenses [here](/src/PixieCursors/Docs).*
-
 ## License
 **MIT License**
 
-Copyright (c) 2025 Génesis Toxical ([read here](LICENSE)).
+Copyright (c) 2026 Génesis Toxical ([read here](LICENSE)).
 
 <br>
 
 ## Related:
-`❤️ Crystal Folders` Customize your folder icons in a few seconds: [`Download`](https://genesistoxical.github.io/crystal-folders/) or [`Repository`](https://github.com/genesistoxical/crystal-folders).
-
-`❤️ Custom Folder` Create your own custom icon folder: [`genesistoxical.github.io/customfolder`](https://genesistoxical.github.io/customfolder/) or [`Repository`](https://github.com/genesistoxical/customfolder).
-
-`❤️ Drop Icons` Utility to convert images to icons (.ico) for Windows: [`Download`](https://genesistoxical.github.io/drop-icons/) or [`Repository`](https://github.com/genesistoxical/drop-icons/).
-
-`❤️ Image to Icon` Convert image to icon online: [`genesistoxical.github.io/imagetoicon`](https://genesistoxical.github.io/imagetoicon/) or [`Repository`](https://github.com/genesistoxical/imagetoicon).
+`❤️ Q'zero Cursor` Black cursor with danger style: [`Download`](https://genesistoxical.github.io/qzero-cursor/) o [`Repository`](https://github.com/genesistoxical/qzero-cursor).
