@@ -26,19 +26,26 @@
 <a href="#"><img src="docs/assets/Droplet-Screenmate.png"/></a>
 
 ## Uso
-Lo único que debes hacer es ejecutar **Droplet Screenmate.exe** ¡y listo! Aparecerá tu mascota caminando sobre tu barra de tareas, no solo eso, también se detiene, se sienta e incluso basta con que lo arrastres y lo sueltes para cambiarlo de lugar. De hecho, también tiene una animación especial cuando lo estás arrastrando.
+Lo único que debes hacer es ejecutar **Droplet Screenmate.exe**. ¡Y listo! Aparecerá tu mascota caminando sobre tu barra de tareas, no solo eso, también se detiene, se sienta e incluso basta con que lo arrastres y lo sueltes para cambiarlo de lugar. De hecho, también tiene una animación especial cuando lo estás arrastrando.
+
+<br>
 
 Dirígete al icono que está en tu bandeja, dale click derecho: 
 
-**Options** abrirá la ventanita de Opciones de la mascota:
-* En el apartado de _Skin_, solo despliega, elige uno y da click en OK. ¡Eso es todo!
-* Para cambiar qué tan rápido camina y qué tan largos da los pasos, ve al apartado de _Config_: entre más alto esté el valor de Velocity, más rápido irá. _Step Size_ es lo largo que da sus pasitos, entre menos valor, más cortos los pasos. Puedes usar estas combinaciones al crear tu skin personalizado, dependiendo si se arrastra, si salta, etc.
+**Options** abrirá la ventanita de opciones de la mascota:
 
-**Run at Startup**: Actívala para que se inicie al momento que enciendes tu PC, puedes desactivarla también cuando desees. IMPORTANTE; una vez que actives esta opción, si vuelves a mover la carpeta de **Droplet Screenmate** de lugar, ya no se iniciará con tu PC aunque se marque como activa... únicamente debes desactivarla y activarla nuevamente.
+* En el apartado de _Skin_, solo despliega, elige uno y da click en OK. ¡Eso es todo!
+* Para cambiar qué tan rápido camina y qué tan largos da los pasos, ve al apartado de _Config_:
+  * _Velocity_: Entre mayor sea el valor, más rápido se moverá.
+  * _Step Size_ Entre menor sea el valor, más cortos serán los pasos.
+
+  Puedes usar estas combinaciones al crear tu skin personalizado, dependiendo si se arrastra, si salta, etc.
+
+**Run at Startup**: Actívala para que se inicie al momento que enciendes tu PC, puedes desactivarla también cuando desees. IMPORTANTE; una vez que actives esta opción, si vuelves a mover la carpeta de **Droplet Screenmate** de lugar ya no se iniciará con tu PC, aunque tenga el check. Únicamente debes desactivarla y activarla nuevamente.
 
 **About**: Licencia MIT, créditos y enlace al respositorio.
 
-**Exit**: Cerrar la aplicación. Sin embargo, al momento de que vuelvas a abrirla nuevamente, tu configuración y skin serán mismos que antes, ya que todo se guarda en archivos _Config.ini_
+**Exit**: Cierra la aplicación. Sin embargo, cuando vuelvas a abrirla nuevamente, tu configuración y skin seguirán siendo los mismos ya que todo se guarda en archivos _Config.ini_
 
 
 <br>
