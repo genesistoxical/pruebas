@@ -2,12 +2,12 @@ Droplet Screenmate, a pet running on your desktop.
 
 ## Features
 * Your pet detects the taskbar and walks over it.
-* You can drag and drop it anywhere else on your desktop.
+* You can drag and drop it anywhere on your desktop.
 * Different animations for walking, stopping, sitting, and dragging.
 * Choose from 8 default skins.
 * Options to change its walking speed.
-* Option to start when you turn on your PC.
-* You can create your own skin using the templates (PNG and editable).
+* Option to start automatically when you turn on your PC.
+* Create your own skin using the templates (PNG and editable).
 
 ## Preview
 <picture><img alt="Pixie Cursors create cursors app" src="assets/Droplet-Screenmate.png"/></picture>

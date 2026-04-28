@@ -2,12 +2,12 @@ Droplet Screenmate, una mascota corriendo por tu escritorio.
 
 ## Características
 * Tu mascota detecta la barra de tareas y camina por encima de ella.
-* Puedes arrastrarlo y soltarlo en cualquier otra parte de tu escritorio.
+* Puedes arrastrarlo y soltarlo en cualquier parte de tu escritorio.
 * Animaciones diferentes al caminar, detenerse, sentarse y arrastrar.
 * Elige entre los 8 skins por defecto.
 * Opciones para cambiar la velocidad en la que camina.
-* Opción de iniciar al encender tu PC.
-* Puedes crear tu propio skin usando las plantillas (PNG y editables).
+* Opción de iniciar automáticamente al encender tu PC.
+* Crea tu propio skin usando las plantillas (PNG y editables).
 
 ## Previa
 <picture><img alt="Pixie Cursors crear cursores app" src="assets/Droplet-Screenmate.png"/></picture>
