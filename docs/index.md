@@ -13,25 +13,21 @@ Droplet Screenmate, a pet running on your desktop.
 <picture><img alt="Pixie Cursors create cursors app" src="assets/Droplet-Screenmate.png"/></picture>
 
 ## Usage
-It's very easy to use, as it's an editor like any other. If you have questions about a tool or button, hover over it (without clicking) to get information.
+All you have to do is run **Droplet Screenmate.exe** and you're done! Your pet will appear walking on your taskbar. Not only that, it also stops, sits, and you can even drag and drop it to change its position. In fact, it also has a special animation when you're dragging it.
 
-- Open an image ![Open](assets/buttons/Open.png) (it must be in PNG format). The margins with empty pixels will be automatically cropped.
-- Start creating the arrow; use the brush, colorpicker and your creativity. Once you select the brush, you can also erase with a right-click.
-- Once finished, you can add a shadow ![Shadow](assets/buttons/Shadow.png). A lot of shading is usually added to the arrow so you can refine it by erasing a bit.
-- Select ![Hotspot](assets/buttons/Hotspot.png) from toolbar to choose where you want your cursor to click, such as the arrowhead. Click to place the circle where you want it.
-- Press the save button ![Save](assets/buttons/Save.png), put it a name, and you're done. Now let's install it...
+Go to the icon in your system tray and right-click it:
 
-**Installation:**
-- Open your cursors folder with the ![CursorsFolder](assets/buttons/CursorsFolder.png) button and move the cursor you just created there.
-- Click ![MouseProperties](assets/buttons/MouseProperties.png), which is just a shortcut to the Windows Mouse Properties.
-- In the window that opens, go to **Pointers**, click **Normal Selection** and `Browse` to choose a different one. Go to **- Pixie Cursors -** folder and select your cursor. You can do the same with the link or hand cursor.
-- Press `Save As...`, put it a name and `OK`.
-- Uncheck the **Enable Drop Shadow** box to avoid a double shadow, click `OK` and that's it! Enjoy your cursor!
+**Options** will open the pet options window:
 
-**Other tools:**
-- If **Crop Empty Margin** is enabled when opening an image, it will be cropped to get the best cursor size.
-- Hold `Shift` when using brush to draw a line.
-- Press `Ctrl` when using paint bucket or **Fill** to paint all pixels the same color.
+* In the _Skin_ section, just expand the dropdown menu, choose one, and click OK. That's it!
+
+* To change how fast it walks and how long its strides are, go to the _Config_ section: the higher the Velocity value, the faster it will go. _Step Size_ is how long its steps are; the lower the value, the shorter the steps. You can use these combinations when creating your custom skin, depending on whether it crawls, jumps, etc.
+
+**Run at Startup**: Enable this option to launch the application when you turn on your PC. You can also disable it at any time. IMPORTANT: Once you enable this option, if you move the **Droplet Screenmate** folder, it will no longer launch with your PC, even if it's marked as active. You'll simply need to disable and then re-enable it.
+
+**About**: MIT license, credits, and repository link.
+
+**Exit**: Close the application. However, when you reopen it, your settings and skin will be the same as before, since everything is saved in _Config.ini_ files.
 
 <br>
 
@@ -39,18 +35,10 @@ It's very easy to use, as it's an editor like any other. If you have questions a
 
 <br>
 
-By clicking on ![Info](assets/buttons/Info.png), a new window will appear in which you can:
-
-- **Change language:** In the **Language** section below, click on the little arrows icon to change between English or Español. Finally click on the return button to apply and see changes.
-     
-- **Third-party content:** On the left side are the names of each library, project, icons or fonts that were used, click one to read its license and author(s), as well as a short description. You can click on the clip icon to go to each repository/official site and change pages with **Next 🢖🢖** or **🢔🢔 Back**.
-
 ## Info
 * This software is under **MIT License** ([read full text](https://github.com/genesistoxical/pixie-cursors/blob/master/LICENSE){:target="_blank"}).
-* `❤️ Custom Folder` Create your own custom icon folder: [`genesistoxical.github.io/customfolder`](https://genesistoxical.github.io/customfolder/){:target="_blank"}.
-* `❤️ Image to Icon` Convert image to icon online: [`genesistoxical.github.io/imagetoicon`](https://genesistoxical.github.io/imagetoicon/){:target="_blank"}.
-* `❤️ Crystal Folders` Customize your folder icons in a few seconds: [`Download`](https://genesistoxical.github.io/crystal-folders/){:target="_blank"}.
-* Copyright (c) 2025 Génesis Toxical.
+* `❤️ Q'zero Cursor` Black cursor with danger style: [`Download`](https://genesistoxical.github.io/qzero-cursor/){:target="_blank"}.
+* Copyright (c) 2026 Génesis Toxical.
 
 <br>
 <style>
