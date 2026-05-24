@@ -37,7 +37,7 @@ Dirígete al icono que está en tu bandeja, dale click derecho:
 
 <br>
 
-<picture><img src="assets/Pixie-Cursors-Usage.gif"/></picture>
+<picture><img src="assets/Droplet-Screenmate.gif"/></picture>
 
 <br>
 

@@ -49,7 +49,7 @@ Dirígete al icono que está en tu bandeja, dale click derecho:
 
 
 <br>
-<a href="#"><img src="docs/assets/Pixie-Cursors-Usage.gif"/></a>
+<a href="#"><img src="docs/assets/Droplet-Screenmate.gif"/></a>
 
 <br></br>
 

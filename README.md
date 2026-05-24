@@ -48,7 +48,7 @@ Go to the icon in your system tray and right-click it:
 **Exit**: Close the application. However, when you open it again, your settings and skin will remain the same since everything is saved in _Config.ini_ files.
 
 <br>
-<a href="#"><img src="docs/assets/Pixie-Cursors-Usage.gif"/></a>
+<a href="#"><img src="docs/assets/Droplet-Screenmate.gif"/></a>
 
 <br></br>
 

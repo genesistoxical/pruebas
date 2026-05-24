@@ -36,7 +36,7 @@ Go to the icon in your system tray and right-click it:
 
 <br>
 
-<picture><img src="assets/Pixie-Cursors-Usage.gif"/></picture>
+<picture><img src="assets/Droplet-Screenmate.gif"/></picture>
 
 <br>
 
