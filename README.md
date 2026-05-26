@@ -50,15 +50,23 @@ Go to the icon in your system tray and right-click it:
 <br>
 <a href="#"><img src="docs/assets/Droplet-Screenmate.gif"/></a>
 
+## Create your own pet
+
+It's very simple, you just need to edit or create 5 images. Download and unzip the template ZIP file; you'll find some folders called:
+* Default - **PNG**, **SVG**, **PSD** y **AF** (Affinity).
+* Outline - **PNG**, **SVG** y **PSD**
+* Empty -  **PNG**
+
+_Default_ is ready to be decorated, _Outline_ is just the border and _Empty_ is for creating any pet design. Choose the style and format you need to start editing.
+
+Once you've edited **drag**, **idle**, **idleAlt**, **walk-1**, and **walk-2**, you'll need to save each one as a **PNG** file (without renaming them) in a new folder, for example _"My Pet"_. Then, copy the **Config.ini** file and paste it into the folder you just created.
+
+You can edit your new skin's settings in the app, and the changes will be saved automatically. Remember that you can share your skin with anyone once you're finished.
+
+<a href="#"><img src="docs/assets/Template.png"/></a>
+
 <br></br>
 
-## Contributing
-* If you make comments in the code, preferably in Spanish, please.
-* Variable names must be in English.
-* If you open an **Issue**, it can be in English o Spanish.
-* **Pull request** in English, in the description you can add details in English or Spanish.
-* Due to the simplicity and optimization required in this application, no translations will be made.
-  
 ## Config
 Primary `Config.ini` file stores which skin was last used.
 
@@ -74,6 +82,13 @@ Skin's `Config.ini` file stores its own configuration.
 Velocity = 0.2
 Step size = 12
 ~~~
+
+## Contributing
+* If you make comments in the code, preferably in Spanish, please.
+* Variable names must be in English.
+* If you open an **Issue**, it can be in English o Spanish.
+* **Pull request** in English, in the description you can add details in English or Spanish.
+* Due to the simplicity and optimization required in this application, no translations will be made.
 
 ## License
 **MIT License**
