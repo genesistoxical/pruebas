@@ -51,15 +51,21 @@ Dirígete al icono que está en tu bandeja, dale click derecho:
 <br>
 <a href="#"><img src="docs/assets/Droplet-Screenmate.gif"/></a>
 
+## Crear tu propia mascota
+
+Es muy fácil, solo deberás editar o crear 5 imágenes. Descarga la plantilla y descomprime el archivo ZIP, encontrarás algunas carpetas llamadas:
+* Default - **PNG**, **SVG**, **PSD** y **AF** (Affinity).
+* Outline - **PNG, **SVG** y **PSD**
+* Empty -  PNG
+
+_Default_ está listo para ser decorado, _Outline_ es solamente el borde y _Empty_ es para crear cualquier diseño de mascota. Elige el estilo y formato que requieras para empezar a editarlas.
+
+Una vez que hayas editado **drag**, **idle**, **idleAlt**, **walk-1** y **walk-2**, deberás guardar cada una en formato **PNG** (sin reenombrarlas) dentro de una nueva carpeta, por ejemplo _"Mi mascota"_. Posteriormente copia el archivo **Config.ini** y pégalo dentro esa carpeta que acabas de crear.
+
+La configuración de tu nuevo skin la puedes editar en la aplicación y los cambios se van a guardar automáticamente. Recuerda que puedes compartir tu skin con cualquier persona una vez lo hayas terminado.
+
 <br></br>
 
-## Contribuciones
-* Si haces comentarios en el código, preferiblemente en Español, por favor.
-* Los nombres de las variables deben estar en Inglés.
-* Si abres un **Issue**, puede ser en Inglés o Español.
-* **Pull request** en Inglés, en la descripción puedes agregar detalles en Inglés o Español.
-* Debido a la simplicidad y optimización que se requiere en esta aplicación, no se harán traducciones.
-  
 ## Configuración
 El archivo `Config.ini`primario, almacena qué skin se utilizó por última vez.
 
@@ -75,6 +81,13 @@ El archivo `Config.ini` del skin almacena su propia configuración.
 Velocity = 0.2
 Step size = 12
 ~~~
+
+## Contribuciones
+* Si haces comentarios en el código, preferiblemente en Español, por favor.
+* Los nombres de las variables deben estar en Inglés.
+* Si abres un **Issue**, puede ser en Inglés o Español.
+* **Pull request** en Inglés, en la descripción puedes agregar detalles en Inglés o Español.
+* Debido a la simplicidad y optimización que se requiere en esta aplicación, no se harán traducciones.
 
 ## Licencia
 **MIT License**
