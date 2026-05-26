@@ -40,7 +40,7 @@ Go to the icon in your system tray and right-click it:
 
 ## Create your own pet
 
-It's very simple, you just need to edit or create 5 images. Download and unzip the template ZIP file; you'll find some folders called:
+It's very simple, you just need to edit or create 5 images. Download and unzip the template ZIP file, you'll find some folders called:
 * Default - **PNG**, **SVG**, **PSD** y **AF** (Affinity).
 * Outline - **PNG**, **SVG** y **PSD**
 * Empty -  **PNG**
