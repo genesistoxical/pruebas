@@ -47,7 +47,6 @@ Dirígete al icono que está en tu bandeja, dale click derecho:
 
 **Exit**: Cierra la aplicación. Sin embargo, cuando vuelvas a abrirla nuevamente, tu configuración y skin seguirán siendo los mismos ya que todo se guarda en archivos _Config.ini_
 
-
 <br>
 <a href="#"><img src="docs/assets/Droplet-Screenmate.gif"/></a>
 
