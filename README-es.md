@@ -55,14 +55,15 @@ Dirígete al icono que está en tu bandeja, dale click derecho:
 
 Es muy fácil, solo deberás editar o crear 5 imágenes. Descarga la plantilla y descomprime el archivo ZIP, encontrarás algunas carpetas llamadas:
 * Default - **PNG**, **SVG**, **PSD** y **AF** (Affinity).
-* Outline - **PNG, **SVG** y **PSD**
-* Empty -  PNG
+* Outline - **PNG**, **SVG** y **PSD**
 
-_Default_ está listo para ser decorado, _Outline_ es solamente el borde y _Empty_ es para crear cualquier diseño de mascota. Elige el estilo y formato que requieras para empezar a editarlas.
+_Default_ está listo para ser decorado y _Outline_ es solamente el borde con ojitos. Elige el estilo y formato que requieras para empezar a editarlas; incluso puedes crear cualquier diseño de mascota siempre y cuando las dimensiones sean de 128 ⨯ 128 px.
 
 Una vez que hayas editado **drag**, **idle**, **idleAlt**, **walk-1** y **walk-2**, deberás guardar cada una en formato **PNG** (sin reenombrarlas) dentro de una nueva carpeta, por ejemplo _"Mi mascota"_. Posteriormente copia el archivo **Config.ini** y pégalo dentro esa carpeta que acabas de crear.
 
 La configuración de tu nuevo skin la puedes editar en la aplicación y los cambios se van a guardar automáticamente. Recuerda que puedes compartir tu skin con cualquier persona una vez lo hayas terminado.
+
+<a href="#"><img src="docs/assets/Template.png"/></a>
 
 <br></br>
 
