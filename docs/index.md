@@ -63,6 +63,6 @@ You can edit your new skin settings in the app and the changes will be saved aut
 <br>
 <style>
     h2.project-tagline:before {content: "A pet running on your desktop";}
-    a.btn:nth-child(3):after {content: "ownload Base";}
+    a.btn:nth-child(3):after {content: "ownload Template";}
     a.btn:nth-child(4):after {content: "ownload App";}
 </style>
