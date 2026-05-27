@@ -23,8 +23,8 @@ Go to the icon in your system tray and right-click it:
 
 * In the _Skin_ section, just open the dropdown menu, choose one and click OK. That's it!
 * To change how fast it walks and how long its strides are, go to _Config_ section:
-  * _Velocity_: The higher the value, the faster it moves.
-  * _Step Size_: The lower the value, the shorter the steps.
+  * **Velocity**: The higher the value, the faster it moves.
+  * **Step Size**: The lower the value, the shorter the steps.
   
   You can use different combinations when creating your own custom skin, depending on whether it crawls, jumps, etc.
 
@@ -41,13 +41,12 @@ Go to the icon in your system tray and right-click it:
 ## Create your own pet
 
 It's very simple, you just need to edit or create 5 images. Download and unzip the template ZIP file, you'll find some folders called:
-* Default - **PNG**, **SVG**, **PSD** y **AF** (Affinity).
-* Outline - **PNG**, **SVG** y **PSD**
-* Empty -  **PNG**
+* Default - PNG, SVG, PSD y AF (Affinity).
+* Outline - PNG, SVG y PSD
 
 _Default_ is ready to be decorated and _Outline_ is just the border with eyes. Choose the style and format you need to start editing; you can even create any pet design as long as the dimensions are 128 ⨯ 128 px.
 
-Once you've edited **drag**, **idle**, **idleAlt**, **walk-1** and **walk-2**, you'll need to save each one as **PNG** (without renaming them) in a new folder, for example _"My Pet"_. Then copy **Config.ini** file and paste it into the folder you just created.
+Once you've edited **drag**, **idle**, **idleAlt**, **walk-1** and **walk-2**, you'll need to save each one as PNG (without renaming them) in a new folder, for example "My Pet". Then copy **Config.ini** file and paste it into the folder you just created.
 
 You can edit your new skin settings in the app and the changes will be saved automatically. Remember that you can share your skin with anyone once you're finished.
 
