@@ -55,12 +55,6 @@ La configuración de tu nuevo skin la puedes editar en la aplicación y los camb
 
 <br>
 
-Dando click en ![Info](assets/buttons/Info.png), aparecerá una nueva ventana en la que puedes:
-
-- **Cambiar el idioma:** En la sección inferior **Idioma**, haz clic en el icono de las flechitas para cambiar entre English, Español o Deutsch. Por último da clic en el botón de regresar para aplicar y ver los cambios.
-
-- **Contenido de terceros:** En la parte izquierda están los nombres de cada librería, proyecto, iconos o tipografías que fueron utilizados, cliquea uno para leer su licencia y autor(a) o autores(as), además de una corta descripción. Puedes hacer clic sobre el icono de clip para ir al repositorio/sitio oficial de cada uno y cambiar de página con **Siguiente 🢖🢖** o **🢔🢔 Atrás**.
-
 ## Info
 * Este software se encuentra bajo **MIT License** ([leer texto completo](https://github.com/genesistoxical/pixie-cursors/blob/master/LICENSE){:target="_blank"}).
 * `❤️ Q'zero Cursor` Black cursor with danger style: [`Descarga`](https://genesistoxical.github.io/qzero-cursor/){:target="_blank"}.
