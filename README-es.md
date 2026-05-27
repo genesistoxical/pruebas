@@ -36,8 +36,8 @@ Dirígete al icono que está en tu bandeja, dale click derecho:
 
 * En el apartado de _Skin_, solo despliega, elige uno y da click en OK. ¡Eso es todo!
 * Para cambiar qué tan rápido camina y qué tan largos da los pasos, ve al apartado de _Config_:
-  * _Velocity_: Entre mayor sea el valor, más rápido se moverá.
-  * _Step Size_ Entre menor sea el valor, más cortos serán los pasos.
+  * **Velocity**: Entre mayor sea el valor, más rápido se moverá.
+  * **Step Size** Entre menor sea el valor, más cortos serán los pasos.
 
   Puedes usar estas combinaciones al crear tu skin personalizado, dependiendo si se arrastra, si salta, etc.
 
@@ -53,12 +53,12 @@ Dirígete al icono que está en tu bandeja, dale click derecho:
 ## Crear tu propia mascota
 
 Es muy fácil, solo deberás editar o crear 5 imágenes. Descarga la plantilla y descomprime el archivo ZIP, encontrarás algunas carpetas llamadas:
-* Default - **PNG**, **SVG**, **PSD** y **AF** (Affinity).
-* Outline - **PNG**, **SVG** y **PSD**
+* Default - PNG, SVG, PSD y AF (Affinity).
+* Outline - PNG, SVG y PSD
 
 _Default_ está listo para ser decorado y _Outline_ es solamente el borde con ojitos. Elige el estilo y formato que requieras para empezar a editarlas; incluso puedes crear cualquier diseño de mascota siempre y cuando las dimensiones sean de 128 ⨯ 128 px.
 
-Una vez que hayas editado **drag**, **idle**, **idleAlt**, **walk-1** y **walk-2**, deberás guardar cada una en formato **PNG** (sin reenombrarlas) dentro de una nueva carpeta, por ejemplo _"Mi mascota"_. Posteriormente copia el archivo **Config.ini** y pégalo dentro esa carpeta que acabas de crear.
+Una vez que hayas editado **drag**, **idle**, **idleAlt**, **walk-1** y **walk-2**, deberás guardar cada una en formato PNG (sin reenombrarlas) dentro de una nueva carpeta, por ejemplo "Mi mascota". Posteriormente copia el archivo **Config.ini** y pégalo dentro esa carpeta que acabas de crear.
 
 La configuración de tu nuevo skin la puedes editar en la aplicación y los cambios se van a guardar automáticamente. Recuerda que puedes compartir tu skin con cualquier persona una vez lo hayas terminado.
 
