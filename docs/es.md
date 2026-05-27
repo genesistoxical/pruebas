@@ -62,6 +62,6 @@ La configuración de tu nuevo skin la puedes editar en la aplicación y los camb
 <br>
 <style>
     h2.project-tagline:before {content: "Una mascota corriendo por tu escritorio";}
-    a.btn:nth-child(3):after {content: "escargar Base";}
+    a.btn:nth-child(3):after {content: "escargar Plantilla";}
     a.btn:nth-child(4):after {content: "escargar App";}
 </style>
