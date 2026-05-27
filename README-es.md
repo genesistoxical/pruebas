@@ -37,7 +37,7 @@ Dirígete al icono que está en tu bandeja, dale click derecho:
 * En el apartado de _Skin_, solo despliega, elige uno y da click en OK. ¡Eso es todo!
 * Para cambiar qué tan rápido camina y qué tan largos da los pasos, ve al apartado de _Config_:
   * **Velocity**: Entre mayor sea el valor, más rápido se moverá.
-  * **Step Size** Entre menor sea el valor, más cortos serán los pasos.
+  * **Step Size**: Entre menor sea el valor, más cortos serán los pasos.
 
   Puedes usar estas combinaciones al crear tu skin personalizado, dependiendo si se arrastra, si salta, etc.
 
