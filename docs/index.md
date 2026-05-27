@@ -45,8 +45,7 @@ It's very simple, you just need to edit or create 5 images. Download and unzip t
 * Outline - PNG, SVG y PSD
 
 _Default_ is ready to be decorated and _Outline_ is just the border with eyes. Choose the style and format you need to start editing; you can even create any pet design as long as the dimensions are
-
-128 ⨯ 128 px.
+<br>128 ⨯ 128 px.
 
 Once you've edited **drag**, **idle**, **idleAlt**, **walk-1** and **walk-2**, you'll need to save each one as PNG (without renaming them) in a new folder, for example "My Pet". Then copy `Config.ini` file and paste it into the folder you just created.
 
