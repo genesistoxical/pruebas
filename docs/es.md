@@ -1,67 +1,62 @@
-Droplet Screenmate, una mascota corriendo por tu escritorio.
+Drop Icons es una aplicación para convertir imágenes a iconos (.ico) para Windows, con una función simple de arrastrar y soltar.
+
+Lenguajes Compatibles
+
+<img/>‎<img width="21" height="15" alt="US" src="https://github.com/user-attachments/assets/b5e6447c-6845-4b8d-b3df-ee45bb465706"/>‎ ‎ ‎ <img width="21" height="15" alt="MX" src="https://github.com/user-attachments/assets/0bc0851a-228a-4df2-aa0d-ba2bdc4c7b18"/>‎ ‎ ‎ <img width="21" height="15" alt="CN" src="https://github.com/user-attachments/assets/64983f24-791e-4141-a256-032940058f65"/>‎ ‎ ‎ <img width="21" height="15" alt="DE" src="https://github.com/user-attachments/assets/c07cb917-60c3-4aed-88ae-82e223ea7c49"/>‎ ‎ ‎ <img width="21" height="15" alt="FR" src="https://github.com/user-attachments/assets/14a3b116-da55-40b6-9a78-71a75fa4de4a"/>
 
 ## Características
-* Tu mascota detecta la barra de tareas y camina por encima de ella.
-* Puedes arrastrarlo y soltarlo en cualquier parte de tu escritorio.
-* Animaciones diferentes al caminar, detenerse, sentarse y arrastrar.
-* Elige entre los 8 skins por defecto.
-* Opciones para cambiar la velocidad en la que camina.
-* Opción de iniciar automáticamente al encender tu PC.
-* Crea tu propio skin usando las plantillas (PNG y editables).
+* Interfaz limpia e intuitiva.
+* Convierte rápidamente muchas imágenes en iconos a la vez, con la función de arrastrar y soltar.
+* Compatibilidad con imágenes .png .jpg .jpeg .jfif .bmp .gif y .svg
+* Personaliza el color del tema.
+* Número de las imágenes a convertir, restando tres que se muestran como vista previa.
+* Guarda la configuración en un archivo .ini, excepto para los switches.
+* Guarda los iconos en la misma carpeta (por defecto) o en una específica.
+* Habilita y deshabilita Topmost.
+* Opciones de formato para elegir los tamaños incluidos dentro del icono, múltiple y 256 px. [𝐢](#details)
+* Evita la duplicación de una imagen que se ha añadido previamente.
+* Opción para generar un icono mini.
+* Esquinas adaptables (redondeadas o metro), dependiendo la versión del sistema operativo.
 
 ## Previa
-<picture><img alt="Pixie Cursors crear cursores app" src="assets/Droplet-Screenmate.png"/></picture>
+<picture><img alt="Drop Icons convertir imágenes a iconos" src="assets/Drop-Icons-App-v2.gif"/></picture>
 
 ## Uso
-Lo único que debes hacer es ejecutar **Droplet Screenmate.exe**. ¡Y listo! Aparecerá tu mascota caminando sobre tu barra de tareas, no solo eso, también se detiene, se sienta e incluso basta con que lo arrastres y lo sueltes para cambiarlo de lugar. De hecho, también tiene una animación especial cuando lo estás arrastrando.
+Arrastra y suelta tus imágenes en el espacio vacío, obtendrás una vista previa de tres imágenes excepto si solo arrastras una o dos. Más abajo puedes ver la cantidad total de imágenes a convertir, restando tres de la previa. Si no puedes arrastrar, cliquea en `Agregar`.
+
+Deja el primer switch activado si deseas guardarlos en la misma carpeta, si prefieres elegir una carpeta específica, desactívalo. También puedes generar un icono mini activando el segundo switch. Por último, haz clic en el botón `Convertir`, espera a que la interfaz se reinicie porque eso indica que ha finalizado y tus iconos están listos.
+
+Si necesitas eliminar las imágenes que agregaste por error, haz clic en el icono de las flechas. Recuerda que puedes arrastrar imágenes tantas veces como quieras antes de hacer clic en el botón `Convertir`.
+
+<br id="details"/>
+Dando click en el botón superior de Info, aparecerá una nueva ventana en la que puedes:
+
+- **Cambiar el tema:** Haz clic sobre `Cambiar Tema` para abrir el selector de color y elegir uno personalizado, cuando lo tengas da clic en Aplicar. Para regresar al color por defecto repite los pasos anteriores y presiona el botón morado debajo del selector de tono, finalmente haz clic en Aplicar.
+
+- **Cambiar el idioma:** En la sección inferior **Idioma**, haz clic en el icono de las flechitas para cambiar entre English, Español o Deutsch. Por último da clic en el botón de regresar para aplicar y ver los cambios.
+ 
+- **Formato:** Al hacer clic en `Formato` se desplegará un menú con dos opciones para elegir los tamaños que serán incluidos dentro del icono: **Múltiple** genera un icono de alta calidad que incluye todos los tamaños necesarios como 16, 32, 48, 64, 128 y 256 pixeles, aunque sus dimensiones mostrarán solo 16px. Las dos últimas opciones son **256 px** y **512 px**, las cuales generan un icono con solamente ese tamaño.
+     >Nota: Si el switch **Generar icono mini** está activado, se creará un icono pequeño independientemente de su formato.
+
+- **Contenido de terceros:** En la parte izquierda están los nombres de cada librería, proyecto, iconos o tipografías que fueron utilizados, cliquea uno para leer su licencia y autor(a) o autores(as), además de una corta descripción. Puedes hacer clic sobre el icono de clip para ir al repositorio/sitio oficial de cada uno y cambiar de página con **Siguiente 🢖🢖** o **🢔🢔 Atrás**.
 
 <br>
 
-Dirígete al icono que está en tu bandeja, dale click derecho: 
+Para elegir que Drop Icons esté encima de todas las ventanas (Topmost) o no, da clic derecho en cualquier lugar de la ventana principal y elige Habilitar Topmost o Deshabilitar Topmost.
 
-**Options** abrirá la ventanita de opciones de la mascota:
-
-* En el apartado de _Skin_, solo despliega, elige uno y da click en OK. ¡Eso es todo!
-* Para cambiar qué tan rápido camina y qué tan largos da los pasos, ve al apartado de _Config_:
-  * **Velocity**: Entre mayor sea el valor, más rápido se moverá.
-  * **Step Size**: Entre menor sea el valor, más cortos serán los pasos.
-
-  Puedes usar estas combinaciones al crear tu skin personalizado, dependiendo si se arrastra, si salta, etc.
-
-**Run at Startup**: Actívala para que se inicie al momento que enciendes tu PC, puedes desactivarla también cuando desees. IMPORTANTE; una vez que actives esta opción, si vuelves a mover la carpeta de **Droplet Screenmate** de lugar ya no se iniciará con tu PC, aunque tenga el check. Únicamente debes desactivarla y activarla nuevamente.
-
-**About**: Licencia MIT, créditos y enlace al respositorio.
-
-**Exit**: Cierra la aplicación. Sin embargo, cuando vuelvas a abrirla nuevamente, tu configuración y skin seguirán siendo los mismos ya que todo se guarda en archivos _Config.ini_
-
-<br>
-
-<picture><img src="assets/Droplet-Screenmate.gif"/></picture>
-
-## Crear tu propia mascota
-
-Es muy fácil, solo deberás editar o crear 5 imágenes. Descarga la plantilla y descomprime el archivo ZIP, encontrarás algunas carpetas llamadas:
-* Default - PNG, SVG, PSD y AF (Affinity).
-* Outline - PNG, SVG y PSD
-
-_Default_ está listo para ser decorado y _Outline_ es solamente el borde con ojitos. Elige el estilo y formato que requieras para empezar a editarlas; incluso puedes crear cualquier diseño de mascota siempre y cuando las dimensiones sean de 128 ⨯ 128 px.
-
-Una vez que hayas editado **drag**, **idle**, **idleAlt**, **walk-1** y **walk-2**, deberás guardar cada una en formato PNG (sin reenombrarlas) dentro de una nueva carpeta, por ejemplo "Mi mascota". Posteriormente copia el archivo **Config.ini** y pégalo dentro esa carpeta que acabas de crear.
-
-La configuración de tu nuevo skin la puedes editar en la aplicación y los cambios se van a guardar automáticamente. Recuerda que puedes compartir tu skin con cualquier persona una vez lo hayas terminado.
-
-<picture><img src="assets/Template.png"/></picture>
-
-<br>
+## Opciones
+<picture><img alt="Drop Icons" src="assets/Drop-Icons-Options-v3.gif"/></picture>
 
 ## Info
-* Este software se encuentra bajo **MIT License** ([leer texto completo](https://github.com/genesistoxical/pixie-cursors/blob/master/LICENSE){:target="_blank"}).
-* `❤️ Q'zero Cursor` Black cursor with danger style: [`Descarga`](https://genesistoxical.github.io/qzero-cursor/){:target="_blank"}.
-* Copyright (c) 2026 Génesis Toxical.
-
+* Drop Icons está basado en [Iconizer](https://github.com/willnode/Iconizer){:target="_blank"}. Lee más creditos [aquí](https://github.com/genesistoxical/drop-icons#credits){:target="_blank"}.
+* German Translation por **uDEV2019**.
+* Simplified Chinese Translation por **huqiu2**.
+* French Translation por **logounet**.
+* Este software se encuentra bajo **MIT License** ([leer texto completo](https://github.com/genesistoxical/drop-icons/blob/master/LICENSE){:target="_blank"}).
+* Copyright (c) 2022 - 2026 Génesis Toxical.
 <br>
 <style>
-    h2.project-tagline:before {content: "Una mascota corriendo por tu escritorio";}
-    a.btn:nth-child(3):after {content: "escargar Plantilla";}
-    a.btn:nth-child(4):after {content: "escargar App";}
+    h2.project-tagline:before {content: "Aplicación para convertir imagenes en iconos ";}
+    a.btn:nth-child(3):after {content: "escargar Portable";}
+    a.btn:nth-child(4):after {content: "escargar Instalable";}
 </style>
