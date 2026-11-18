@@ -66,7 +66,6 @@ Size = multiple
 [Window]
 StartupPosition = center
 Margin = 56
-
 ```
 
 ## Opciones
