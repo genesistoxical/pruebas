@@ -46,7 +46,6 @@ By clicking on the upper Info button, a new window will appear in which you can:
 To choose whether Drop Icons is on top of all windows or not, right-click anywhere in the main window and choose Enable Topmost or Disable Topmost.
 
 <br>
-
 You can also customize the main window's initial position and margin by editing the **Config.ini** file.
 
 - Installer version location: _%AppData%\Drop Icons_
