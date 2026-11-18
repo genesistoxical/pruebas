@@ -53,16 +53,6 @@ También puedes personalizar la posición y margen de la ventana editando el arc
 **StartupPosition** opciones: `topleft`, `topright`, `bottomleft`, `bottomright` o `center`.
 
 ```
-[Options]
-Language = en
-Topmost = false
-
-[Theme]
-#FF9280FF
-
-[Format]
-Size = multiple
-
 [Window]
 StartupPosition = center
 Margin = 56
