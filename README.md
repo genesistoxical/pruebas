@@ -88,9 +88,8 @@ By clicking on the upper Info button, a new window will appear in which you can:
 
 <br>
 
-To choose whether Drop Icons is on top of all windows (Topmost) or not,
-right-click anywhere in the main window and choose Enable Topmost or Disable
-Topmost.
+To choose whether Drop Icons is on top of all windows or not, right-click anywhere
+in the main window and choose Enable Topmost or Disable Topmost.
 
 You can also customize the main window's initial position and margin by editing
 the `Config.ini` file. See [Config](#config) for available options.
