@@ -155,7 +155,7 @@ Language = en
 Topmost = false
 
 [Theme]
-#FF9280FF
+Color = #FF9280FF
 
 [Format]
 Size = multiple
