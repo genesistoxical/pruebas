@@ -2,7 +2,7 @@ Drop Icons is an open source app to convert images to icons (.ico) for Windows, 
 
 Supported Languages
 
-<img/>‎<img width="21" height="15" alt="US" src="https://github.com/user-attachments/assets/b5e6447c-6845-4b8d-b3df-ee45bb465706"/>‎ ‎ ‎ <img width="21" height="15" alt="MX" src="https://github.com/user-attachments/assets/0bc0851a-228a-4df2-aa0d-ba2bdc4c7b18"/>‎ ‎ ‎ <img width="21" height="15" alt="CN" src="https://github.com/user-attachments/assets/64983f24-791e-4141-a256-032940058f65"/>‎ ‎ ‎ <img width="21" height="15" alt="DE" src="https://github.com/user-attachments/assets/c07cb917-60c3-4aed-88ae-82e223ea7c49"/>‎ ‎ ‎ <img width="21" height="15" alt="FR" src="https://github.com/user-attachments/assets/14a3b116-da55-40b6-9a78-71a75fa4de4a"/>
+<img/>‎<img width="21" height="15" alt="US" src="https://github.com/user-attachments/assets/b5e6447c-6845-4b8d-b3df-ee45bb465706"/>‎ ‎ ‎ <img width="21" height="15" alt="MX" src="https://github.com/user-attachments/assets/0bc0851a-228a-4df2-aa0d-ba2bdc4c7b18"/>‎ ‎ ‎ <img width="21" height="15" alt="CN" src="https://github.com/user-attachments/assets/64983f24-791e-4141-a256-032940058f65"/>‎ ‎ ‎ <img width="21" height="15" alt="DE" src="https://github.com/user-attachments/assets/c07cb917-60c3-4aed-88ae-82e223ea7c49"/>‎ ‎ ‎ <img width="21" height="15" alt="FR" src="https://github.com/user-attachments/assets/14a3b116-da55-40b6-9a78-71a75fa4de4a"/> ‎ ‎ <img width="21" height="15" alt="CT" src="https://github.com/user-attachments/assets/b19b2c79-a025-4c3d-bec4-3513e425be13"/> ‎ ‎ <img width="21" height="15" alt="CT" src="https://github.com/user-attachments/assets/422baa46-3b8e-4ff8-8ad6-0001dde4e4c0"/>
 
 ## Features
 * Clean and intuitive interface.
@@ -16,6 +16,7 @@ Supported Languages
 * Format options to choose sizes included within the icon, multiple and 256 px. [𝐢](#details)
 * Prevent duplication of an image that has been previously added.
 * Option to generate tiny icon.
+* Customize the initial window position and screen-edge margin through Config.ini.
 * Adaptive corners (rounded or metro), depending on the OS version.
 
 ## Preview
@@ -44,6 +45,29 @@ By clicking on the upper Info button, a new window will appear in which you can:
 
 To choose whether Drop Icons is on top of all windows (Topmost) or not, right-click anywhere in the main window and choose Enable Topmost or Disable Topmost.
 
+You can also customize the main window's initial position and margin by editing the `Config.ini` file.
+
+- Installer version location: _%AppData%\Drop Icons_
+- Portable version includes it in the same folder.
+
+**StartupPosition** options: `topleft`, `topright`, `bottomleft`, `bottomright` or `center`.
+
+```
+[Options]
+Language = en
+Topmost = false
+
+[Theme]
+#FF9280FF
+
+[Format]
+Size = multiple
+
+[Window]
+StartupPosition = center
+Margin = 56
+```
+
 ## Options
 <picture><img src="assets/Drop-Icons-Options-v2.gif"/></picture>
 
@@ -52,6 +76,8 @@ To choose whether Drop Icons is on top of all windows (Topmost) or not, right-cl
 * German Translation by **uDEV2019**.
 * Simplified Chinese Translation by **huqiu2**.
 * French Translation by **logounet**.
+* Catalan Translation by **gg21kiy**, **JTE-19**.
+* Portuguese Translation by **0xCHANDA**.
 * This software is under **MIT License** ([read full text](https://github.com/genesistoxical/drop-icons/blob/master/LICENSE){:target="_blank"}).
 * Copyright (c) 2022 - 2026 Génesis Toxical.
 <br>
