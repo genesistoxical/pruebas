@@ -243,13 +243,13 @@ posición incorrecta en algunas computadoras.
 [📍Catalan language pack](https://github.com/genesistoxical/drop-icons/issues/13) y 
 [📍Brazilian Portuguese localization](https://github.com/genesistoxical/drop-icons/pull/14).
 
-Opciones de posición de inicio en el **Config.ini** 
-[📍Configurable window startup position and margin](https://github.com/genesistoxical/drop-icons/pull/16) 
-y solución con errores en las traducciones [📍Fix language name inconsistencies and translation errors](https://github.com/genesistoxical/drop-icons/issues/15).
-
 Se han ordenado los idiomas en una sola carpeta, código optimizado, problemas del commit
 anterior solucionados, paquetes de NuGet actualizados y las vistas previas de la página
 principal han sido arregladas.
+
+Opciones de posición de inicio en el **Config.ini** 
+[📍Configurable window startup position and margin](https://github.com/genesistoxical/drop-icons/pull/16) 
+y solución con errores en las traducciones [📍Fix language name inconsistencies and translation errors](https://github.com/genesistoxical/drop-icons/issues/15).
 
 ## Licencia
 
