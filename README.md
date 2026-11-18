@@ -155,6 +155,7 @@ Size = multiple
 [Window]
 StartupPosition = center
 Margin = 56
+
 ```
 
 Window positioning uses the primary monitor's working area, excluding the
