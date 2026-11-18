@@ -93,12 +93,13 @@ Dando click en el botón superior de Info, aparecerá una nueva ventana en la qu
 
 <br>
 
-Para elegir que Drop Icons esté encima de todas las ventanas (Topmost) o no, da
-clic derecho en cualquier lugar de la ventana principal y elige Habilitar
-Topmost o Deshabilitar Topmost.
+Para elegir que Drop Icons esté encima de todas las ventanas o no, da clic derecho
+en cualquier lugar de la ventana principal y elige Activar mantener encima o Desactivar
+mantener encima..
 
 También puedes personalizar la posición y margen de la ventana editando el
-archivo `Config.ini`. Dale un vistazo a [Configuración](#configuración) para las opciones disponibles.
+archivo `Config.ini`. Dale un vistazo a [Configuración](#configuración) para las
+opciones disponibles.
 
 ## Opciones
 
