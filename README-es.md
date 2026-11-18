@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-<b>• Lenguajes Compatibles •</b>
+<b>• Idiomas Compatibles •</b>
 </BR>
 <img width="21" height="15" alt="US" src="https://github.com/user-attachments/assets/b5e6447c-6845-4b8d-b3df-ee45bb465706"/>‎ ‎ ‎ <img width="21" height="15" alt="MX" src="https://github.com/user-attachments/assets/0bc0851a-228a-4df2-aa0d-ba2bdc4c7b18"/>‎ ‎ ‎ <img width="21" height="15" alt="CN" src="https://github.com/user-attachments/assets/64983f24-791e-4141-a256-032940058f65"/>‎ ‎ ‎ <img width="21" height="15" alt="DE" src="https://github.com/user-attachments/assets/c07cb917-60c3-4aed-88ae-82e223ea7c49"/>‎ ‎ ‎ <img width="21" height="15" alt="FR" src="https://github.com/user-attachments/assets/14a3b116-da55-40b6-9a78-71a75fa4de4a"/>‎ ‎ <img width="21" height="15" alt="CT" src="https://github.com/user-attachments/assets/b19b2c79-a025-4c3d-bec4-3513e425be13"/> ‎ ‎ <img width="21" height="15" alt="CT" src="https://github.com/user-attachments/assets/422baa46-3b8e-4ff8-8ad6-0001dde4e4c0"/>
 </p>
