@@ -232,7 +232,8 @@ some computers.
 [📍Catalan language pack](https://github.com/genesistoxical/drop-icons/issues/13) and
 [📍Brazilian Portuguese localization](https://github.com/genesistoxical/drop-icons/pull/14).
 
-Languages ​​have been organized into a single folder, code has been optimized, issues from the previous commit have been resolved, NuGet packages have been updated and the main page previews have been fixed.
+Languages have been organized into a single folder, code optimized, issues from the
+previous commit resolved, NuGet packages updated and main page previews fixed.
 
 Startup position options in **Config.ini**
 [📍Configurable window startup position and margin](https://github.com/genesistoxical/drop-icons/pull/16)
