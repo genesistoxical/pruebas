@@ -14,7 +14,7 @@
 <p align="center">
 <b>• Supported Languages •</b>
 </BR>
-<img width="21" height="15" alt="US" src="https://github.com/user-attachments/assets/b5e6447c-6845-4b8d-b3df-ee45bb465706"/>‎ ‎ ‎ <img width="21" height="15" alt="MX" src="https://github.com/user-attachments/assets/0bc0851a-228a-4df2-aa0d-ba2bdc4c7b18"/>‎ ‎ ‎ <img width="21" height="15" alt="CN" src="https://github.com/user-attachments/assets/64983f24-791e-4141-a256-032940058f65"/>‎ ‎ ‎ <img width="21" height="15" alt="DE" src="https://github.com/user-attachments/assets/c07cb917-60c3-4aed-88ae-82e223ea7c49"/>‎ ‎ ‎ <img width="21" height="15" alt="FR" src="https://github.com/user-attachments/assets/14a3b116-da55-40b6-9a78-71a75fa4de4a"/>
+<img width="21" height="15" alt="US" src="https://github.com/user-attachments/assets/b5e6447c-6845-4b8d-b3df-ee45bb465706"/>‎ ‎ ‎ <img width="21" height="15" alt="MX" src="https://github.com/user-attachments/assets/0bc0851a-228a-4df2-aa0d-ba2bdc4c7b18"/>‎ ‎ ‎ <img width="21" height="15" alt="CN" src="https://github.com/user-attachments/assets/64983f24-791e-4141-a256-032940058f65"/>‎ ‎ ‎ <img width="21" height="15" alt="DE" src="https://github.com/user-attachments/assets/c07cb917-60c3-4aed-88ae-82e223ea7c49"/>‎ ‎ ‎ <img width="21" height="15" alt="FR" src="https://github.com/user-attachments/assets/14a3b116-da55-40b6-9a78-71a75fa4de4a"/> ‎ ‎ <img width="21" height="15" alt="CT" src="https://github.com/user-attachments/assets/b19b2c79-a025-4c3d-bec4-3513e425be13"/> ‎ ‎ <img width="21" height="15" alt="CT" src="https://github.com/user-attachments/assets/422baa46-3b8e-4ff8-8ad6-0001dde4e4c0"/>
 </p>
 
 <p align="center">
@@ -27,8 +27,6 @@
 - Quickly convert multiple images to icons at once, with Drag and Drop feature.
 - Support for .png .jpg .jpeg .jfif .bmp .gif and .svg images.
 - Customize theme color.
-- Customize the initial window position and screen-edge margin through
-  Config.ini.
 - Number of images to convert, subtracting three that are displayed as preview.
 - Settings are saved in an .ini file, except for switches.
 - Save icons in the same folder (default) or in a specific one.
@@ -37,6 +35,8 @@
   [𝐢](#details)
 - Prevent duplication of an image that has been previously added.
 - Option to generate tiny icon.
+- Customize the initial window position and screen-edge margin through
+  Config.ini.
 - Adaptive corners (rounded or metro), depending on the OS version.
 
 ## Preview
@@ -132,8 +132,15 @@ Release folder (due to relative paths).
 ## Config
 
 `Config.ini` file stores information about the language, theme color, icon
-format, whether or not the Topmost option is enabled, and the initial window
+format, whether or not the Topmost option is enabled and the initial window
 position.
+
+- Installer version location: _%AppData%\Drop Icons_
+- Non-installable (bin) version includes it in the same folder.
+
+**StartupPosition** options: `topleft`, `topright`, `bottomleft`, `bottomright` or `center`.
+<br>
+**Margin** is also configurable.
 
 ```
 [Options]
@@ -147,11 +154,8 @@ Topmost = false
 Size = multiple
 
 [Window]
-; Initial window position: TopLeft, TopRight, BottomLeft, BottomRight or Center
-StartupPosition = BottomRight
-
-; Distance from the screen's working area edges (WPF units)
-Margin = 16
+StartupPosition = center
+Margin = 56
 ```
 
 Window positioning uses the primary monitor's working area, excluding the
@@ -200,6 +204,8 @@ _You can find all licenses [here](/src/DropIcons/Docs)._
 - German Translation by **uDEV2019**.
 - Simplified Chinese Translation by **huqiu2**.
 - French Translation by **logounet**.
+- Catalan Translation by **gg21kiy**, **JTE-19**.
+- Portuguese Translation by **0xCHANDA**.
 
 ## What's new?
 
