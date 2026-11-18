@@ -136,7 +136,7 @@ format, whether or not the Topmost option is enabled and the initial window
 position.
 
 - Installer version location: _%AppData%\Drop Icons_
-- Non-installable (bin) version includes it in the same folder.
+- Portable version includes it in the same folder.
 
 **StartupPosition** options: `topleft`, `topright`, `bottomleft`, `bottomright` or `center`.
 <br>
