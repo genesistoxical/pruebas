@@ -53,16 +53,6 @@ You can also customize the main window's initial position and margin by editing 
 **StartupPosition** options: `topleft`, `topright`, `bottomleft`, `bottomright` or `center`.
 
 ```
-[Options]
-Language = en
-Topmost = false
-
-[Theme]
-#FF9280FF
-
-[Format]
-Size = multiple
-
 [Window]
 StartupPosition = center
 Margin = 56
