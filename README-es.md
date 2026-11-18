@@ -163,7 +163,6 @@ Size = multiple
 [Window]
 StartupPosition = center
 Margin = 56
-
 ```
 
 Para posicionar la ventana usa las medidas del monitor, ignorando la barra de
