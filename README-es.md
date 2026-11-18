@@ -32,7 +32,7 @@
   previa.
 - Guarda la configuración en un archivo .ini, excepto para los switches.
 - Guarda los iconos en la misma carpeta (por defecto) o en una específica.
-- Habilita y deshabilita Topmost.
+- Activar y desactivar mantener encima.
 - Opciones de formato para elegir los tamaños incluidos dentro del icono,
   múltiple y 256 px. [𝐢](#details)
 - Evita la duplicación de una imagen que se ha añadido previamente.
