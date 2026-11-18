@@ -211,6 +211,8 @@ _Puedes encontrar todas las licencias [aquí](/src/DropIcons/Docs)._
 - German Translation por **uDEV2019**.
 - Simplified Chinese Translation por **huqiu2**.
 - French Translation por **logounet**.
+- Catalan Translation por **gg21kiy**, **JTE-19**.
+- Portuguese Translation por **0xCHANDA**.
 
 ## ¿Qué es lo nuevo?
 
