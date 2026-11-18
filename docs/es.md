@@ -1,6 +1,6 @@
 Drop Icons es una aplicación para convertir imágenes a iconos (.ico) para Windows, con una función simple de arrastrar y soltar.
 
-Lenguajes Compatibles
+Idiomas Compatibles
 
 <img/>‎<img width="21" height="15" alt="US" src="https://github.com/user-attachments/assets/b5e6447c-6845-4b8d-b3df-ee45bb465706"/>‎ ‎ ‎ <img width="21" height="15" alt="MX" src="https://github.com/user-attachments/assets/0bc0851a-228a-4df2-aa0d-ba2bdc4c7b18"/>‎ ‎ ‎ <img width="21" height="15" alt="CN" src="https://github.com/user-attachments/assets/64983f24-791e-4141-a256-032940058f65"/>‎ ‎ ‎ <img width="21" height="15" alt="DE" src="https://github.com/user-attachments/assets/c07cb917-60c3-4aed-88ae-82e223ea7c49"/>‎ ‎ ‎ <img width="21" height="15" alt="FR" src="https://github.com/user-attachments/assets/14a3b116-da55-40b6-9a78-71a75fa4de4a"/> ‎ <img width="21" height="15" alt="CT" src="https://github.com/user-attachments/assets/b19b2c79-a025-4c3d-bec4-3513e425be13"/> ‎ ‎ <img width="21" height="15" alt="CT" src="https://github.com/user-attachments/assets/422baa46-3b8e-4ff8-8ad6-0001dde4e4c0"/>
 
@@ -42,9 +42,9 @@ Dando click en el botón superior de Info, aparecerá una nueva ventana en la qu
 - **Contenido de terceros:** En la parte izquierda están los nombres de cada librería, proyecto, iconos o tipografías que fueron utilizados, cliquea uno para leer su licencia y autor(a) o autores(as), además de una corta descripción. Puedes hacer clic sobre el icono de clip para ir al repositorio/sitio oficial de cada uno y cambiar de página con **Siguiente 🢖🢖** o **🢔🢔 Atrás**.
 
 <br>
-
 Para elegir que Drop Icons esté encima de todas las ventanas o no, da clic derecho en cualquier lugar de la ventana principal y elige Activar mantener encima o Desactivar mantener encima.
 
+<br>
 También puedes personalizar la posición y margen de la ventana editando el archivo **Config.ini**.
 
 - Ubicación en la versión instalable: _%AppData%\Drop Icons_
