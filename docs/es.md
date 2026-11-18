@@ -45,7 +45,7 @@ Dando click en el botón superior de Info, aparecerá una nueva ventana en la qu
 
 Para elegir que Drop Icons esté encima de todas las ventanas o no, da clic derecho en cualquier lugar de la ventana principal y elige Activar mantener encima o Desactivar mantener encima.
 
-También puedes personalizar la posición y margen de la ventana editando el archivo `Config.ini`.
+También puedes personalizar la posición y margen de la ventana editando el archivo **Config.ini**.
 
 - Ubicación en la versión instalable: _%AppData%\Drop Icons_
 - La versión portable lo incluye en la misma carpeta.
