@@ -14,7 +14,7 @@
 <p align="center">
 <b>• Lenguajes Compatibles •</b>
 </BR>
-<img width="21" height="15" alt="US" src="https://github.com/user-attachments/assets/b5e6447c-6845-4b8d-b3df-ee45bb465706"/>‎ ‎ ‎ <img width="21" height="15" alt="MX" src="https://github.com/user-attachments/assets/0bc0851a-228a-4df2-aa0d-ba2bdc4c7b18"/>‎ ‎ ‎ <img width="21" height="15" alt="CN" src="https://github.com/user-attachments/assets/64983f24-791e-4141-a256-032940058f65"/>‎ ‎ ‎ <img width="21" height="15" alt="DE" src="https://github.com/user-attachments/assets/c07cb917-60c3-4aed-88ae-82e223ea7c49"/>‎ ‎ ‎ <img width="21" height="15" alt="FR" src="https://github.com/user-attachments/assets/14a3b116-da55-40b6-9a78-71a75fa4de4a"/>
+<img width="21" height="15" alt="US" src="https://github.com/user-attachments/assets/b5e6447c-6845-4b8d-b3df-ee45bb465706"/>‎ ‎ ‎ <img width="21" height="15" alt="MX" src="https://github.com/user-attachments/assets/0bc0851a-228a-4df2-aa0d-ba2bdc4c7b18"/>‎ ‎ ‎ <img width="21" height="15" alt="CN" src="https://github.com/user-attachments/assets/64983f24-791e-4141-a256-032940058f65"/>‎ ‎ ‎ <img width="21" height="15" alt="DE" src="https://github.com/user-attachments/assets/c07cb917-60c3-4aed-88ae-82e223ea7c49"/>‎ ‎ ‎ <img width="21" height="15" alt="FR" src="https://github.com/user-attachments/assets/14a3b116-da55-40b6-9a78-71a75fa4de4a"/>‎ ‎ <img width="21" height="15" alt="CT" src="https://github.com/user-attachments/assets/b19b2c79-a025-4c3d-bec4-3513e425be13"/> ‎ ‎ <img width="21" height="15" alt="CT" src="https://github.com/user-attachments/assets/422baa46-3b8e-4ff8-8ad6-0001dde4e4c0"/>
 </p>
 
 <p align="center">
@@ -33,11 +33,11 @@
 - Guarda la configuración en un archivo .ini, excepto para los switches.
 - Guarda los iconos en la misma carpeta (por defecto) o en una específica.
 - Habilita y deshabilita Topmost.
-- Personalización de la posición inicial y el margen de la ventana.
 - Opciones de formato para elegir los tamaños incluidos dentro del icono,
   múltiple y 256 px. [𝐢](#details)
 - Evita la duplicación de una imagen que se ha añadido previamente.
 - Opción para generar un icono mini.
+- Personalización de la posición inicial y márgen de la ventana a través de Config.ini
 - Esquinas adaptables (redondeadas o metro), dependiendo la versión del sistema
   operativo.
 
@@ -97,6 +97,9 @@ Para elegir que Drop Icons esté encima de todas las ventanas (Topmost) o no, da
 clic derecho en cualquier lugar de la ventana principal y elige Habilitar
 Topmost o Deshabilitar Topmost.
 
+También puedes personalizar la posición y margen de la ventana editando el
+archivo `Config.ini`. Dale un vistazo a [Configuración](#configuración) para las opciones disponibles.
+
 ## Opciones
 
 <a href="#"><img src="docs/assets/Drop-Icons-Options-v3.gif"/></a>
@@ -135,7 +138,15 @@ y/o la carpeta Release (debido a las rutas relativas).
 ## Configuración
 
 El archivo `Config.ini` almacena información del lenguaje, color del tema,
-format de icono y si está activada o no la opción TopMost.
+formato de icono, si está activada o no la opción de mantener encima y la
+posición inicial de la ventana.
+
+- Ubicación en la versión instalable: _%AppData%\Drop Icons_
+- La versión portable lo incluye en la misma carpeta.
+
+**StartupPosition** opciones: `topleft`, `topright`, `bottomleft`, `bottomright` o `center`.
+<br>
+**Margin** también es configurable.
 
 ```
 [Options]
@@ -149,11 +160,8 @@ Topmost = false
 Size = multiple
 
 [Window]
-; Posición inicial: TopLeft, TopRight, BottomLeft, BottomRight, Center
-StartupPosition = BottomRight
-
-; Distancia respecto a los bordes de la pantalla (unidades WPF)
-Margin = 16
+StartupPosition = center
+Margin = 56
 ```
 
 Para posicionar la ventana usa las medidas del monitor, ignorando la barra de
