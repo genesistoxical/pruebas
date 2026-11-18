@@ -213,15 +213,11 @@ _You can find all licenses [here](/src/DropIcons/Docs)._
 both the application and installer. To avoid interface issues, updates for
 **HandyControls** package have been disabled.
 
-<br>
-
-`Version 3.2.0` includes another language:
+<br>`Version 3.2.0` includes another language:
 [📍Simplified Chinese language](https://github.com/genesistoxical/drop-icons/issues/8),
 for app only.
 
-<br>
-
-`Version 3.6.0` another translation was added (Wow, thanks):
+<br>`Version 3.6.0` another translation was added (Wow, thanks):
 [📍French language](https://github.com/genesistoxical/drop-icons/issues/9), for
 app only. Option to create 512px icons in **Format** was also included
 [📍Please add 512 px](https://github.com/genesistoxical/drop-icons/discussions/10).
@@ -229,10 +225,18 @@ app only. Option to create 512px icons in **Format** was also included
 Now the **Language** option unfolds and a tooltip appears when you hover over
 it, to show credits.
 
-<br>
-
-`Version 3.6.1` fixed an issue where context menus were in the wrong position on
+<br>`Version 3.6.1` fixed an issue where context menus were in the wrong position on
 some computers.
+
+<br>`Version 4.0.0` new translations:
+[📍Catalan language pack](https://github.com/genesistoxical/drop-icons/issues/13) and
+[📍Brazilian Portuguese localization](https://github.com/genesistoxical/drop-icons/pull/14).
+
+Languages ​​have been organized into a single folder, code has been optimized, issues from the previous commit have been resolved, NuGet packages have been updated and the main page previews have been fixed.
+
+Startup position options in **Config.ini**
+[📍Configurable window startup position and margin](https://github.com/genesistoxical/drop-icons/pull/16)
+and fixes for translation errors [📍Fix language name inconsistencies and translation errors](https://github.com/genesistoxical/drop-icons/issues/15).
 
 ## License
 
