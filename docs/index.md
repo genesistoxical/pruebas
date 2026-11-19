@@ -59,7 +59,7 @@ Margin = 56
 ```
 
 ## Options
-<picture><img src="assets/Drop-Icons-Options-v2.gif"/></picture>
+<picture><img alt="Drop Icons" src="assets/Drop-Icons-Options-v3.gif"/></picture>
 
 ## Info
 * Drop Icons is based on [Iconizer](https://github.com/willnode/Iconizer){:target="_blank"}. Read more credits [here](https://github.com/genesistoxical/drop-icons#credits){:target="_blank"}.
